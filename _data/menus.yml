@@ -1,0 +1,21 @@
+main:
+  - name: "Modules"
+    url: "/modules/"
+    weight: 2
+  - name: "Additional Resources"
+    url: "/additional-resources/"
+    weight: 3
+  - name: "About Us"
+    url: "/about/"
+    weight: 1
+  - name: "Start"
+    url: "/modules/"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

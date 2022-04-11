@@ -3,18 +3,20 @@ permalink: pretty
 title: "Data Curation Network"
 
 #For navigation bar logo
-#logo:
-#mobile: "images/Logo_DCN_VerdanaLine.png"
-#mobile_height: "32px"
-#mobile_width: "32px"
-#desktop: "images/Logo_DCN_VerdanaLine.png"
-#desktop_height: "32px"
-#desktop_width: "120px"
+logo:
+mobile: "images/Logo_DCN_Curated.png"
+mobile_height: "32px"
+mobile_width: "32px"
+desktop: "images/Logo_DCN_Curated.png"
+desktop_height: "32px"
+desktop_width: "120px"
 
 collections:
   services:
     output: true
   team:
+    output: true
+  modules:
     output: true
 
 defaults:
@@ -28,6 +30,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "modules"
+    values:
+      layout: "module"
 
 sass:
   indentWidth: 4

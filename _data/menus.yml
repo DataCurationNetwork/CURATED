@@ -9,7 +9,7 @@ main:
     url: "/about/"
     weight: 1
   - name: "Start"
-    url: "/modules/"
+    url: "/data/"
     weight: 5
 
 footer:

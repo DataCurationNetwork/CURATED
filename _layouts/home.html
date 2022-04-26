@@ -25,7 +25,7 @@ bodyClass: "page-home"
     <div class="row justify-content-start">
       <b style="padding-right:10%; padding-bottom:1%;">Through completion of the CURATED Training, you will learn how to:</b>
       {% assign weighted_services = site.services | sort: "weight" %}
-      <table>
+      <table border=1 frames="hsides" rules="rows">
       {% for service in weighted_services %}
       <tr>
       <div class="">

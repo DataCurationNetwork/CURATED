@@ -16,6 +16,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Citations"
+    url: "/citations/"
     weight: 2

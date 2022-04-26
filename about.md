@@ -5,48 +5,25 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+<h2>What is the Data Curation Network?</h2>
 
-## Ne verba patulosque numen vix libet
+The Data Curation Network is a community-led network of professional data curators that aim to empower researchers to publish high quality data in an ethical and FAIR way, collaborate to advance the art and science of data curation by creating, adopting, and openly sharing best practices, and support thoughtful, innovative, and inclusive data curation training and professional development opportunities.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+<h2>What is data curation?</h2>
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Data curation enables data discovery and retrieval, maintains data quality, adds value, and provides for re-use over time through activities including authentication, archiving, metadata creation, digital preservation, and transformation. Data curators collaborate with researchers to share data ethically and in ways that are findable, accessible, interoperable, and reusable (FAIR).
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+<h2>What is the CURATED Training?</h2>
 
-## Postquam tamen
+The Data Curation Network is pleased to provide online CURATED training. The goal of the CURATED Training is to offer an introduction to applied data curation. This training is designed for those completely new to data curation, those hoping to refresh their data curation skills, or those looking to apply data curation knowledge to the management of their own research data.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Learners will:
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+<ul>
+<li>Increase understanding of data curation practices and tools.</li>
+<li>Apply the CURATE(D) model to a data deposit.</li><br>
+</ul>
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+<strong>The CURATED training modules were developed as part of the Specialized Data Curation Training program funded by the Institute of Museum and Library Services (IMLS) ##RE-85-18-004018.</strong><br>
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+(2022), Data Curation Network: CURATED Training. <a href="https://datacurationnetwork.github.io/CURATED/">https://datacurationnetwork.github.io/CURATED/</a>

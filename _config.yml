@@ -7,9 +7,9 @@ logo:
 mobile: "images/Logo_DCN_Curated.png"
 mobile_height: "32px"
 mobile_width: "32px"
-desktop: "images/Logo_DCN_Curated.png"
-desktop_height: "32px"
-desktop_width: "120px"
+desktop: "images/DCN_Curated_Square.jpg"
+desktop_height: "200px"
+desktop_width: "200px"
 
 collections:
   services:

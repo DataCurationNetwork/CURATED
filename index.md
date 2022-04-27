@@ -2,13 +2,14 @@
 title: Data Curation Network
 layout: home
 description: ""
-intro_image: "images/Logo_DCN_square.png"
+intro_image: "images/homepageimage2.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
 # What is CURATED Training?
+
 
 Data curation is the encompassing work and actions taken by researchers and curators of a research data repository or data archive in order to provide meaningful and enduring access to research data. Within the Data Curation Network we’ve identified over 50 data curation activities that may be performed by researchers or curators to make data more Findable, Accessible, Interoperable, and Reusable (FAIR).
 

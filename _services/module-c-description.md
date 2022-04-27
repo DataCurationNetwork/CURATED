@@ -1,5 +1,5 @@
 ---
-title: "C Step: Check Your Data"
+title: "C: Check Your Data"
 featured: true
 weight: 1
 layout: service

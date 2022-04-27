@@ -1,5 +1,5 @@
 ---
-title: "A Step: Augment the Data Deposit"
+title: "A: Augment the Data Deposit"
 featured: true
 weight: 4
 layout: service

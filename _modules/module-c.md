@@ -3,11 +3,14 @@ title: "C Step: Check the Data"
 layout: module
 ---
 
-<h4>Learning Outcomes</h4>
-Curators will be able to:<br>
-Perform curation actions such as conducting a file inventory and opening the files.
+<br>
+
+<h2>Learning Outcomes</h2>
+<b>Curators will be able to:</b><br>
+
+<p> Perform curation actions such as conducting a file inventory and opening the files.
 Check the submission for completeness based on a predefined criteria.
-Develop preliminary recommendations to be used for the “understand” step.
+Develop preliminary recommendations to be used for the “understand” step. </p>
 
 <h2>Terms to know</h2>
 
@@ -130,3 +133,5 @@ In this activity, using the checklist below, you will perform the C check on the
 <td><input type="checkbox"></td>
 </tr>
 </table>
+
+

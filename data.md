@@ -1,5 +1,5 @@
 ---
-title: Data
+title: Data Deposit
 layout: data
 permalink: "/data/"
 ---

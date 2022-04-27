@@ -1,5 +1,5 @@
 ---
-title: "E Step: Evaluate the Overall Data Package"
+title: "E: Evaluate the Overall Data Package"
 featured: true
 weight: 6
 layout: service

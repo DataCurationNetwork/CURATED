@@ -1,5 +1,5 @@
 ---
-title: "T Step: Transform File Formats"
+title: "T: Transform File Formats"
 featured: true
 weight: 5
 layout: service

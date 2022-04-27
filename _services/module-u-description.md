@@ -1,5 +1,5 @@
 ---
-title: "U Step: Understand Your Data"
+title: "U: Understand Your Data"
 featured: true
 weight: 2
 layout: service

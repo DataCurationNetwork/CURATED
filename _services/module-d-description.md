@@ -1,5 +1,5 @@
 ---
-title: "D Step: Document for Curation"
+title: "D: Document for Curation"
 featured: true
 weight: 7
 layout: service

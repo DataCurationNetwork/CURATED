@@ -1,5 +1,5 @@
 ---
-title: "R Step: Request Missing Information"
+title: "R: Request Missing Information"
 featured: true
 weight: 3
 layout: service

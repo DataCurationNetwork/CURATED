@@ -1,9 +1,9 @@
 ---
-title: Citations
+title: Citation
 layout: page
 description: Citations
 bodyClass: page-citations
-permalink: "/citations/"
+permalink: "/citation/"
 ---
 
 <ul>

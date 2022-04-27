@@ -165,4 +165,27 @@ Common things to look for during this step are the record level metadata, file i
 </tr>
 </table>
 
+<br>
+<h2>Additional Resources</h2>
+<h4>Tools</h4>
+<p>
+Here are some selected tools that can open a variety of data types.<br>
+<a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">[Link to table]</a>
+</p>
+
+
+
+<style>
+.flex-contianer {
+  display: flex;
+  justify-content: space-between;
+}
+</style>
+
+<br>
+
+<div class="flex-contianer">
+     <a class="button button-primary" href="# " target="_blank">Previous</a>
+     <a class="button button-primary" href="# " target="_blank"> Next</a>
+</div>
 

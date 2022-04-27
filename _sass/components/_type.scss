@@ -17,6 +17,7 @@ h1 {
 h2 {
   font-size: 24px;
   font-family: $font-family-heading;
+  color: #44729B;
   line-height: 1.4;
   margin-bottom: 10px;
   @include media-breakpoint-up(md) {

@@ -22,8 +22,8 @@ The Data Curation Network is pleased to provide online CURATED training. The goa
 Learners will:
 
 <ul>
-<li>Increase understanding of data curation practices and tools.</li>
-<li>Apply the CURATE(D) model to a data deposit.</li><br>
+<li><p>Increase understanding of data curation practices and tools.</p></li>
+<li><p>Apply the CURATE(D) model to a data deposit.</p></li><br>
 </ul>
 
 <strong>The CURATED training modules were developed as part of the Specialized Data Curation Training program funded by the Institute of Museum and Library Services (IMLS) ##RE-85-18-004018.</strong><br>

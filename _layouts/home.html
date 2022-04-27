@@ -38,11 +38,11 @@ bodyClass: "page-home"
 
 
 <div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
+  <div class="container pt-6 pb-6 pb-md-12">
     <h2 style="text-align: center; color:#44729B">CURATED Training Lesson Overview</h2>
     <br>
     <div class="row justify-content-start">
-      <b style="padding-right:10%; padding-bottom:1%;">Through completion of the CURATED Training, you will learn how to:</b>
+      <b style="padding-right:10%; padding-bottom:2%;">Through completion of the CURATED Training, you will learn how to:</b>
       {% assign weighted_services = site.services | sort: "weight" %}
       <table frames="hsides" rules="rows">
       {% for service in weighted_services %}

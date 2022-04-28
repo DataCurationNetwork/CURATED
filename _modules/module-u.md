@@ -78,3 +78,15 @@ Open the files and assess what you see using the “U Step Actions” described 
 How “understandable” do you think this dataset is?
 What would make this dataset more understandable? The answers you provide here will be helpful for the next step in the CURATED process.
 How do you see yourself using what you learned in your own practice?
+
+<style>
+.flex-contianer {
+  display: flex;
+  justify-content: space-between;
+}
+</style>
+
+<div class="flex-contianer">
+     <a class="button button-primary" href="/modules/module-c">Previous</a>
+     <a class="button button-primary" href="/modules/module-r"> Next</a>
+</div>

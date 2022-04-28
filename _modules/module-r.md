@@ -83,3 +83,15 @@ Using the dataset and information gathered from the “C” and “U” step, dr
 <br>
 <h4>Active Reflection:</h4>
 After writing your request, read the email as if you were the researcher receiving it. What might your reaction be? After considering the researcher’s point of view, would you change anything in your request and recommendations?
+
+<style>
+.flex-contianer {
+  display: flex;
+  justify-content: space-between;
+}
+</style>
+
+<div class="flex-contianer">
+     <a class="button button-primary" href="/modules/module-u">Previous</a>
+     <a class="button button-primary" href="/modules/module-a"> Next</a>
+</div>

@@ -87,6 +87,6 @@ How do you see yourself using what you learned in your own practice?
 </style>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="/modules/module-c">Previous</a>
-     <a class="button button-primary" href="/modules/module-r"> Next</a>
+     <a class="button button-primary" href="/CURATED/modules/module-c">Previous</a>
+     <a class="button button-primary" href="/CURATED/modules/module-r"> Next</a>
 </div>

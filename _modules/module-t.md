@@ -113,6 +113,6 @@ or Transformations</th>
 </style>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="/modules/module-a">Previous</a>
-     <a class="button button-primary" href="/modules/module-e"> Next</a>
+     <a class="button button-primary" href="/CURATED/modules/module-a">Previous</a>
+     <a class="button button-primary" href="/CURATED/modules/module-e"> Next</a>
 </div>

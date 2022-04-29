@@ -50,19 +50,73 @@ layout: module
 
 </blockquote>
 
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.collapsible {
+  background-color: #44729B;
+  color: white;
+  cursor: pointer;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-left: 20px;
+  width: 100%;
+  border: none;
+  border-bottom: 3px solid white;
+  text-align: left;
+  outline: none;
+}
+
+.active, .collapsible:hover {
+  background-color: #345878;
+}
+
+.content {
+  padding: 0 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: rgb(68,114,155,0.2);
+}
+
+.collapsible:after {
+  color: #ffffff;
+  content: "+";
+  font-size: 20px;
+  float: right;
+  margin-left: 5px;
+  padding-right: 10px;
+}
+
+.active:after {
+  content: "-";
+  color: #ffffff;
+  font-size: 20px;
+  padding-right: 10px;
+}
+</style>
+</head>
+<body>
 <br>
 <br>
 
 
-<h2>Terms to Know</h2>
+<h2>Terms to know</h2>
 
-<h4>Summary of the Request Step</h4>
+<br>
+<br>
 
-The Request step is where you communicate with the depositor to address the gaps identified in Check and Understand steps.
+<button class="collapsible">Summary of the Request Step</button>
+<div class="content">
+  <p>
+  The Request step is where you communicate with the depositor to address the gaps identified in Check and Understand steps.
 
-There are four main goals of the R step:
+  There are four main goals of the R step:
 
-<p>
+  <p>
   &nbsp;&nbsp;1. Establish a rapport with the depositor.
    <br>
   &nbsp;&nbsp;2. Let the depositor know what changes and additions need to be made to the data deposit to make it as complete and understandable as possible.
@@ -71,7 +125,32 @@ There are four main goals of the R step:
     <br>
   &nbsp;&nbsp;4. Get permission to make any recommended changes to improve the quality of the dataset.
  
-</p>
+  </p>
+  </p>
+</div>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
+
+
 
 <br>
 <br>

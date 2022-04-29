@@ -3,8 +3,26 @@ title: "T Step: Transform File Formats"
 layout: module
 ---
 
+<style>
+
+.highlighted-text {
+    padding: 0 0 5px 5px;
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 4px;
+    margin: 15px 5px 10px 0;
+    background-color: rgba(68, 114, 155, 0.1);
+    padding-top: 10px;
+    padding-left: 8px;
+
+}
+</style>
+
+
 <br>
 
+
+<blockquote class = "highlighted-text">
 <h2>Learning Outcomes</h2>
 <b> Curators will be able to: </b>
 
@@ -19,40 +37,124 @@ layout: module
   &nbsp;&nbsp;4. Identify challenges and benefits to file transformation.
  
 </p>
+</blockquote>
 
 <br>
 <br>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.collapsible {
+  background-color: #44729B;
+  color: white;
+  cursor: pointer;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-left: 20px;
+  width: 100%;
+  border: none;
+  border-bottom: 3px solid white;
+  text-align: left;
+  outline: none;
+}
+
+.active, .collapsible:hover {
+  background-color: #345878;
+}
+
+.content {
+  padding: 0 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: rgb(68,114,155,0.2);
+}
+
+.collapsible:after {
+  color: #ffffff;
+  content: "+";
+  font-size: 20px;
+  float: right;
+  margin-left: 5px;
+  padding-right: 10px;
+}
+
+.active:after {
+  content: "-";
+  color: #ffffff;
+  font-size: 20px;
+  padding-right: 10px;
+}
+</style>
+</head>
+<body>
 
 <h2>Terms to know</h2>
 
+<br>
+<br>
 
-
-<p>
- <b>&nbsp;&nbsp;1. Access</b> - The act of making information available. To increase ease of access, data should be made available in a convenient and modifiable form.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;2. Accessibility</b> - Content that is accessible is designed and developed so that people with disabilities can use it. For data curators, accessibility can include technical requirements that facilitate access for people with a diverse range of hearing, movement, sight, and cognitive ability (e.g. formatting that is compatible with screen readers), as well as requirements that facilitate user interactions (e.g. understandable instructions remove barriers to access, understanding and reuse of the data). Curating with accessibility in mind can improve data for all future users.
-   <br>
-   <br>
-
-<b>&nbsp;&nbsp;3. Conversion or Transformation </b>  - The migration of information from one file format to another, usually for purposes of preservation or access.
-  <br>
-  <br>
-
-
- <b>&nbsp;&nbsp;4. Interoperability</b> - Data formatted using a disciplinary standard for better integration with other datasets and/or systems.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;5. Preservation</b> - Ensuring that data remain intact, accessible and understandable over time. This requires preserving the integrity of digital files themselves, and can be very complicated. Preservation actions may include preserving the software required to interact with the data or emulating older systems, migrating data to new formats and new media, and ensuring there is sufficient metadata to understand, interpret, manage and preserve the data.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;6. Proprietary Format</b> - A proprietary format is a file format of a company, organization, or individual that contains data that is ordered and stored according to a particular encoding-scheme, designed by the company or organization to be secret, such that the decoding and interpretation of this stored data is easily accomplished only with particular software or hardware that the company itself has developed. 
+<button class="collapsible">Access</button>
+<div class="content">
+  <p>The act of making information available. To increase ease of access, data should be made available in a convenient and modifiable form.
+</p>
+</div>
+<button class="collapsible">Accessibility</button>
+<div class="content">
+  <p>Content that is accessible is designed and developed so that people with disabilities can use it. For data curators, accessibility can include technical requirements that facilitate access for people with a diverse range of hearing, movement, sight, and cognitive ability (e.g. formatting that is compatible with screen readers), as well as requirements that facilitate user interactions (e.g. understandable instructions remove barriers to access, understanding and reuse of the data). Curating with accessibility in mind can improve data for all future users. 
+</p>
+</div>
+<button class="collapsible">Conversion or Transformation</button>
+<div class="content">
+  <p>The migration of information from one file format to another, usually for purposes of preservation or access.
+</p>
+</div>
+<button class="collapsible">Interoperability </button>
+<div class="content">
+  <p>Data formatted using a disciplinary standard for better integration with other datasets and/or systems. </p>
+</div>
+<button class="collapsible">Preservation</button>
+<div class="content">
+  <p>Ensuring that data remain intact, accessible and understandable over time. This requires preserving the integrity of digital files themselves, and can be very complicated. Preservation actions may include preserving the software required to interact with the data or emulating older systems, migrating data to new formats and new media, and ensuring there is sufficient metadata to understand, interpret, manage and preserve the data.</p>
+</div>
+<button class="collapsible">Proprietary Format</button>
+<div class="content">
+  <p>A proprietary format is a file format of a company, organization, or individual that contains data that is ordered and stored according to a particular encoding-scheme, designed by the company or organization to be secret, such that the decoding and interpretation of this stored data is easily accomplished only with particular software or hardware that the company itself has developed. 
  
- <a href="https://en.wikipedia.org/wiki/Proprietary_format" target="_blank"> (Wikipedia) </a> 
- </p>
+ <a href="https://en.wikipedia.org/wiki/Proprietary_format" target="_blank"> (Wikipedia) </a> </p>
+</div>
+
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
+
 
 <br>
 <br>
+
+
+
 
 <h2>Summary of the Transform Step</h2>
 <p>
@@ -167,7 +269,7 @@ or Transformations</h4></th>
 <h2>T Step Checklist</h2>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access checklist here</a>
+     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access Curation Checklist</a>
 </div>
 
 <br>

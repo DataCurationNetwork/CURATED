@@ -53,6 +53,7 @@ layout: module
   padding-left: 20px;
   width: 100%;
   border: none;
+  border-bottom: 3px solid white;
   text-align: left;
   outline: none;
 }
@@ -62,7 +63,7 @@ layout: module
 }
 
 .content {
-  padding: 0 18px;
+  padding: 0 20px;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
@@ -236,7 +237,7 @@ Common things to look for during this step are the record level metadata, <b> fi
 <h2>C Step Checklist</h2>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="/CURATED/modules/module-c"> Access checklist here</a>
+     <a class="button button-primary" href="/CURATED/modules/module-c"> Access Curation Checklist</a>
 </div>
 <br>
 <table frames=hsides rules=rows>

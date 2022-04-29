@@ -26,13 +26,13 @@ layout: module
 <br>
 <p>
 <b>Curators will be able to:</b><br>
-  &nbsp;&nbsp;1. Identify different terms and processes associated with the Understand step of the CURATED model.
+  &nbsp;&nbsp;&nbsp;1. Identify different terms and processes associated with the Understand step of the CURATED model.
    <br>
-  &nbsp;&nbsp;2. Assess a dataset and its component files as a complete package.
+  &nbsp;&nbsp;&nbsp;2. Assess a dataset and its component files as a complete package.
    <br>
-  &nbsp;&nbsp;3. Engage in an activity to practice the U step on the dataset identified in the previous step (Check).
+  &nbsp;&nbsp;&nbsp;3. Engage in an activity to practice the U step on the dataset identified in the previous step (Check).
     <br>
-  &nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the R(equest) step: Request missing information.
+  &nbsp;&nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the R(equest) step: Request missing information.
  
 </p>
 </blockquote>
@@ -40,36 +40,114 @@ layout: module
 <br>
 <br>
 
-<h2>Terms to Know</h2>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.collapsible {
+  background-color: #44729B;
+  color: white;
+  cursor: pointer;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-left: 20px;
+  width: 100%;
+  border: none;
+  border-bottom: 3px solid white;
+  text-align: left;
+  outline: none;
+}
+
+.active, .collapsible:hover {
+  background-color: #345878;
+}
+
+.content {
+  padding: 0 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: rgb(68,114,155,0.2);
+}
+
+.collapsible:after {
+  color: #ffffff;
+  content: "+";
+  font-size: 20px;
+  float: right;
+  margin-left: 5px;
+  padding-right: 10px;
+}
+
+.active:after {
+  content: "-";
+  color: #ffffff;
+  font-size: 20px;
+  padding-right: 10px;
+}
+</style>
+</head>
+<body>
+<br>
+<br>
 
 
-<p>
- <b>&nbsp;&nbsp;1. Absolute path/relative path</b> - The path refers to the location of a file in the directory structure of where it is stored. <b><i>Absolute paths</i></b> provide a full list of all of the folders from the beginning (or “root”) of the storage unit. On most unix based systems, the root directory is “\.” On Windows systems, the root directory usually begins with a drive letter such as “C:\”. <b><i>Relative paths</i></b> provide a list of folders that begin at a designated folder (usually the initial folder of a project). In the case of curating for secondary use, relative paths are preferred for long term preservation since it is generally easier to share and preserve the initial project folder and all subsequent folders.
-
-
-   <br>
-   <br>
- <b>&nbsp;&nbsp;2. Codebook</b> -  a codebook provides a description of all the items contained in the data collection with information about individual files, measures, and codes used to represent those files. A codebook will often provide additional context about the data collection process, assumptions, requirements, and descriptive statistics that enable a secondary user to understand the context for the collection while also validating the integrity of the data collection.</li>
-
-
-   <br>
-   <br>
- <b>&nbsp;&nbsp;3. Commented Code</b> - Documentation embedded in the computer programming code that is ignored by the interpreter or compiler when the computer program executes.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;4. Data Dictionary </b> - a list of the elements contained in a dataset and their position in the data file. Each file in a data submission may have its own data dictionary.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;5. Delimited file</b> - a data file in which each data element is separated by a common character.  Comma separated values (.csv) files are very popular, but tab separated values (.tsv) files and pipe delimited (|) files are also used in many data projects.
-
-   <br>
-   <br>
- <b>&nbsp;&nbsp;6. File dependency (or dependency)</b> - software code that requires the presence of certain files (file dependency) or software libraries for the program to execute. Some dependencies may require a particular version of a software code for execution.
- </p>
+<h2>Terms to know</h2>
 
 <br>
 <br>
 
+<button class="collapsible">Absolute path/relative path</button>
+<div class="content">
+  <p>The path refers to the location of a file in the directory structure of where it is stored. Absolute paths provide a full list of all of the folders from the beginning (or “root”) of the storage unit. On most unix based systems, the root directory is “\.” On Windows systems, the root directory usually begins with a drive letter such as “C:\”. Relative paths provide a list of folders that begin at a designated folder (usually the initial folder of a project). In the case of curating for secondary use, relative paths are preferred for long term preservation since it is generally easier to share and preserve the initial project folder and all subsequent folders.</p>
+</div>
+<button class="collapsible">Codebook</button>
+<div class="content">
+  <p>A codebook provides a description of all the items contained in the data collection with information about individual files, measures, and codes used to represent those files. A codebook will often provide additional context about the data collection process, assumptions, requirements, and descriptive statistics that enable a secondary user to understand the context for the collection while also validating the integrity of the data collection.</p>
+</div>
+<button class="collapsible">Commented Code</button>
+<div class="content">
+  <p>Documentation embedded in the computer programming code that is ignored by the interpreter or compiler when the computer program executes.</p>
+</div>
+<button class="collapsible">Data Dictionary</button>
+<div class="content">
+  <p>A list of the elements contained in a dataset and their position in the data file. Each file in a data submission may have its own data dictionary.</p>
+</div>
+<button class="collapsible">Delimited file</button>
+<div class="content">
+  <p>A data file in which each data element is separated by a common character. Comma separated values (.csv) files are very popular, but tab separated values (.tsv) files and pipe delimited (|) files are also used in many data projects.</p>
+</div>
+<button class="collapsible">File dependency (or dependency)</button>
+<div class="content">
+  <p>software code that requires the presence of certain files (file dependency) or software libraries for the program to execute. Some dependencies may require a particular version of a software code for execution.</p>
+</div>
+
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
+
+<br>
+<br>
 
 
 <h2>Summary of the Understand Step (U Step)</h2>

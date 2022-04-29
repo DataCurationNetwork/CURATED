@@ -8,9 +8,14 @@ layout: module
 <h2>Learning Outcomes</h2>
 <b>Curators will be able to:</b><br>
 
-<p> Perform curation actions such as conducting a file inventory and opening the files.
-Check the submission for completeness based on a predefined criteria.
-Develop preliminary recommendations to be used for the “understand” step. </p>
+<p>
+  &nbsp;&nbsp;1. Perform curation actions such as conducting a file inventory and opening the files. 
+   <br>
+  &nbsp;&nbsp;2. Check the submission for completeness based on a predefined criteria.
+   <br>
+  &nbsp;&nbsp;3. Develop preliminary recommendations to be used for the “understand” step.
+ 
+</p>
 
 <br>
 <br>
@@ -43,11 +48,11 @@ Develop preliminary recommendations to be used for the “understand” step. </
 
 <h2>Summary of the Check Step</h2>
 <p>
-The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the Open Archival Information System (OAIS) model as the submission information package (SIP). The SIP will become an archival information package (AIP) through the process of curation and a dissemination information package (DIP) through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can also start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
+The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can also start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
 
 <br>
 <br>
-Common things to look for during this step are the record level metadata, file inventory, file organization, the README file, and whether the file can open or not :
+Common things to look for during this step are the record level metadata, <b> file inventory, file organization</b>, the <b>README file</b>, and whether the file can open or not :
 </p>
 
 <br>

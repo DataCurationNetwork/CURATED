@@ -291,7 +291,215 @@ or Transformations</h4></th>
 <br>
 
 
+<blockquote class = "highlighted-text">
 
+<h2>Activity: Excel Archival Tool </h2>
+<p>
+The <a href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Excel Archival Tool</a> programmatically converts Excel files to open source formats (specifically, CSV and PNG) in preparation for archiving. You will download, install, and use the Excel Archival Tool (EAT) to transform a Microsoft Excel file to archival CSV and PNG files. The Excel Archival Tool is only available for Windows platforms; other platforms will either have to perform the file transformations manually or obtain a Windows machine to do this exercise.
+</p>
+
+<p>The Excel Archival Tool: 
+</p>
+
+<ul style = "padding-left: 5%" >
+  <li>Automated conversion process for Microsoft Excel → CSVs but also captures
+  <ul style = "padding-left: 7%">
+      <li>Charts and figures exported as PNGs</li>
+      <li>Formulas exported as text files</li>
+      <li>Cell formatting and style preserved as html snapshot of spreadsheet </li>
+  </ul>
+  </li>
+  <li>
+  Generates a report on the archival outputs
+  </li>
+</ul>
+<br>
+<h4>Activity Materials:</h4>
+
+<p>The Excel Archival Tool requires a Windows environment to run (Windows XP, 7). The GUI version (WithUI) requires Internet Explorer. You may want to perform the file transformations manually or borrow a Windows machine to do this exercise if you use a non-Windows machine.
+</p>
+
+<ol style = "padding-left: 5%">
+
+<li>Download Excel Archival Tool  from GitHub: <a href="http://z.umn.edu/exceltool" target = "_blank"> http://z.umn.edu/exceltool</a>
+    <ol type = "a" style = "padding-left: 7%">
+    <li>We suggest that you use the WithUI version of the tool for this exercise. 
+        <ol type = "i" style = "padding-left: 10%"><li>After downloading the ZIP, extract the WithUI folder.</li></ol>
+   </li>
+   <li>Remember where you extract these files, so you can access the tool during the exercise.</li>
+   </ol>
+   
+</li>
+<li>Download excel file “Microsoft Excel data file, all figures [Microsoft Excel]” from <a href="https://hdl.handle.net/1813/43783" target = "_blank"> https://hdl.handle.net/1813/43783</a>. 
+</li>
+<li>Create a folder for your EAT output; this is not a requirement, but will simplify the process. 
+</li>
+</ol>
+<br>
+
+<h4>Directions:</h4>
+<ol style = "padding-left: 5%">
+<li>Make sure Excel is not running on your computer.</li>
+<li>Launch EAT by double clicking the ExcelAchivalTool.HTA from within the WithUI program folder. </li>
+<li>Select the location of the input (Ostwald_etal_WaterHomeostatis2016_Data.xls) file.</li>
+<li>Select the output location (created during setup).</li>
+<li>Select desired outputs. Suggested outputs for this exercise:
+    <ol type = "a" style = "padding-left: 7%">
+    <li>Raw Spreadsheet Data (csv)</li>
+    <li>Cell Formulas (txt)</li>
+    <li>Charts and Figures (png)</li>
+    </ol>
+</li>
+<li>Review your outputs. What should you have? EAT should have created:
+    <ol type = "a" style = "padding-left: 7%">
+    <li>One CSV file for each of the worksheets in the workbook. In this example, it should have created 10 CSV files.</li>
+    <li>One Folder named “Formulas”; inside there should be one folder for each file. Each file folder will have one TXT file for each worksheet that had formulas in it. In this example, it should have created two TXT files.</li>
+    <li>One “Output Report.txt” file containing a summary of the output for that EAT run.</li>
+    </ol>
+</li>
+<li>Bundle as Archival File for repository upload (zip, tar, etc., according to repository policy).
+</li>
+</ol>
+<br>
+</blockquote>
+
+<br>
+<br>
+
+
+<blockquote class = "highlighted-text">
+
+<h2>Activity: Transformation Actions </h2>
+ 
+<h4>Activity Materials </h4>
+<p>
+Dataset, either the same one you used for the EAT activity, or one of your choosing. 
+</p>
+<h4> Directions </h4>
+<ol style = "padding-left: 5%">
+<li>List possible format transformations for your datasets </li>
+<li>Put yourself in the role of different dataset stakeholders (researcher, curator, archivist, consumer, publisher). <br>
+Consider how any transformation benefits different stakeholders <br>
+List some of the challenges to any particular format transformations or stakeholder perspectives.</li>
+</ol>
+<br>
+<p>
+Bonus question: At what level has your institution promised to “preserve” the data, and what are the implications of that policy in practice? 
+</p>
+
+</blockquote>
+
+<br>
+<br>
+
+
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.collapsible {
+  background-color: #44729B;
+  color: white;
+  cursor: pointer;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-left: 20px;
+  width: 100%;
+  border: none;
+  border-bottom: 3px solid white;
+  text-align: left;
+  outline: none;
+}
+
+.active, .collapsible:hover {
+  background-color: #345878;
+}
+
+.content {
+  padding: 0 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: rgb(68,114,155,0.2);
+}
+
+.collapsible:after {
+  color: #ffffff;
+  content: "+";
+  font-size: 20px;
+  float: right;
+  margin-left: 5px;
+  padding-right: 10px;
+}
+
+.active:after {
+  content: "-";
+  color: #ffffff;
+  font-size: 20px;
+  padding-right: 10px;
+}
+</style>
+</head>
+<body>
+
+
+
+
+
+
+
+<button class="collapsible">Suggested Answers</button>
+<div class="content">
+  
+  <ol>
+  <li>List possible format transformations for your datasets. <br>
+  Answer: excel file should be converted to csv, figures to jpg, and formulas and other information preserved as a txt file.
+</li>
+  <li>
+    Put yourself in the role of different dataset stakeholders (researcher, curator, archivist, consumer, publisher).
+      <ol type = "a">
+          <li>Consider how any transformation benefits different stakeholders. <br>
+The researcher may benefit from increased accessibility for future re-users, resulting in increased re-use and more citations. Future consumers benefit by getting the data in a format that can easily be imported into multiple different tools. Curators and archivists benefit by having the data in a format that is more likely to be preserved in the long-term.
+</li>
+          <li>List some of the challenges to any particular format transformations or stakeholder perspectives. <br>
+The researcher may not want to take the time to perform transformations. Future consumers may not understand how to use preservation formats, making it important to consider also including analysis-friendly formats in the deposit. For some proprietary file formats, no other format is available.
+          </li>
+      </ol>
+  </li>
+  </ol>
+<br>
+
+<p>
+Bonus question: At what level has your institution promised to “preserve” the data, and what are the implications of that policy in practice? <br>
+Read over your preservation support policy (or this example from Cornell’s eCommons digital repository) and consider what effect file transformations, or the lack thereof might have on the repository’s ability to preserve the data. Are files that are only able to be opened by a proprietary software that is no longer maintained or available preserved? 
+  </p>
+  <br>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
+
+<br>
+<br>
 <h2>Additional Resources</h2>
 
 <p>

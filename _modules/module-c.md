@@ -234,7 +234,7 @@ Common things to look for during this step are the record level metadata, <b> fi
 <h2>C Step Checklist</h2>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit"> Access Curation Checklist</a>
+     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access Curation Checklist</a>
 </div>
 <br>
 <table frames=hsides rules=rows>

@@ -104,3 +104,15 @@ or Transformations</th>
 <label for="5">Retain original formats and/or inclulde both formats in deposit</label><br>
 <input type="checkbox" id="6" name="6" >
 <label for="6">Document file transformations/conversions, tools used, notes</label><br>
+
+<style>
+.flex-contianer {
+  display: flex;
+  justify-content: space-between;
+}
+</style>
+
+<div class="flex-contianer">
+     <a class="button button-primary" href="/CURATED/modules/module-a">Previous</a>
+     <a class="button button-primary" href="/CURATED/modules/module-e"> Next</a>
+</div>

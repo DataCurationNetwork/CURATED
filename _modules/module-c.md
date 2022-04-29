@@ -52,7 +52,6 @@ Common things to look for during this step are the record level metadata, file i
 
 <br>
 
-
 <table frames=hsides rules=rows>
 <tr>
 <td style="color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>Completeness</b></td> 
@@ -115,7 +114,6 @@ Common things to look for during this step are the record level metadata, file i
 </p>
 <br>
 
-
 <h2>C Step Checklist</h2>
 <br>
 
@@ -173,8 +171,6 @@ Here are some selected tools that can open a variety of data types.<br>
 <a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">[Link to table]</a>
 </p>
 
-
-
 <style>
 .flex-contianer {
   display: flex;
@@ -185,7 +181,6 @@ Here are some selected tools that can open a variety of data types.<br>
 <br>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="# " target="_blank">Previous</a>
-     <a class="button button-primary" href="# " target="_blank"> Next</a>
+     <a class="button button-primary" href="/CURATED/data">Previous</a>
+     <a class="button button-primary" href="/CURATED/modules/module-u"> Next</a>
 </div>
-

@@ -5,10 +5,27 @@ layout: module
 
 <br> 
 
-<h2>Learning Outcomes</h2>
-<b>Curators will be able to:</b><br>
+<style>
 
+.highlighted-text {
+    padding: 0 0 5px 5px;
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 4px;
+    margin: 15px 5px 10px 0;
+    background-color: rgba(68, 114, 155, 0.1);
+    padding-top: 10px;
+    padding-left: 8px;
+
+}
+</style>
+
+
+<blockquote class = "highlighted-text">
+<h2>Learning Outcomes</h2>
+<br>
 <p>
+<b>&nbsp;Curators will be able to:</b><br>
   &nbsp;&nbsp;1. Identify different terms and processes associated with the Understand step of the CURATED model.
    <br>
   &nbsp;&nbsp;2. Assess a dataset and its component files as a complete package.
@@ -18,6 +35,7 @@ layout: module
   &nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the R(equest) step: Request missing information.
  
 </p>
+</blockquote>
 
 <br>
 <br>
@@ -125,17 +143,22 @@ Below are some actions you might perform during the Understand step. Actions wil
 
 
 <br>
+
+<blockquote class = "highlighted-text">
 <h2>Activity</h2>
-
+<br>
 <h4>Activity option A:</h4>
+<p>
 Use this link to access a <a href= " https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank"> dataset </a>  and its associated files. These files are in Microsoft Excel and Word format.
-
+</p>
 <h4>Activity option B:</h4>
+<p>
 Download a dataset from <a href="https://figshare.com/category" target="_blank"> Figshare </a> that aligns with your own subject area expertise. Look over the dataset and determine if you, or someone with skills similar to the researcher, would have enough information to understand what is presented.
-
+</p>
 <h4>Materials Needed (both A and B):</h4>
+<p>
 Software available to open your chosen dataset and accompanying files (or ability to convert to a readable format)
-
+</p>
 <h4>Directions (both A and B):</h4>
 <p>
 &nbsp;&nbsp; 1. Open the files and assess what you see using the “U Step Actions” described above.
@@ -149,6 +172,7 @@ Software available to open your chosen dataset and accompanying files (or abilit
 <br>
 &nbsp;&nbsp;3. How do you see yourself using what you learned in your own practice?
 </p>
+</blockquote>
 <br>
 <br>
 

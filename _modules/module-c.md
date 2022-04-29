@@ -5,50 +5,68 @@ layout: module
 
 <br>
 
-<h2>Learning Outcomes</h2>
-<b>Curators will be able to:</b><br>
+<style>
 
-<p>
-  &nbsp;&nbsp;1. Perform curation actions such as conducting a file inventory and opening the files. 
+.highlighted-text {
+    padding: 0 0 5px 5px;
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 4px;
+    margin: 15px 5px 10px 0;
+    background-color: rgba(68, 114, 155, 0.1);
+    padding-top: 10px;
+    padding-left: 8px;
+
+}
+</style>
+
+
+<blockquote class = "highlighted-text">
+  <h2>Learning Outcomes</h2>
+  <br>
+  <p>
+<b>&nbsp;Curators will be able to:</b><br>
+&nbsp;&nbsp;1. Perform curation actions such as conducting a file inventory and opening the files. 
    <br>
   &nbsp;&nbsp;2. Check the submission for completeness based on a predefined criteria.
    <br>
   &nbsp;&nbsp;3. Develop preliminary recommendations to be used for the “understand” step.
- 
+
 </p>
+</blockquote>
 
 <br>
 <br>
 
-<h2>Terms to know</h2>
+<h2>&nbsp;Terms to know</h2>
 <p>
- <b>&nbsp;&nbsp;1. Submission information package (SIP)</b> - Items that have been submitted by the depositor.
+ <b>&nbsp;&nbsp;&nbsp;1. Submission information package (SIP)</b> - Items that have been submitted by the depositor.
    <br>
    <br>
- <b>&nbsp;&nbsp;2. Archival Information Package (AIP)</b> - A package that contains data that will be stored within a digital archive.
+ <b>&nbsp;&nbsp;&nbsp;2. Archival Information Package (AIP)</b> - A package that contains data that will be stored within a digital archive.
    <br>
    <br>
- <b>&nbsp;&nbsp;3. Dissemination Information Package (DIP)</b> - A package created from the AIP to distribute digital content to users.
+ <b>&nbsp;&nbsp;&nbsp;3. Dissemination Information Package (DIP)</b> - A package created from the AIP to distribute digital content to users.
    <br>
    <br>
- <b>&nbsp;&nbsp;4. File inventory</b> - The list of files in the submission information package.
+ <b>&nbsp;&nbsp;&nbsp;4. File inventory</b> - The list of files in the submission information package.
    <br>
    <br>
- <b>&nbsp;&nbsp;5. File organization</b> - The act of structuring files in a hierarchical way to ensure findability.
+ <b>&nbsp;&nbsp;&nbsp;5. File organization</b> - The act of structuring files in a hierarchical way to ensure findability.
    <br>
    <br>
- <b>&nbsp;&nbsp;6. README file</b> - A file that is usually a text file (.txt) or a rich text format file (.rtf) or markdown (.md) that gives information about the creators of the data, where the data was created, methods used to produce the data, sharing privileges, and so on.
+ <b>&nbsp;&nbsp;&nbsp;6. README file</b> - A file that is usually a text file (.txt) or a rich text format file (.rtf) or markdown (.md) that gives information about the creators of the data, where the data was created, methods used to produce the data, sharing privileges, and so on.
    <br>
    <br>
- <b>&nbsp;&nbsp;7. Metadata</b> - Data about data. Metadata can include the author, file size, the date the document was created and keywords to describe the document.
+ <b>&nbsp;&nbsp;&nbsp;7. Metadata</b> - Data about data. Metadata can include the author, file size, the date the document was created and keywords to describe the document.
  </p>
 
 <br>
 <br>
 
-<h2>Summary of the Check Step</h2>
+<h2>&nbsp;Summary of the Check Step</h2>
 <p>
-The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can also start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
+&nbsp;The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can also start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
 
 <br>
 <br>
@@ -95,32 +113,40 @@ Common things to look for during this step are the record level metadata, <b> fi
 <br>
 <br>
 
-<h2>C Step Actions</h2>
+<h2>&nbsp;C Step Actions</h2>
 <p>
-  &nbsp;&nbsp;1.  Check data files.
+  &nbsp;&nbsp;&nbsp;1.  Check data files.
    <br>
-  &nbsp;&nbsp;2.  Verify all metadata provided by the author and review the available documentation.
+  &nbsp;&nbsp;&nbsp;2.  Verify all metadata provided by the author and review the available documentation.
 
    <br>
 </p>
 <br>
+
+
+<blockquote class = "highlighted-text">
 <h2> Activity </h2>
 
-<h4>Materials Needed</h4>
-<p>
-  &nbsp;&nbsp;1.  Data deposit <a href="https://docs.google.com/spreadsheets/d/1u3jdZ6Pq2IImxeddOQjWE1Y_7ssUTY0V/edit#gid=1453514557" target="_blank">here</a>.
-   <br>
-   <br>
-</p>
 
-<h4>Directions</h4>
 <p>
+
+<b>Materials Needed</b><br>
+
+  &nbsp;1.  Data deposit <a href="https://docs.google.com/spreadsheets/d/1u3jdZ6Pq2IImxeddOQjWE1Y_7ssUTY0V/edit#gid=1453514557" target="_blank">here</a>.
+   <br>
+   <br>
+
+
+<b>Directions</b><br>
     In this activity, using the checklist below, you will perform the C check on the <a href="https://docs.google.com/spreadsheets/d/1u3jdZ6Pq2IImxeddOQjWE1Y_7ssUTY0V/edit#gid=1453514557" target="_blank">provided dataset</a>. Once you have completed this activity, feel free to run the C step on another dataset of your choosing.
+
+<br>
 </p>
+</blockquote>
+
 <br>
 
 <h2>C Step Checklist</h2>
-<br>
 
 <table frames=hsides rules=rows>
 <th>C Step Number</th>

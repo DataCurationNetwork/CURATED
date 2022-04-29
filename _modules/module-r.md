@@ -5,16 +5,37 @@ layout: module
 
 <br>
 
-<h2>Learning Outcomes</h2>
-<b>Curators will be able to:</b><br>
+<style>
 
+.highlighted-text {
+    padding: 0 0 5px 5px;
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 4px;
+    margin: 15px 5px 10px 0;
+    background-color: rgba(68, 114, 155, 0.1);
+    padding-top: 10px;
+    padding-left: 8px;
+
+}
+</style>
+
+<blockquote  class = "highlighted-text">
+<h2>Learning Outcomes</h2>
+<br>
 <p>
+<b>Curators will be able to:</b><br>
   &nbsp;&nbsp;1. Identify the most important aspects of curation activities to request from data depositors.
    <br>
   &nbsp;&nbsp;2. Formulate requests to get the information they need from depositors.
    <br>
   &nbsp;&nbsp;3. Create sample or example emails to data depositors requesting specific curation activities.
 </p>
+
+<br>
+<br>
+
+</blockquote>
 
 <br>
 <br>
@@ -111,14 +132,21 @@ There are four main goals of the R step:
 <h4>University of Michigan - Sample Email to Researcher</h4>
 <br>
 
-
+<blockquote  class = "highlighted-text">
 <h2>Activity</h2>
 <h4>Directions</h4>
+<p>
 Using the dataset and information gathered from the “C” and “U” step, draft an email to the depositor that continues to build rapport and requests the information you need to complete the data deposit. Please use the sample emails above to format your request email.
+</p>
 <br>
 <h4>Active Reflection:</h4>
+<p>
 After writing your request, read the email as if you were the researcher receiving it. What might your reaction be? After considering the researcher’s point of view, would you change anything in your request and recommendations?
+</p>
+</blockquote>
 
+<br>
+<br>
 
 <style>
 .flex-contianer {

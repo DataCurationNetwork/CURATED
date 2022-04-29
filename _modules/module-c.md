@@ -186,6 +186,6 @@ Here are some selected tools that can open a variety of data types.<br>
 <br>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="/CURATED/data">Previous</a>
-     <a class="button button-primary" href="/CURATED/modules/module-u"> Next</a>
+     <a class="button button-primary" href="/CURATED/data"> < Previous</a>
+     <a class="button button-primary" href="/CURATED/modules/module-u"> Next > </a>
 </div>

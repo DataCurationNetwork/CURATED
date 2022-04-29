@@ -128,6 +128,6 @@ After writing your request, read the email as if you were the researcher receivi
 </style>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="/CURATED/modules/module-u">Previous</a>
-     <a class="button button-primary" href="/CURATED/modules/module-a"> Next</a>
+     <a class="button button-primary" href="/CURATED/modules/module-u"> < Previous</a>
+     <a class="button button-primary" href="/CURATED/modules/module-a"> Next ></a>
 </div>

@@ -10,6 +10,6 @@ layout: module
 }
 </style>
 <div class="flex-contianer">
-     <a class="button button-primary" href="/CURATED/modules/module-r">Previous</a>
-     <a class="button button-primary" href="/CURATED/modules/module-t"> Next</a>
+     <a class="button button-primary" href="/CURATED/modules/module-r"> < Previous</a>
+     <a class="button button-primary" href="/CURATED/modules/module-t"> Next > </a>
 </div>

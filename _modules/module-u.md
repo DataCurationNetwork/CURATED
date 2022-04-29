@@ -161,6 +161,6 @@ Software available to open your chosen dataset and accompanying files (or abilit
 </style>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="/CURATED/modules/module-c">Previous</a>
-     <a class="button button-primary" href="/CURATED/modules/module-r"> Next</a>
+     <a class="button button-primary" href="/CURATED/modules/module-c"> < Previous</a>
+     <a class="button button-primary" href="/CURATED/modules/module-r"> Next ></a>
 </div>

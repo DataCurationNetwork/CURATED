@@ -87,7 +87,7 @@ layout: module
   padding-bottom: 10px;
   padding-left: 15px;
   padding-right: 15px;
-   border-style:solid;
+  border-style:solid;
   border-color: #44729B;
   }
 
@@ -166,6 +166,12 @@ or Transformations</h4></th>
 
 <h2>T Step Checklist</h2>
 
+<div class="flex-contianer">
+     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access checklist here</a>
+</div>
+
+<br>
+
 &nbsp;&nbsp;<input type="checkbox" id="1" name="1" >
 <label for="1"> &nbsp;Preferred File Formats in Use?</label><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="2" name="2">
@@ -179,11 +185,18 @@ or Transformations</h4></th>
 &nbsp;&nbsp;<input type="checkbox" id="6" name="6" >
 <label for="6"> &nbsp;Document file transformations/conversions, tools used, notes</label>
 
+
+<br>
+
+<h2>Additional Resources</h2>
+
+<div class="flex-contianer">
+     <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
+</div>
+
+
 <br>
 <br>
-
-
-
 
 
 

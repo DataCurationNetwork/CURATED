@@ -173,9 +173,17 @@ Software available to open your chosen dataset and accompanying files (or abilit
 &nbsp;&nbsp;3. How do you see yourself using what you learned in your own practice?
 </p>
 </blockquote>
-<br>
-<br>
 
+
+<br>
+<h2>Additional Resources</h2>
+<div class="flex-contianer">
+     <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
+</div>
+
+
+<br>
+<br>
 
 <style>
 .flex-contianer {
@@ -188,3 +196,4 @@ Software available to open your chosen dataset and accompanying files (or abilit
      <a class="button button-primary" href="/CURATED/modules/module-c"> < Previous</a>
      <a class="button button-primary" href="/CURATED/modules/module-r"> Next ></a>
 </div>
+

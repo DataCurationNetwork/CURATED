@@ -160,6 +160,14 @@ After writing your request, read the email as if you were the researcher receivi
 </p>
 </blockquote>
 
+
+<br>
+<h2>Additional Resources</h2>
+<div class="flex-contianer">
+     <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
+</div>
+
+
 <br>
 <br>
 

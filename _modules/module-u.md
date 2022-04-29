@@ -70,7 +70,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 
 <table frames=hsides rules=rows>
 <th style="color:#44729B;" ><h4>Check for:</h4></th>
-<th style="color:#44729B;" ><h4>Questions to ask:</h4></th>
+<th style="color:#44729B;  padding-left: 4%;" ><h4>Questions to ask:</h4></th>
 
 <tr>
 <td style="color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>Overall Quality Assurance</b></td>
@@ -103,7 +103,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 
 <li>If human subject data are included: 
 
-  <ul style="padding-left: 5%;">
+  <ul style="padding-top: 1%; padding-bottom: 1%; padding-left: 5%;">
     <li> Is a consent form present that allows for data sharing? </li>
     <li> Are there any direct or indirect identifiers that could reveal the identities of those involved in the data project? If unsure, this should be a question for the data provider in the <b>R</b>equest step.  </li>
   </ul>
@@ -111,7 +111,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 </li>
 
 <li>If there are geographic data included: 
-  <ul style="padding-left: 5%;">
+  <ul style=" padding-top: 1%; padding-bottom: 1%; padding-left: 5%;">
     <li> Are there direct location identifiers (addresses, geographic coordinates, placenames, etc.) that could pose a risk to persons or places that could pose a risk to research participants, endangered species, sensitive archeology sites, etc.?
     </li>
   </ul>

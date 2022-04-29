@@ -18,6 +18,19 @@ layout: module
     padding-left: 8px;
 
 }
+
+.notes {
+    border: 3px solid;
+    border-color: rgba(68, 114, 155);
+    border-radius: 4px;
+    margin: 15px 5px 10px 0;
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom:10px;
+
+}
+
 </style>
 
 <blockquote  class = "highlighted-text">
@@ -102,7 +115,8 @@ There are four main goals of the R step:
           </li>
       </ul>
       <br>
-    <h4>Advice: Make it easy for depositors to respond</h4>
+    <blockquote  class = "notes">
+    <h4>&nbsp;Advice: Make it easy for depositors to respond</h4>
     <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
         <li>Limit to four asks</li>
         <li>Be specific, but concise</li>
@@ -110,6 +124,7 @@ There are four main goals of the R step:
         <li>Provide resources where useful</li>
         <li>If possible, offer to make changes yourself and ask for approval</li>
     </ul>
+    </blockquote>
   </li>
 <br>
     <li>Encourage the depositor to supply missing information.

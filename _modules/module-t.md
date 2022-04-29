@@ -87,11 +87,14 @@ layout: module
   padding-bottom: 10px;
   padding-left: 15px;
   padding-right: 15px;
+   border-style:solid;
+  border-color: #44729B;
   }
 
   tr{
   border-style:solid;
   border-color: #44729B;
+
   }
 
 </style>

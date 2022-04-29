@@ -25,7 +25,7 @@ layout: module
   <h2>Learning Outcomes</h2>
   <br>
   <p>
-<b>&nbsp;Curators will be able to:</b><br>
+<b>Curators will be able to:</b><br>
 &nbsp;&nbsp;1. Perform curation actions such as conducting a file inventory and opening the files. 
    <br>
   &nbsp;&nbsp;2. Check the submission for completeness based on a predefined criteria.

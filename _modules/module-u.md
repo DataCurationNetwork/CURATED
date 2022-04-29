@@ -25,7 +25,7 @@ layout: module
 <h2>Learning Outcomes</h2>
 <br>
 <p>
-<b>&nbsp;Curators will be able to:</b><br>
+<b>Curators will be able to:</b><br>
   &nbsp;&nbsp;1. Identify different terms and processes associated with the Understand step of the CURATED model.
    <br>
   &nbsp;&nbsp;2. Assess a dataset and its component files as a complete package.

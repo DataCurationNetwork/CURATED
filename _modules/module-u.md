@@ -37,8 +37,6 @@ layout: module
 </p>
 </blockquote>
 
-<br>
-<br>
 
 
 <html>
@@ -255,6 +253,32 @@ Software available to open your chosen dataset and accompanying files (or abilit
 
 <br>
 <h2>Additional Resources</h2>
+
+<h4>Types of Documentation: </h4>
+
+<p>
+[Image of a README file, Codebook, Commented Code]
+</p>
+
+<h4>
+Working With Various File Formats: </h4>
+<p>
+When curating data for a repository that accepts all types of data, you can receive many different types of files. As a result, you might not always have the requisite software needed to open and view the files. When this occurs, there are a few different ways to still be able to read the files using common, readily available software.
+</p>
+<p>
+Common proprietary formats you might encounter include (but are not limited to) MATLAB (.mat, .m), Stata (.dta, .dct, .do), SAS (.sas, .sas7bdat), SPSS (.sav, .sps), ESRI/ArcGIS (.shp, .dbf, .gdb). 
+</p>
+<p>
+For some proprietary formats, there are open source, freely available software packages that can work with them. For example, QGIS can be used to work with files created in ESRI’s ArcGIS platform. For others, you may have to convert the files. A useful tool for conversion is called <a href= "https://stattransfer.com/overview/" target="_blank"> Stat/Transfer </a>. It is not freely available, but can be worth the investment given that it also helps with older legacy file formats. 
+</p>
+
+
+
+<p>
+ <a href= "https://notepad-plus-plus.org/" target="_blank"> Notepad++ </a> is a free source code and text editor. It is an exceptionally helpful tool when working with text files that appear unstructured when opened with regular Notepad or Wordpad. It can also often be used to open code files such as .m, .r, .do, .sas. Notepad++ is also worth trying when a file appears to not have any extension. 
+</p>
+Curating human participant data can be challenging. The Data Curation Network has a Primer on <a href= "https://notepad-plus-plus.org/" target="_blank"> Human Participants Data Essentials  </a>that can help inform that process. </p>
+
 <div class="flex-contianer">
      <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
 </div>

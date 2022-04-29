@@ -290,13 +290,33 @@ or Transformations</h4></th>
 
 <br>
 
+
+
 <h2>Additional Resources</h2>
 
+<p>
+Excel Archival Tool  from GitHub:   <a href="http://z.umn.edu/exceltool" target = "_blank"> http://z.umn.edu/exceltool</a>  - The Excel Archival Tool programmatically converts Excel files to open source formats (specifically, CSV and PNG).
+</p>
+<p>
+McGrory, John. (2015). Poster for "Excel Archival Tool: Automating the Spreadsheet Conversion Process". Retrieved from the University of Minnesota Digital Conservancy, <a href="http://hdl.handle.net/11299/171966" target = "_blank"> http://hdl.handle.net/11299/171966</a>. 
+</p>
+<p>
+Module 3 Understand: more information about proprietary file formats, software version documentation, and other important actions for understanding the data.
+</p>
+<p>
+Janée, Greg; Sawchuk, Sandra; Yoo, Ho Jung. (2019). Microsoft Excel Data Curation Primer. Data Curation Network GitHub Repository.
+</p>
+<p>
+Smithsonian Institution Archives. Smithsonian Recommended Preservation Formats for Electronic Records. <a href="https://siarchives.si.edu/what-we-do/digital-curation/recommended-preservation-formats-electronic-records" target = "_blank"> https://siarchives.si.edu/what-we-do/digital-curation/recommended-preservation-formats-electronic-records</a>. 
+</p>
+<p>
+Cornell University Library. File formats for digital content: Probability for full long-term preservation, in Recommended File Formats. <a href="https://guides.library.cornell.edu/ecommons/formats <" target = "_blank"> https://guides.library.cornell.edu/ecommons/formats </a>
+</p>
+
+<br>
 <div class="flex-contianer">
      <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
 </div>
-
-
 <br>
 <br>
 

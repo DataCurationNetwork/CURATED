@@ -35,9 +35,6 @@ layout: module
 </p>
 </blockquote>
 
-<br>
-<br>
-
 
 <html>
 <head>
@@ -237,7 +234,7 @@ Common things to look for during this step are the record level metadata, <b> fi
 <h2>C Step Checklist</h2>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="/CURATED/modules/module-c"> Access Curation Checklist</a>
+     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit"> Access Curation Checklist</a>
 </div>
 <br>
 <table frames=hsides rules=rows>
@@ -288,6 +285,12 @@ Common things to look for during this step are the record level metadata, <b> fi
 
 <br>
 <h2>Additional Resources</h2>
+
+<h4>Tools </h4>
+<p>
+Here are some selected tools that can open a variety of data types. <br>
+<a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">[Link to table].</a>
+</p>
 <div class="flex-contianer">
      <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
 </div>

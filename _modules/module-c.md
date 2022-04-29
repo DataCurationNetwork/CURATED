@@ -38,35 +38,122 @@ layout: module
 <br>
 <br>
 
-<h2>&nbsp;Terms to know</h2>
-<p>
- <b>&nbsp;&nbsp;&nbsp;1. Submission information package (SIP)</b> - Items that have been submitted by the depositor.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;&nbsp;2. Archival Information Package (AIP)</b> - A package that contains data that will be stored within a digital archive.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;&nbsp;3. Dissemination Information Package (DIP)</b> - A package created from the AIP to distribute digital content to users.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;&nbsp;4. File inventory</b> - The list of files in the submission information package.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;&nbsp;5. File organization</b> - The act of structuring files in a hierarchical way to ensure findability.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;&nbsp;6. README file</b> - A file that is usually a text file (.txt) or a rich text format file (.rtf) or markdown (.md) that gives information about the creators of the data, where the data was created, methods used to produce the data, sharing privileges, and so on.
-   <br>
-   <br>
- <b>&nbsp;&nbsp;&nbsp;7. Metadata</b> - Data about data. Metadata can include the author, file size, the date the document was created and keywords to describe the document.
- </p>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.collapsible {
+  background-color: #44729B;
+  color: white;
+  cursor: pointer;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-left: 20px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+}
+
+.active, .collapsible:hover {
+  background-color: #345878;
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: rgb(68,114,155,0.2);
+}
+
+.collapsible:after {
+  color: #ffffff;
+  content: "+";
+  font-size: 20px;
+  float: right;
+  margin-left: 5px;
+  padding-right: 10px;
+}
+
+.active:after {
+  content: "-";
+  color: #ffffff;
+  font-size: 20px;
+  padding-right: 10px;
+}
+</style>
+</head>
+<body>
+<br>
+<br>
+
+
+<h2>Terms to know</h2>
 
 <br>
 <br>
 
-<h2>&nbsp;Summary of the Check Step</h2>
+<button class="collapsible">Submission information package (SIP)</button>
+<div class="content">
+  <p>Items that have been submitted by the depositor.</p>
+</div>
+<button class="collapsible">Archival Information Package (AIP)</button>
+<div class="content">
+  <p>A package that contains data that will be stored within a digital archive.</p>
+</div>
+<button class="collapsible">Dissemination Information Package (DIP)</button>
+<div class="content">
+  <p>A package created from the AIP to distribute digital content to users.</p>
+</div>
+<button class="collapsible">File inventory </button>
+<div class="content">
+  <p>The list of files in the submission information package.</p>
+</div>
+<button class="collapsible">File organization</button>
+<div class="content">
+  <p>The act of structuring files in a hierarchical way to ensure findability.</p>
+</div>
+<button class="collapsible">README file</button>
+<div class="content">
+  <p>A file that is usually a text file (.txt) or a rich text format file (.rtf) or markdown (.md) that gives information about the creators of the data, where the data was created, methods used to produce the data, sharing privileges, and so on.</p>
+</div>
+<button class="collapsible">Metadata</button>
+<div class="content">
+  <p>Data about data. Metadata can include the author, file size, the date the document was created and keywords to describe the document.</p>
+</div>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html>
+
+<br>
+<br>
+
+
+
+<h2>Summary of the Check Step</h2>
 <p>
-&nbsp;The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can also start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
+The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can also start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
 
 <br>
 <br>
@@ -215,3 +302,5 @@ Here are some selected tools that can open a variety of data types.<br>
      <a class="button button-primary" href="/CURATED/data"> < Previous</a>
      <a class="button button-primary" href="/CURATED/modules/module-u"> Next > </a>
 </div>
+
+

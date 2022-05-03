@@ -123,10 +123,6 @@ layout: module
  <a href="https://en.wikipedia.org/wiki/Proprietary_format" target="_blank"> (Wikipedia) </a> </p>
 </div>
 
-
-
-
-
 <br>
 <br>
 
@@ -395,7 +391,7 @@ The researcher may not want to take the time to perform transformations. Future 
 
 <p>
 Bonus question: At what level has your institution promised to “preserve” the data, and what are the implications of that policy in practice? <br>
-Read over your preservation support policy (or this example from Cornell’s eCommons digital repository) and consider what effect file transformations, or the lack thereof might have on the repository’s ability to preserve the data. Are files that are only able to be opened by a proprietary software that is no longer maintained or available preserved? 
+Read over your preservation support policy (or <a href="https://guides.library.cornell.edu/ecommons/preservation" target = "_blank"> this example</a> from Cornell’s eCommons digital repository) and consider what effect file transformations, or the lack thereof might have on the repository’s ability to preserve the data. Are files that are only able to be opened by a proprietary software that is no longer maintained or available preserved? 
   </p>
   <br>
 </div>

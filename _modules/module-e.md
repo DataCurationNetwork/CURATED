@@ -24,14 +24,13 @@ layout: module
   <h2>Learning Outcomes</h2>
   <br>
   <p>
-<b>Curators will be able to:</b><br>
-&nbsp;&nbsp;1. Perform curation actions such as conducting a file inventory and opening the files. 
-   <br>
-  &nbsp;&nbsp;2. Check the submission for completeness based on a predefined criteria.
-   <br>
-  &nbsp;&nbsp;3. Develop preliminary recommendations to be used for the “understand” step.
-
-</p>
+  <b>Curators will be able to:</b><br>
+  &nbsp;&nbsp;1. Evaluate the results of the curation process.
+  <br>
+  &nbsp;&nbsp;2. Assess the impact/value of data curation by considering the relationships between the depositor/repository/curator.
+  <br>
+  &nbsp;&nbsp;3. Assess a dataset using measures of FAIRness.
+  </p>
 </blockquote>
 
 <html>
@@ -92,35 +91,12 @@ padding-right: 10px;
 <br>
 <br>
 
-<button class="collapsible">Submission information package (SIP)</button>
+<button class="collapsible">FAIR</button>
 
 <div class="content">
-  <p>Items that have been submitted by the depositor.</p>
+  <p><br> The FAIR Principles were developed by a set of diverse stakeholders that outline how scientific data should be shared. They stand for Findable, Accessible, Interoperable, and Reusable. </p>
 </div>
-<button class="collapsible">Archival Information Package (AIP)</button>
-<div class="content">
-  <p>A package that contains data that will be stored within a digital archive.</p>
-</div>
-<button class="collapsible">Dissemination Information Package (DIP)</button>
-<div class="content">
-  <p>A package created from the AIP to distribute digital content to users.</p>
-</div>
-<button class="collapsible">File inventory </button>
-<div class="content">
-  <p>The list of files in the submission information package.</p>
-</div>
-<button class="collapsible">File organization</button>
-<div class="content">
-  <p>The act of structuring files in a hierarchical way to ensure findability.</p>
-</div>
-<button class="collapsible">README file</button>
-<div class="content">
-  <p>A file that is usually a text file (.txt) or a rich text format file (.rtf) or markdown (.md) that gives information about the creators of the data, where the data was created, methods used to produce the data, sharing privileges, and so on.</p>
-</div>
-<button class="collapsible">Metadata</button>
-<div class="content">
-  <p>Data about data. Metadata can include the author, file size, the date the document was created and keywords to describe the document.</p>
-</div>
+
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
@@ -145,56 +121,38 @@ for (i = 0; i < coll.length; i++) {
 <br>
 <br>
 
-<h2>Summary of the Check Step</h2>
+<h2>Summary of the Evaluate Step</h2>
 <p>
-The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can also start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
-
+In this step you will evaluate the overall data package to determine if data curation by the repository adds value to the data sharing process and that the resulting data package is findable, accessible, interoperable, reusable or FAIR*. 
 <br>
 <br>
-Common things to look for during this step are the record level metadata, <b> file inventory, file organization</b>, the <b>README file</b>, and whether the file can open or not :
+*Read more about FAIR: <a href="https://www.force11.org/fairprinciples" target="_blank">https://www.force11.org/fairprinciples</a>
 </p>
 
 <br>
 
-<table frames=hsides rules=rows>
-<tr>
-<td style="color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>Completeness</b></td> 
-<td ><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;"><li> Is the submission complete based on any predefined criteria for your repository? An example of predefined criteria is the <a href="https://datadryad.org/stash/faq#files" target="_blank"> Dryad repository guidelines </a>.</li></ul></td>
-</tr>
-<tr>
-<td style = "color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>Record Level Metadata</b></td> 
-<td><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;"><li> Does the description have sufficient detail?</li>
-<li>Are all required fields filled out? (e.g., title, author/creator, licensing) </li></ul></td>
-</tr>
-<tr>
-<td style = "color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>File inventory</b></td>
-<td ><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;"><li> What files are included? </li>
-<li> Are files missing? </li></ul></td>
-</tr>
-<tr>
-<td style = "color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>File organization</b></td>
-<td><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;"><li> Are there unwanted spaces or special characters?</li>
-<li> Is there a file naming convention? </li>
-<li> Order and description (if many files) </li>
-<li> File hierarchy in terms you can clearly see the relationships in the naming of the files on the top level and the files below them in terms of how they are named (ex. School_data as a top level folder and school_data_ny as a folder in the school_data folder referring to school data from New York) . </li></ul></td>
-</tr>
-<tr>
-<td style = "color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>README</b></td>
-<td><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;"><li> Is there a documentation file, like a README?</li>
-<li>Example:  <a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank"> Cornell ReadMe Template </a> </li></ul></td>
-</tr>
-<tr>
-<td style = "color:#44729B; padding-top: 2%; padding-bottom: 2%;" ><b>Brief file diagnostic</b></td>
-<td><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;"><li> (software) Does this open? </li>
-<li> (code) Does this run? </li>
-<li> What version? </li></ul></td>
-</tr>
-</table>
+<h2> What do we mean by Evaluate?  </h2>
 
-<br>
+<p>
+Curation is a partnership between:
+</p>
+
+<ul style = "padding-left: 5%" >
+  <li> the curator and the researcher </li>
+  <li> the researcher and the repository system</li>
+  <li> the curator and the repository system
+</li>
+</ul>
 <br>
 
-<h2>&nbsp;C Step Actions</h2>
+<p>
+The diagram below shows the relationship and key considerations between the curator, researcher, and repository platform and how we work together to make data more FAIR. 
+</p>
+
+<br>
+
+
+<h2>&nbsp;E Step Actions</h2>
 <p>
   &nbsp;&nbsp;&nbsp;1.  Check data files.
    <br>
@@ -204,89 +162,109 @@ Common things to look for during this step are the record level metadata, <b> fi
 </p>
 <br>
 
+
 <blockquote class = "highlighted-text">
-<h2> Activity </h2>
+<h2> Activity: Evaluate for FAIRNess </h2>
 
 <p>
 
 <b>Materials Needed</b><br>
 
-&nbsp;1. Data deposit <a href="https://docs.google.com/spreadsheets/d/1u3jdZ6Pq2IImxeddOQjWE1Y_7ssUTY0V/edit#gid=1453514557" target="_blank">here</a>.
-<br>
-<br>
-
-<b>Directions</b><br>
-In this activity, using the checklist below, you will perform the C check on the <a href="https://docs.google.com/spreadsheets/d/1u3jdZ6Pq2IImxeddOQjWE1Y_7ssUTY0V/edit#gid=1453514557" target="_blank">provided dataset</a>. Once you have completed this activity, feel free to run the C step on another dataset of your choosing.
+For this activity you will assess a dataset for FAIRness and then recommend ways to increase the FAIRness. 
 
 <br>
+
+<h4>Directions</h4>
+
+<p>
+&nbsp;&nbsp;1. Please identify a dataset to use for this activity. Options:
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. <a href="https://ecommons.cornell.edu/handle/1813/43783" target="_blank"> Our example dataset </a> (final version in the repository)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. A dataset in your data repository
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. One from another repository (e.g., FigShare, ICPSR, etc.)
+<br>
+&nbsp;&nbsp;2. Use the curator checklist above to assess the dataset for key FAIR features. 
+<br>
+&nbsp;&nbsp;3. Determine suggestions for potentially improving the FAIRness of the selected dataset.
+</p>
 </p>
 </blockquote>
 
 <br>
 
-<h2>C Step Checklist</h2>
+
+<h2>E Step Checklist</h2>
 
 <div class="flex-contianer">
      <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access Curation Checklist</a>
 </div>
-<br>
-<table frames=hsides rules=rows>
-<th>C Step Number</th>
-<th>C Step</th>
-<th>Yes/No/NA</th>
-<tr>
-<td  style="padding-top: 1%; padding-bottom: 1%;">C1</td>
-<td  style="padding-top: 1%; padding-bottom: 1%;">Files open as expected?</td>
-<td style="padding-top: 1%; padding-bottom: 1%;"><input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox"></td>
-</tr>
-<tr>
-<td style="padding-top: 1%; padding-bottom: 1%;">C2</td>
-<td style="padding-top: 1%; padding-bottom: 1%;">Code runs as expected?</td>
-<td style="padding-top: 1%; padding-bottom: 1%;"><input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox"></td>
-</tr>
-<tr>
-<td style="padding-top: 1%; padding-bottom: 1%;">C3</td>
-<td style="padding-top: 1%; padding-bottom: 1%;">Metadata has all required fields filled out such as the title, author, and licensing information.</td>
-<td style="padding-top: 1%; padding-bottom: 1%;"><input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox"></td>
-</tr>
-<tr>
-<td style="padding-top: 1%; padding-bottom: 1%;">C4</td>
-<td style="padding-top: 1%; padding-bottom: 1%;">Is there any documentation?</td>
-<td style="padding-top: 1%; padding-bottom: 1%;"><input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox"></td>
-</tr>
-<tr>
-<td style="padding-top: 1%; padding-bottom: 1%;">C5</td>
-<td style="padding-top: 1%; padding-bottom: 1%;">Are there human participant data present?</td>
-<td style="padding-top: 1%; padding-bottom: 1%;"><input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox"></td>
-</tr>
-<tr>
-<td style="padding-top: 1%; padding-bottom: 1%;">C6</td>
-<td style="padding-top: 1%; padding-bottom: 1%;">Do the file names have unwanted spaces or characters?</td>
-<td style="padding-top: 1%; padding-bottom: 1%;"><input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox"></td>
-</tr>
-<tr>
-<td style="padding-top: 1%; padding-bottom: 1%;">C7</td>
-<td style="padding-top: 1%; padding-bottom: 1%;">Is there a file hierarchy in place?</td>
-<td style="padding-top: 1%; padding-bottom: 1%;"><input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox"></td>
-</tr>
-<tr>
-<td style="padding-top: 1%; padding-bottom: 1%;">C8</td>
-<td style="padding-top: 1%; padding-bottom: 1%;">Is there a file naming convention?</td>
-<td style="padding-top: 1%; padding-bottom: 1%;"><input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox">&nbsp;&nbsp;&nbsp; <input type="checkbox"></td>
-</tr>
-</table>
 
 <br>
+
+<h4> Findable - </h4>
+&nbsp;&nbsp;<input type="checkbox" id="1" name="1" >
+<label for="1"> &nbsp;Metadata exceeds author/ title/ date.</label><br>
+&nbsp;&nbsp;<input type="checkbox" id="2" name="2">
+<label for="2"> &nbsp;Unique PID (DOI, Handle, PURL, etc.).</label><br>
+&nbsp;&nbsp;<input type="checkbox" id="3" name="3">
+<label for="3"> &nbsp;Discoverable via web search engines.</label><br>
+<h4> Accessible - </h4>
+&nbsp;&nbsp;<input type="checkbox" id="4" name="4" >
+<label for="4"> &nbsp;Retrievable via a standard protocol (e.g., HTTP).</label><br>
+&nbsp;&nbsp;<input type="checkbox" id="5" name="5" >
+<label for="5"> &nbsp;Free, open (e.g., download link). </label><br>
+<h4> Interoperable - </h4>
+&nbsp;&nbsp;<input type="checkbox" id="6" name="6" >
+<label for="6"> &nbsp;Metadata formatted in a standard schema (e.g., Dublin Core). </label><br>
+&nbsp;&nbsp;<input type="checkbox" id="7" name="7" >
+<label for="7"> &nbsp;Metadata provided in machine-readable format (OAI feed).</label><br>
+<h4> Reusable - </h4>
+&nbsp;&nbsp;<input type="checkbox" id="8" name="8" >
+<label for="8"> &nbsp;Data include sufficient metadata about the data characteristics to reuse. </label><br>
+&nbsp;&nbsp;<input type="checkbox" id="9" name="9" >
+<label for="9"> &nbsp;Contact info displayed if the direct assistance of the author needed.</label><br>
+&nbsp;&nbsp;<input type="checkbox" id="10" name="10" >
+<label for="10"> &nbsp;Clear indicators of who created, owns, and stewards the data.</label><br>
+&nbsp;&nbsp;<input type="checkbox" id="11" name="11" >
+<label for="11"> &nbsp;Data are released with clear data usage terms (e.g., a CC License).</label><br>
+
+<br>
+
 <h2>Additional Resources</h2>
 
-<h4>Tools </h4>
-<p>
-Here are some selected tools that can open a variety of data types. <br>
-<a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">[Link to table].</a>
+<p>There are numerous other tools and metrics being created by the community to evaluate FAIRness: 
 </p>
+
+
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
+
+<li> Original principles published by FORCE11: <a href="https://www.force11.org/fairprinciples" target = "_blank"> https://www.force11.org/fairprinciples </a> and original article: <a href="https://doi.org/10.1038/sdata.2016.18" target = "_blank"> https://doi.org/10.1038/sdata.2016.18 </a>
+    <ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 7%;">
+    <li> The FAIR Data Principles feature 15 facets corresponding to the four letters of FAIR - Findable, Accessible, Interoperable, Reusable. </li>
+    <li> FAIR metrics developed by the original research group: <a href="https://github.com/FAIRMetrics/Metrics" target = "_blank">https://github.com/FAIRMetrics/Metrics </a></li>
+    </ul>
+</li>
+<li>FAIR <a href="https://doi.org/10.2218/ijdc.v12i2.567" target = "_blank">scoring rubric </a> used in the activity</li>
+<li> <a href="https://zenodo.org/record/4081213#.YVS9YMZOnBI" target = "_blank"> FAIRsFAIR Data Object Assessment Metrics </a> (v0.4) Contains 17 core metrics to assess the FAIRness of a dataset. 
+    <ul  style=" padding-top: 1%; padding-bottom: 1%;padding-left: 7%;">
+    <li>This work builds on an RDA working group called FAIR Data Maturity Model (RDA) which published the <a href="https://www.rd-alliance.org/system/files/FAIR%20Data%20Maturity%20Model_%20specification%20and%20guidelines_v1.00.pdf" target = "_blank"> FAIR Data Maturity Model Specification and Guidelines </a> (2020):<a href="https://doi.org/10.15497/rda00050" target = "_blank"> https://doi.org/10.15497/rda00050
+    </a> </li>
+    <li>This group also released a beta tool in 2021 called that <a href="https://www.fairsfair.eu/f-uji-automated-fair-data-assessment-tool" target = "_blank"> F-UJI Automated FAIR Data Assessment Tool </a> which aims to computationally assess FAIRness by entering a DOI or URL for a dataset. </li>
+    </ul>
+</li>
+<li>Australian Research Data Commons provides a self-guided question-based <a href="https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/" target = "_blank"> FAIR data assessment tool </a> </li>
+</ul>
+
+
+<br>
 <div class="flex-contianer">
      <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
 </div>
+<br>
+<br>
+
 
 <style>
 .flex-contianer {
@@ -298,6 +276,6 @@ Here are some selected tools that can open a variety of data types. <br>
 <br>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="/CURATED/data"> < Previous</a>
-     <a class="button button-primary" href="/CURATED/modules/module-u"> Next > </a>
+     <a class="button button-primary" href="/CURATED/modules/module-t"> < Previous</a>
+     <a class="button button-primary" href="/CURATED/modules/module-d"> Next > </a>
 </div>

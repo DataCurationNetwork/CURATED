@@ -151,12 +151,14 @@ The check step is the first step of the CURATED process. In this step, we take a
 
 <br>
 <br>
-Common things to look for during this step are the record level metadata, <b> file inventory, file organization</b>, the <b>README file</b>, and whether the file can open or not :
+Common things to look for during this step are the record level metadata, <b> file inventory, file organization</b>, the <b>README file</b>, and whether the file can open or not:
 </p>
 
 <br>
 
 <table frames=hsides rules=rows>
+<th style="color:#44729B;" ><h4>Check for:</h4></th>
+<th style="color:#44729B;  padding-left: 4%;" ><h4>Questions to ask:</h4></th>
 <tr>
 <td style="color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>Completeness</b></td> 
 <td ><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;"><li> Is the submission complete based on any predefined criteria for your repository? An example of predefined criteria is the <a href="https://datadryad.org/stash/faq#files" target="_blank"> Dryad repository guidelines </a>.</li></ul></td>
@@ -194,7 +196,7 @@ Common things to look for during this step are the record level metadata, <b> fi
 <br>
 <br>
 
-<h2>&nbsp;C Step Actions</h2>
+<h2> C Step Actions</h2>
 <p>
   &nbsp;&nbsp;&nbsp;1.  Check data files.
    <br>
@@ -202,6 +204,27 @@ Common things to look for during this step are the record level metadata, <b> fi
 
    <br>
 </p>
+<br>
+
+
+
+
+<h2> Key Ethical Considerations </h2>
+
+<ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
+<li> Review participant agreement and data use agreements; examine potential impacts of sharing this data. Consider:
+  <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 7%;"> 
+  <li> Individuals and communities represented</li>
+  <li> Representativeness of diverse human populations</li>
+  <li> Protection or endangerment status of species </li>
+  <li> Geographic locations (e.g., contested boundaries, historical and current political situations) </li>
+  <li> Animal research ethics and approval </li>
+  </ul>
+</li>
+<li>Is it possible that the data deposit may impact a specific group?</li>
+<li>Does this data deposit follow compliance and institutional policy?</li>
+</ul>
+
 <br>
 
 
@@ -234,6 +257,7 @@ Common things to look for during this step are the record level metadata, <b> fi
 </div>
 <br>
 <table frames=hsides rules=rows>
+
 <th>C Step Number</th>
 <th>C Step</th>
 <th>Yes/No/NA</th>

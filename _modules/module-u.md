@@ -1,5 +1,5 @@
 ---
-title: "U Step: Understand the Data"
+title: "U Step: Understand the Data Deposit"
 layout: module
 ---
 
@@ -97,9 +97,15 @@ layout: module
 <br>
 <br>
 
-<button class="collapsible">Absolute path/relative path</button>
+<button class="collapsible">Absolute path/Relative path</button>
 <div class="content">
-  <p><br>The path refers to the location of a file in the directory structure of where it is stored. Absolute paths provide a full list of all of the folders from the beginning (or “root”) of the storage unit. On most unix based systems, the root directory is “\.” On Windows systems, the root directory usually begins with a drive letter such as “C:\”. Relative paths provide a list of folders that begin at a designated folder (usually the initial folder of a project). In the case of curating for secondary use, relative paths are preferred for long term preservation since it is generally easier to share and preserve the initial project folder and all subsequent folders.</p>
+  <br>
+  <p>The path refers to the location of a file in the directory structure of where it is stored. </p>
+  <p>
+  &nbsp;&nbsp;&nbsp;&nbsp; a. Absolute paths provide a full list of all of the folders from the beginning (or “root”) of the storage unit. On most unix based systems, the root directory is “\.” On Windows systems, the root directory usually begins with a drive letter such as “C:\”. 
+  </p>
+  <p>
+  &nbsp;&nbsp;&nbsp;&nbsp; b. Relative paths provide a list of folders that begin at a designated folder (usually the initial folder of a project). In the case of curating for secondary use, relative paths are preferred for long term preservation since it is generally easier to share and preserve the initial project folder and all subsequent folders.</p>
 </div>
 <button class="collapsible">Codebook</button>
 <div class="content">
@@ -148,7 +154,7 @@ for (i = 0; i < coll.length; i++) {
 <br>
 
 
-<h2>Summary of the Understand Step (U Step)</h2>
+<h2>Summary of the U Step: Understand the Data Deposit</h2>
 <p>
 After <b>C</b>hecking the contents of the data deposit, the <b>U</b>nderstand step of the curation process requires a deeper dive into the individual items submitted for curation. The curator should review whether these items form a cohesive package that would allow someone other than the original researcher to be able to understand what is being presented. Perhaps the most important information to look for during this process is the presence of contextual and content-specific documentation, file dependencies, and potential ethical issues that could prohibit publishing openly in a repository.
 
@@ -219,6 +225,29 @@ Below are some actions you might perform during the Understand step. Actions wil
 
 
 <br>
+
+
+<h2> U Step Checklist </h2>
+<div class="flex-contianer">
+     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access Curation Checklist</a>
+</div>
+
+
+<br>
+
+<h2> Key Ethical Considerations </h2>
+
+<ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
+<li> If working with human data, is this research done with and not on communities and populations involved? (You may wish to review data sources, researchers, and their connections to the communities and subjects they are serving to facilitate further conversation with researcher(s).)
+  <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 7%;"> 
+  <li> Are there authoritative group representatives who should be contacted in the next (request) step? </li>
+  </ul>
+</li>
+<li>Are there labels or other descriptive indicators that could be applied to better represent or protect an identified group of people impacted by this data deposit? (Example: <a href= "https://localcontexts.org/labels/traditional-knowledge-labels/" target="_blank"> TK labels</a>)</li>
+</ul>
+
+<br>
+
 
 <blockquote class = "highlighted-text">
 <h2>Activity</h2>

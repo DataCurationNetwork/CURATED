@@ -232,6 +232,20 @@ For this activity you will assess a dataset for FAIRness and then recommend ways
 
 <br>
 
+
+
+<h2> Key Ethical Considerations </h2>
+
+<ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
+<li> Final review--remember it is not too late to surface any ethical concerns. </li>
+<li> Verify the words/language being used are not racist/harmful. </li>
+<li> Remind the submitter of their responsibility, if they choose to ignore requests for de-identification or similar concerns. 
+</li>
+</ul>
+
+<br>
+
+
 <h2>Additional Resources</h2>
 
 <p>There are numerous other tools and metrics being created by the community to evaluate FAIRness: 

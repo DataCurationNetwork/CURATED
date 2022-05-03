@@ -262,6 +262,19 @@ or Transformations</h4></th>
 <br>
 
 
+
+<h2> Key Ethical Considerations </h2>
+
+<ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
+<li>Consider how best to navigate researcher bandwidth limitations and ownership of data with repository commitments to reducing barriers to reuse.</li>
+<li>Decide how to balance the potential benefits of transformation with the risks of mistakes and loss of content/context, especially if curator or repository will be performing transformation. Document the decision.
+</li>
+</ul>
+
+<br>
+
+
+
 <blockquote class = "highlighted-text">
 
 <h2>Activity: Excel Archival Tool </h2>

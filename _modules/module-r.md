@@ -94,17 +94,17 @@ layout: module
   </li>
       <br>
 
-  <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible. Formulate your request for the depositor to respond.
+  <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible. 
       <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
-          <li>Explain what you need from the depositor, and why</li>
-          <li>Prioritize your requests! Ask for information that is most important for the dataset quality first.</li>
-      </ul>
-        <br>
-      <h4>Formulate your request for the depositor to respond</h4>
-      <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
+          <li>Formulate your request for the depositor to respond. Explain what you need from the depositor, and why
+          <ul style =  "padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
           <li>Do you need additional information or permission from the depositor to take action? If so, make sure this ask is part of your request.</li>
           <li>Make your request as specific as possible. Provide examples and resources when relevant.</li>
-          <li>Prioritize requests and recommendations according to what is most important for the quality of the dataset
+          </ul>
+          </li>
+      </ul>
+      <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;"> 
+          <li>Prioritize your requests! Ask for information that is most important for the dataset quality first.
                 <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
                     <li><b>Essential</b>: What information is critical to improve the quality of the dataset? (for example: missing README or metadata, files that won’t open or are missing extension information, errors found in data set)</li>
                     <li><b>Important</b>: What information is useful to improve the quality of the dataset? (for example, incomplete README or metadata, changes to file names)</li>
@@ -145,11 +145,25 @@ layout: module
 <h4>University of Michigan - Sample Email to Researcher</h4>
 <br>
 
+
+
+
+<h2> Key Ethical Considerations </h2>
+
+<ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
+<li>Consider asking researchers if their participants will be notified that their data (in addition to published results) are being shared.</li>
+<li>If you feel uncomfortable about sharing the data in its current state and/or it does not meet your institution's requirements, reserve the right not to publish.</li>
+<li>Consider asking researcher(s) if there are limitations to how data could/should be used to include in documentation. (Based on, e.g., representativeness of sample).
+</li>
+</ul>
+
+<br>
+
 <blockquote  class = "highlighted-text">
 <h2>Activity</h2>
 <h4>Directions</h4>
 <p>
-Using the dataset and information gathered from the “C” and “U” step, draft an email to the depositor that continues to build rapport and requests the information you need to complete the data deposit. Please use the sample emails above to format your request email.
+Using the data deposit and information gathered from the “C” and “U” step, draft an email to the depositor that continues to build rapport and requests the information you need to complete the data deposit. Please use the sample emails above to format your request email.
 </p>
 <br>
 <h4>Active Reflection:</h4>
@@ -157,13 +171,6 @@ Using the dataset and information gathered from the “C” and “U” step, dr
 After writing your request, read the email as if you were the researcher receiving it. What might your reaction be? After considering the researcher’s point of view, would you change anything in your request and recommendations?
 </p>
 </blockquote>
-
-
-<br>
-<h2>Additional Resources</h2>
-<div class="flex-contianer">
-     <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
-</div>
 
 
 <br>

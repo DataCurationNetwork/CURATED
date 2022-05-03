@@ -40,7 +40,6 @@ layout: module
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-
 .collapsible {
   background-color: #44729B;
   color: white;
@@ -54,11 +53,9 @@ layout: module
   text-align: left;
   outline: none;
 }
-
 .active, .collapsible:hover {
   background-color: #345878;
 }
-
 .content {
   padding: 0 20px;
   max-height: 0;
@@ -66,7 +63,6 @@ layout: module
   transition: max-height 0.2s ease-out;
   background-color: rgb(68,114,155,0.2);
 }
-
 .collapsible:after {
   color: #ffffff;
   content: "+";
@@ -75,7 +71,6 @@ layout: module
   margin-left: 5px;
   padding-right: 10px;
 }
-
 .active:after {
   content: "-";
   color: #ffffff;
@@ -96,32 +91,33 @@ layout: module
 
 <button class="collapsible">Submission information package (SIP)</button>
 <div class="content">
-  <p>Items that have been submitted by the depositor.</p>
+  <p><br>Items that have been submitted by the depositor.</p>
 </div>
 <button class="collapsible">Archival Information Package (AIP)</button>
 <div class="content">
-  <p>A package that contains data that will be stored within a digital archive.</p>
+  <p><br>A package that contains data that will be stored within a digital archive.</p>
 </div>
 <button class="collapsible">Dissemination Information Package (DIP)</button>
 <div class="content">
-  <p>A package created from the AIP to distribute digital content to users.</p>
+  <p><br>A package created from the AIP to distribute digital content to users.</p>
 </div>
 <button class="collapsible">File inventory </button>
 <div class="content">
-  <p>The list of files in the submission information package.</p>
+  <p><br>The list of files in the submission information package.</p>
 </div>
 <button class="collapsible">File organization</button>
 <div class="content">
-  <p>The act of structuring files in a hierarchical way to ensure findability.</p>
+  <p><br>The act of structuring files in a hierarchical way to ensure findability.</p>
 </div>
 <button class="collapsible">README file</button>
 <div class="content">
-  <p>A file that is usually a text file (.txt) or a rich text format file (.rtf) or markdown (.md) that gives information about the creators of the data, where the data was created, methods used to produce the data, sharing privileges, and so on.</p>
+  <p><br>A file that is usually a text file (.txt) or a rich text format file (.rtf) or markdown (.md) that gives information about the creators of the data, where the data was created, methods used to produce the data, sharing privileges, and so on.</p>
 </div>
 <button class="collapsible">Metadata</button>
 <div class="content">
-  <p>Data about data. Metadata can include the author, file size, the date the document was created and keywords to describe the document.</p>
+  <p><br>Data about data. Metadata can include the author, file size, the date the document was created and keywords to describe the document.</p>
 </div>
+
 
 
 <script>

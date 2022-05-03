@@ -99,27 +99,27 @@ layout: module
 
 <button class="collapsible">Absolute path/relative path</button>
 <div class="content">
-  <p>The path refers to the location of a file in the directory structure of where it is stored. Absolute paths provide a full list of all of the folders from the beginning (or “root”) of the storage unit. On most unix based systems, the root directory is “\.” On Windows systems, the root directory usually begins with a drive letter such as “C:\”. Relative paths provide a list of folders that begin at a designated folder (usually the initial folder of a project). In the case of curating for secondary use, relative paths are preferred for long term preservation since it is generally easier to share and preserve the initial project folder and all subsequent folders.</p>
+  <p><br>The path refers to the location of a file in the directory structure of where it is stored. Absolute paths provide a full list of all of the folders from the beginning (or “root”) of the storage unit. On most unix based systems, the root directory is “\.” On Windows systems, the root directory usually begins with a drive letter such as “C:\”. Relative paths provide a list of folders that begin at a designated folder (usually the initial folder of a project). In the case of curating for secondary use, relative paths are preferred for long term preservation since it is generally easier to share and preserve the initial project folder and all subsequent folders.</p>
 </div>
 <button class="collapsible">Codebook</button>
 <div class="content">
-  <p>A codebook provides a description of all the items contained in the data collection with information about individual files, measures, and codes used to represent those files. A codebook will often provide additional context about the data collection process, assumptions, requirements, and descriptive statistics that enable a secondary user to understand the context for the collection while also validating the integrity of the data collection.</p>
+  <p><br>A codebook provides a description of all the items contained in the data collection with information about individual files, measures, and codes used to represent those files. A codebook will often provide additional context about the data collection process, assumptions, requirements, and descriptive statistics that enable a secondary user to understand the context for the collection while also validating the integrity of the data collection.</p>
 </div>
 <button class="collapsible">Commented Code</button>
 <div class="content">
-  <p>Documentation embedded in the computer programming code that is ignored by the interpreter or compiler when the computer program executes.</p>
+  <p><br>Documentation embedded in the computer programming code that is ignored by the interpreter or compiler when the computer program executes.</p>
 </div>
 <button class="collapsible">Data Dictionary</button>
 <div class="content">
-  <p>A list of the elements contained in a dataset and their position in the data file. Each file in a data submission may have its own data dictionary.</p>
+  <p><br>A list of the elements contained in a dataset and their position in the data file. Each file in a data submission may have its own data dictionary.</p>
 </div>
 <button class="collapsible">Delimited file</button>
 <div class="content">
-  <p>A data file in which each data element is separated by a common character. Comma separated values (.csv) files are very popular, but tab separated values (.tsv) files and pipe delimited (|) files are also used in many data projects.</p>
+  <p><br>A data file in which each data element is separated by a common character. Comma separated values (.csv) files are very popular, but tab separated values (.tsv) files and pipe delimited (|) files are also used in many data projects.</p>
 </div>
 <button class="collapsible">File dependency (or dependency)</button>
 <div class="content">
-  <p>software code that requires the presence of certain files (file dependency) or software libraries for the program to execute. Some dependencies may require a particular version of a software code for execution.</p>
+  <p><br>software code that requires the presence of certain files (file dependency) or software libraries for the program to execute. Some dependencies may require a particular version of a software code for execution.</p>
 </div>
 
 

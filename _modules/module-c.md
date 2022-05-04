@@ -1,5 +1,5 @@
 ---
-title: "C Step: Check the Data"
+title: "C Step: Check the Data Deposit"
 layout: module
 ---
 
@@ -26,11 +26,11 @@ layout: module
   <br>
   <p>
 <b>Curators will be able to:</b><br>
-&nbsp;&nbsp;1. Perform curation actions such as conducting a file inventory and opening the files. 
+&nbsp;&nbsp;1. Perform curation actions such as conducting a file inventory and opening the files.
    <br>
   &nbsp;&nbsp;2. Check the submission for completeness based on a predefined criteria.
    <br>
-  &nbsp;&nbsp;3. Develop preliminary recommendations to be used for the “understand” step.
+  &nbsp;&nbsp;3. Develop preliminary recommendations to be used for the “Understand” step.
 
 </p>
 </blockquote>
@@ -99,11 +99,11 @@ layout: module
 </div>
 <button class="collapsible">Dissemination Information Package (DIP)</button>
 <div class="content">
-  <p><br>A package created from the AIP to distribute digital content to users.</p>
+  <p><br>A package created from the Archival Information Package (AIP) to distribute digital content to users.</p>
 </div>
 <button class="collapsible">File inventory </button>
 <div class="content">
-  <p><br>The list of files in the submission information package.</p>
+  <p><br>The list of files in the submission information package (SIP).</p>
 </div>
 <button class="collapsible">File organization</button>
 <div class="content">
@@ -132,7 +132,7 @@ for (i = 0; i < coll.length; i++) {
       content.style.maxHeight = null;
     } else {
       content.style.maxHeight = content.scrollHeight + "px";
-    } 
+    }
   });
 }
 </script>
@@ -147,11 +147,11 @@ for (i = 0; i < coll.length; i++) {
 
 <h2>Summary of the Check Step</h2>
 <p>
-The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can also start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
+The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, and metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
 
 <br>
 <br>
-Common things to look for during this step are the record level metadata, <b> file inventory, file organization</b>, the <b>README file</b>, and whether the file can open or not:
+Common things to look for during this step are the record level <b> metadata, file inventory, file organization</b>, the <b>README file</b>, and whether the file(s) can open or not:
 </p>
 
 <br>
@@ -160,11 +160,11 @@ Common things to look for during this step are the record level metadata, <b> fi
 <th style="color:#44729B;" ><h4>Check for:</h4></th>
 <th style="color:#44729B;  padding-left: 4%;" ><h4>Questions to ask:</h4></th>
 <tr>
-<td style="color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>Completeness</b></td> 
+<td style="color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>Completeness</b></td>
 <td ><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;"><li> Is the submission complete based on any predefined criteria for your repository? An example of predefined criteria is the <a href="https://datadryad.org/stash/faq#files" target="_blank"> Dryad repository guidelines </a>.</li></ul></td>
 </tr>
 <tr>
-<td style = "color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>Record Level Metadata</b></td> 
+<td style = "color:#44729B; padding-top: 2%; padding-bottom: 2%;"><b>Record Level Metadata</b></td>
 <td><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;"><li> Does the description have sufficient detail?</li>
 <li>Are all required fields filled out? (e.g., title, author/creator, licensing) </li></ul></td>
 </tr>
@@ -213,7 +213,7 @@ Common things to look for during this step are the record level metadata, <b> fi
 
 <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
 <li> Review participant agreement and data use agreements; examine potential impacts of sharing this data. Consider:
-  <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 7%;"> 
+  <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 7%;">
   <li> Individuals and communities represented</li>
   <li> Representativeness of diverse human populations</li>
   <li> Protection or endangerment status of species </li>
@@ -236,13 +236,13 @@ Common things to look for during this step are the record level metadata, <b> fi
 
 <b>Materials Needed</b><br>
 
-  &nbsp;1.  Data deposit <a href="https://docs.google.com/spreadsheets/d/1u3jdZ6Pq2IImxeddOQjWE1Y_7ssUTY0V/edit#gid=1453514557" target="_blank">here</a>.
+  &nbsp;1.  Data deposit <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">here</a>.
    <br>
    <br>
 
 
 <b>Directions</b><br>
-    In this activity, using the checklist below, you will perform the C check on the <a href="https://docs.google.com/spreadsheets/d/1u3jdZ6Pq2IImxeddOQjWE1Y_7ssUTY0V/edit#gid=1453514557" target="_blank">provided dataset</a>. Once you have completed this activity, feel free to run the C step on another dataset of your choosing.
+    In this activity, using the checklist below, you will perform the C check on the <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">data depositt</a>. Once you have completed this activity, feel free to run the C step on another dataset of your choosing.
 
 <br>
 </p>
@@ -253,14 +253,14 @@ Common things to look for during this step are the record level metadata, <b> fi
 <h2>C Step Checklist</h2>
 
 <div class="flex-contianer">
-     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access Curation Checklist</a>
+     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access CURATE(D) Checklist</a>
 </div>
 <br>
 <table frames=hsides rules=rows>
 
 <th>C Step Number</th>
 <th>C Step</th>
-<th>Yes/No/NA</th>
+<th>Yes No NA</th>
 <tr>
 <td  style="padding-top: 1%; padding-bottom: 1%;">C1</td>
 <td  style="padding-top: 1%; padding-bottom: 1%;">Files open as expected?</td>
@@ -330,5 +330,3 @@ Here are some selected tools that can open a variety of data types. <br>
      <a class="button button-primary" href="/CURATED/data"> < Previous</a>
      <a class="button button-primary" href="/CURATED/modules/module-u"> Next > </a>
 </div>
-
-

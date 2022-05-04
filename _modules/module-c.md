@@ -309,7 +309,7 @@ Common things to look for during this step are the record level <b> metadata, fi
 <h4>Tools </h4>
 <p>
 <br>
-<a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">View some selected tools that can open a variety oof data types .</a>
+<a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">View some selected tools that can open a variety of data types .</a>
 </p>
 
 

@@ -3,7 +3,7 @@ title: "U Step: Understand the Data Deposit"
 layout: module
 ---
 
-<br> 
+<br>
 
 <style>
 
@@ -26,14 +26,14 @@ layout: module
 <br>
 <p>
 <b>Curators will be able to:</b><br>
-  &nbsp;&nbsp;&nbsp;1. Identify different terms and processes associated with the Understand step of the CURATED model.
+  &nbsp;&nbsp;&nbsp;1. Identify different terms and processes associated with   the Understand step of the CURATED model.
    <br>
   &nbsp;&nbsp;&nbsp;2. Assess a dataset and its component files as a complete package.
    <br>
   &nbsp;&nbsp;&nbsp;3. Engage in an activity to practice the U step on the dataset identified in the previous step (Check).
     <br>
   &nbsp;&nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the R(equest) step: Request missing information.
- 
+
 </p>
 </blockquote>
 
@@ -97,12 +97,12 @@ layout: module
 <br>
 <br>
 
-<button class="collapsible">Absolute path/Relative path</button>
+<button class="collapsible">Absolute/Relative path</button>
 <div class="content">
   <br>
   <p>The path refers to the location of a file in the directory structure of where it is stored. </p>
   <p>
-  &nbsp;&nbsp;&nbsp;&nbsp; a. Absolute paths provide a full list of all of the folders from the beginning (or “root”) of the storage unit. On most unix based systems, the root directory is “\.” On Windows systems, the root directory usually begins with a drive letter such as “C:\”. 
+  &nbsp;&nbsp;&nbsp;&nbsp; a. Absolute paths provide a full list of all of the folders from the beginning (or “root”) of the storage unit. On most unix based systems, the root directory is “\.” On Windows systems, the root directory usually begins with a drive letter such as “C:\”.
   </p>
   <p>
   &nbsp;&nbsp;&nbsp;&nbsp; b. Relative paths provide a list of folders that begin at a designated folder (usually the initial folder of a project). In the case of curating for secondary use, relative paths are preferred for long term preservation since it is generally easier to share and preserve the initial project folder and all subsequent folders.</p>
@@ -142,7 +142,7 @@ for (i = 0; i < coll.length; i++) {
       content.style.maxHeight = null;
     } else {
       content.style.maxHeight = content.scrollHeight + "px";
-    } 
+    }
   });
 }
 </script>
@@ -201,7 +201,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 <td><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
 
 
-<li>If human subject data are included: 
+<li>If human subject data are included:
 
   <ul style="padding-top: 1%; padding-bottom: 1%; padding-left: 5%;">
     <li> Is a consent form present that allows for data sharing? </li>
@@ -210,7 +210,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 
 </li>
 
-<li>If there are geographic data included: 
+<li>If there are geographic data included:
   <ul style=" padding-top: 1%; padding-bottom: 1%; padding-left: 5%;">
     <li> Are there direct location identifiers (addresses, geographic coordinates, placenames, etc.) that could pose a risk to persons or places that could pose a risk to research participants, endangered species, sensitive archeology sites, etc.?
     </li>
@@ -239,7 +239,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 
 <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
 <li> If working with human data, is this research done with and not on communities and populations involved? (You may wish to review data sources, researchers, and their connections to the communities and subjects they are serving to facilitate further conversation with researcher(s).)
-  <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 7%;"> 
+  <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 7%;">
   <li> Are there authoritative group representatives who should be contacted in the next (request) step? </li>
   </ul>
 </li>
@@ -254,7 +254,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 <br>
 <h4>Activity option A:</h4>
 <p>
-Use this link to access a <a href= " https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank"> dataset </a>  and its associated files. These files are in Microsoft Excel and Word format.
+Use the example <a href= " https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank"> data deposit </a>. These files are in Microsoft Excel and Word format.
 </p>
 <h4>Activity option B:</h4>
 <p>
@@ -295,16 +295,16 @@ Working With Various File Formats: </h4>
 When curating data for a repository that accepts all types of data, you can receive many different types of files. As a result, you might not always have the requisite software needed to open and view the files. When this occurs, there are a few different ways to still be able to read the files using common, readily available software.
 </p>
 <p>
-Common proprietary formats you might encounter include (but are not limited to) MATLAB (.mat, .m), Stata (.dta, .dct, .do), SAS (.sas, .sas7bdat), SPSS (.sav, .sps), ESRI/ArcGIS (.shp, .dbf, .gdb). 
+Common proprietary formats you might encounter include (but are not limited to) MATLAB (.mat, .m), Stata (.dta, .dct, .do), SAS (.sas, .sas7bdat), SPSS (.sav, .sps), ESRI/ArcGIS (.shp, .dbf, .gdb).
 </p>
 <p>
-For some proprietary formats, there are open source, freely available software packages that can work with them. For example, QGIS can be used to work with files created in ESRI’s ArcGIS platform. For others, you may have to convert the files. A useful tool for conversion is called <a href= "https://stattransfer.com/overview/" target="_blank"> Stat/Transfer </a>. It is not freely available, but can be worth the investment given that it also helps with older legacy file formats. 
+For some proprietary formats, there are open source, freely available software packages that can work with them. For example, QGIS can be used to work with files created in ESRI’s ArcGIS platform. For others, you may have to convert the files. A useful tool for conversion is called <a href= "https://stattransfer.com/overview/" target="_blank"> Stat/Transfer </a>. It is not freely available, but can be worth the investment given that it also helps with older legacy file formats.
 </p>
 
 
 
 <p>
- <a href= "https://notepad-plus-plus.org/" target="_blank"> Notepad++ </a> is a free source code and text editor. It is an exceptionally helpful tool when working with text files that appear unstructured when opened with regular Notepad or Wordpad. It can also often be used to open code files such as .m, .r, .do, .sas. Notepad++ is also worth trying when a file appears to not have any extension. 
+ <a href= "https://notepad-plus-plus.org/" target="_blank"> Notepad++ </a> is a free source code and text editor. It is an exceptionally helpful tool when working with text files that appear unstructured when opened with regular Notepad or Wordpad. It can also often be used to open code files such as .m, .r, .do, .sas. Notepad++ is also worth trying when a file appears to not have any extension.
 </p>
 Curating human participant data can be challenging. The Data Curation Network has a Primer on <a href= "https://notepad-plus-plus.org/" target="_blank"> Human Participants Data Essentials  </a>that can help inform that process. </p>
 
@@ -327,4 +327,3 @@ Curating human participant data can be challenging. The Data Curation Network ha
      <a class="button button-primary" href="/CURATED/modules/module-c"> < Previous</a>
      <a class="button button-primary" href="/CURATED/modules/module-r"> Next ></a>
 </div>
-

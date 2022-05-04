@@ -236,7 +236,7 @@ Common things to look for during this step are the record level <b> metadata, fi
 
 <b>Materials Needed</b><br>
 
-  &nbsp;1.  Data deposit <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">here</a>.
+  &nbsp;1.   <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">Data deposit</a>.
    <br>
    <br>
 
@@ -260,7 +260,7 @@ Common things to look for during this step are the record level <b> metadata, fi
 
 <th>C Step Number</th>
 <th>C Step</th>
-<th>Yes No NA</th>
+<th>Yes/No/NA</th>
 <tr>
 <td  style="padding-top: 1%; padding-bottom: 1%;">C1</td>
 <td  style="padding-top: 1%; padding-bottom: 1%;">Files open as expected?</td>
@@ -308,12 +308,10 @@ Common things to look for during this step are the record level <b> metadata, fi
 
 <h4>Tools </h4>
 <p>
-Here are some selected tools that can open a variety of data types. <br>
-<a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">[Link to table].</a>
+<br>
+<a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">View some selected tools that can open a variety oof data types .</a>
 </p>
-<div class="flex-contianer">
-     <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
-</div>
+
 
 
 

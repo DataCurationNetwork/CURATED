@@ -12,3 +12,36 @@ bodyClass: "page-modules"
         </div>
     </div>
 </div>
+
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-12">
+    <h2 style="text-align: center; color:#44729B">CURATED Training Modules Overview</h2>
+    <br>
+    <div class="row justify-content-start">
+      <b style="padding-right:10%; padding-bottom:2%;">Through completion of the CURATED Training, you will learn how to:</b>
+      {% assign weighted_services = site.services | sort: "weight" %}
+      <table frames="hsides" rules="rows">
+      {% for service in weighted_services %}
+      <tr>
+      <div class="">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <th style="color:#44729B; padding-top: 2%; padding-bottom: 2%;">{{ service.title }}</th>
+            </h2>
+            <td style="padding-top: 2%; padding-bottom: 2%;">{{ service.description | markdownify |strip_html}}</td>
+            <br>
+          </div>
+        </div>
+      </div>
+    </tr>
+      {% endfor %}
+    </table>
+    </div>
+    <div class="row justify-content-center" style="padding-top: 5%;">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ "data" | relative_url }}">Start CURATED Training</a>
+      </div>
+    </div>
+  </div>
+</div>

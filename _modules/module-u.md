@@ -3,6 +3,21 @@ title: "U Step: Understand the Data Deposit"
 layout: module
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br> 
 
 <style>
@@ -306,11 +321,8 @@ For some proprietary formats, there are open source, freely available software p
 <p>
  <a href= "https://notepad-plus-plus.org/" target="_blank"> Notepad++ </a> is a free source code and text editor. It is an exceptionally helpful tool when working with text files that appear unstructured when opened with regular Notepad or Wordpad. It can also often be used to open code files such as .m, .r, .do, .sas. Notepad++ is also worth trying when a file appears to not have any extension. 
 </p>
+<p>
 Curating human participant data can be challenging. The Data Curation Network has a Primer on <a href= "https://notepad-plus-plus.org/" target="_blank"> Human Participants Data Essentials  </a>that can help inform that process. </p>
-
-<div class="flex-contianer">
-     <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
-</div>
 
 
 <br>

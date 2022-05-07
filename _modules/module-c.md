@@ -311,10 +311,6 @@ Common things to look for during this step are the record level metadata, <b> fi
 Here are some selected tools that can open a variety of data types. <br>
 <a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">[Link to table].</a>
 </p>
-<div class="flex-contianer">
-     <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
-</div>
-
 
 
 <style>

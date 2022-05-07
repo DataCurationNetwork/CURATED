@@ -78,7 +78,7 @@ layout: module
 <h2>R Step Actions</h2>
 
 <ol style=" padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
-  <li>Establish Rapport: It may take more than one email
+  <li><b>Establish Rapport: It may take more than one email</b>
     <ul style=" padding-top: 1%; padding-bottom: 1%; padding-left: 5%;">
       <li>Start with a “thank you”</li>
       <li>It is easier to ask for supplemental information once rapport is established; initial email should be as brief and concise as possible.</li>
@@ -94,7 +94,7 @@ layout: module
   </li>
       <br>
 
-  <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible. 
+  <li><b>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible. </b>
       <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
           <li>Formulate your request for the depositor to respond. Explain what you need from the depositor, and why
           <ul style =  "padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
@@ -125,14 +125,14 @@ layout: module
     </blockquote>
   </li>
 <br>
-    <li>Encourage the depositor to supply missing information.
+    <li><b>Encourage the depositor to supply missing information.</b>
         <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
             <li>Tell the depositor how they should get you the information</li>
             <li>Offer to help, for example: include a README template that you have started populating with their information and ask them to complete it.</li>
         </ul>  
     </li>
 <br>
-      <li>Get permission to make any recommended changes to improve the quality of the dataset.
+      <li><b>Get permission to make any recommended changes to improve the quality of the dataset.</b>
           <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
               <li>If your request includes changes you would be able to make yourself (for example, changes to file names), ask for the researcher’s approval before making the changes</li>
               <li>Keep it simple. Explain what changes you recommend and allow researchers to respond with a “yes” or “no”</li>

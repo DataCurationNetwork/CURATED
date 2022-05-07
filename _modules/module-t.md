@@ -453,10 +453,6 @@ Cornell University Library. File formats for digital content: Probability for fu
 </p>
 
 <br>
-<div class="flex-contianer">
-     <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
-</div>
-<br>
 <br>
 
 

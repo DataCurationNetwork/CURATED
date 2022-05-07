@@ -34,11 +34,11 @@ layout: module
   &nbsp;&nbsp;3. Use different tools available to help with file transformation.
     <br>
   &nbsp;&nbsp;4. Identify challenges and benefits to file transformation.
- 
+
 </p>
 </blockquote>
 
-<br> 
+<br>
 <br>
 
 <html>
@@ -100,7 +100,7 @@ layout: module
 </div>
 <button class="collapsible">Accessibility</button>
 <div class="content">
-  <p><br>Content that is accessible is designed and developed so that people with disabilities can use it. For data curators, accessibility can include technical requirements that facilitate access for people with a diverse range of hearing, movement, sight, and cognitive ability (e.g. formatting that is compatible with screen readers), as well as requirements that facilitate user interactions (e.g. understandable instructions remove barriers to access, understanding and reuse of the data). Curating with accessibility in mind can improve data for all future users. 
+  <p><br>Content that is accessible is designed and developed so that people with disabilities can use it. For data curators, accessibility can include technical requirements that facilitate access for people with a diverse range of hearing, movement, sight, and cognitive ability (e.g. formatting that is compatible with screen readers), as well as requirements that facilitate user interactions (e.g. understandable instructions remove barriers to access, understanding and reuse of the data). Curating with accessibility in mind can improve data for all future users.
 </p>
 </div>
 <button class="collapsible">Conversion or Transformation</button>
@@ -118,8 +118,8 @@ layout: module
 </div>
 <button class="collapsible">Proprietary Format</button>
 <div class="content">
-  <p><br>A proprietary format is a file format of a company, organization, or individual that contains data that is ordered and stored according to a particular encoding-scheme, designed by the company or organization to be secret, such that the decoding and interpretation of this stored data is easily accomplished only with particular software or hardware that the company itself has developed. 
- 
+  <p><br>A proprietary format is a file format of a company, organization, or individual that contains data that is ordered and stored according to a particular encoding-scheme, designed by the company or organization to be secret, such that the decoding and interpretation of this stored data is easily accomplished only with particular software or hardware that the company itself has developed.
+
  <a href="https://en.wikipedia.org/wiki/Proprietary_format" target="_blank"> (Wikipedia) </a> </p>
 </div>
 
@@ -146,7 +146,7 @@ layout: module
   &nbsp;&nbsp;3. Decide if both original and converted files will be part of the upload.
     <br>
   &nbsp;&nbsp;4. Update documentation to reflect transformation notes, as necessary.
- 
+
 </p>
 
 <br>
@@ -279,10 +279,10 @@ or Transformations</h4></th>
 
 <h2>Activity: Excel Archival Tool </h2>
 <p>
-The <a href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Excel Archival Tool</a> programmatically converts Excel files to open source formats (specifically, CSV and PNG) in preparation for archiving. You will download, install, and use the Excel Archival Tool (EAT) to transform a Microsoft Excel file to archival CSV and PNG files. The Excel Archival Tool is only available for Windows platforms; other platforms will either have to perform the file transformations manually or obtain a Windows machine to do this exercise.
+The <a href="https://github.com/mcgrory/ExcelArchivalTool" target = "_blank"> Excel Archival Tool</a> programmatically converts Excel files to open source formats (specifically, CSV and PNG) in preparation for archiving. You will download, install, and use the Excel Archival Tool (EAT) to transform a Microsoft Excel file to archival CSV and PNG files. The Excel Archival Tool is only available for Windows platforms; other platforms will either have to perform the file transformations manually or obtain a Windows machine to do this exercise.
 </p>
 
-<p>The Excel Archival Tool: 
+<p>The Excel Archival Tool:
 </p>
 
 <ul style = "padding-left: 5%" >
@@ -309,16 +309,16 @@ The <a href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Z
 
 <li>Download Excel Archival Tool  from GitHub: <a href="http://z.umn.edu/exceltool" target = "_blank"> http://z.umn.edu/exceltool</a>
     <ol type = "a" style = "padding-left: 7%">
-    <li>We suggest that you use the WithUI version of the tool for this exercise. 
+    <li>We suggest that you use the WithUI version of the tool for this exercise.
         <ol type = "i" style = "padding-left: 10%"><li>After downloading the ZIP, extract the WithUI folder.</li></ol>
    </li>
    <li>Remember where you extract these files, so you can access the tool during the exercise.</li>
    </ol>
-   
+
 </li>
-<li>Download excel file “Microsoft Excel data file, all figures [Microsoft Excel]” from <a href="https://hdl.handle.net/1813/43783" target = "_blank"> https://hdl.handle.net/1813/43783</a>. 
+<li>Download excel file “Microsoft Excel data file, all figures [Microsoft Excel]” from <a href="https://hdl.handle.net/1813/43783" target = "_blank"> https://hdl.handle.net/1813/43783</a>.
 </li>
-<li>Create a folder for your EAT output; this is not a requirement, but will simplify the process. 
+<li>Create a folder for your EAT output; this is not a requirement, but will simplify the process.
 </li>
 </ol>
 <br>
@@ -356,10 +356,10 @@ The <a href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Z
 <blockquote class = "highlighted-text">
 
 <h2>Activity: Transformation Actions </h2>
- 
+
 <h4>Activity Materials </h4>
 <p>
-Dataset, either the same one you used for the EAT activity, or one of your choosing. 
+Dataset, either the same one you used for the EAT activity, or one of your choosing.
 </p>
 <h4> Directions </h4>
 <ol style = "padding-left: 5%">
@@ -370,7 +370,7 @@ List some of the challenges to any particular format transformations or stakehol
 </ol>
 <br>
 <p>
-Bonus question: At what level has your institution promised to “preserve” the data, and what are the implications of that policy in practice? 
+Bonus question: At what level has your institution promised to “preserve” the data, and what are the implications of that policy in practice?
 </p>
 
 </blockquote>
@@ -404,7 +404,7 @@ The researcher may not want to take the time to perform transformations. Future 
 
 <p>
 Bonus question: At what level has your institution promised to “preserve” the data, and what are the implications of that policy in practice? <br>
-Read over your preservation support policy (or <a href="https://guides.library.cornell.edu/ecommons/preservation" target = "_blank"> this example</a> from Cornell’s eCommons digital repository) and consider what effect file transformations, or the lack thereof might have on the repository’s ability to preserve the data. Are files that are only able to be opened by a proprietary software that is no longer maintained or available preserved? 
+Read over your preservation support policy (or <a href="https://guides.library.cornell.edu/ecommons/preservation" target = "_blank"> this example</a> from Cornell’s eCommons digital repository) and consider what effect file transformations, or the lack thereof might have on the repository’s ability to preserve the data. Are files that are only able to be opened by a proprietary software that is no longer maintained or available preserved?
   </p>
   <br>
 </div>
@@ -421,7 +421,7 @@ for (i = 0; i < coll.length; i++) {
       content.style.maxHeight = null;
     } else {
       content.style.maxHeight = content.scrollHeight + "px";
-    } 
+    }
   });
 }
 </script>
@@ -437,7 +437,7 @@ for (i = 0; i < coll.length; i++) {
 Excel Archival Tool  from GitHub:   <a href="http://z.umn.edu/exceltool" target = "_blank"> http://z.umn.edu/exceltool</a>  - The Excel Archival Tool programmatically converts Excel files to open source formats (specifically, CSV and PNG).
 </p>
 <p>
-McGrory, John. (2015). Poster for "Excel Archival Tool: Automating the Spreadsheet Conversion Process". Retrieved from the University of Minnesota Digital Conservancy, <a href="http://hdl.handle.net/11299/171966" target = "_blank"> http://hdl.handle.net/11299/171966</a>. 
+McGrory, John. (2015). Poster for "Excel Archival Tool: Automating the Spreadsheet Conversion Process". Retrieved from the University of Minnesota Digital Conservancy, <a href="http://hdl.handle.net/11299/171966" target = "_blank"> http://hdl.handle.net/11299/171966</a>.
 </p>
 <p>
 Module 3 Understand: more information about proprietary file formats, software version documentation, and other important actions for understanding the data.
@@ -446,7 +446,7 @@ Module 3 Understand: more information about proprietary file formats, software v
 Janée, Greg; Sawchuk, Sandra; Yoo, Ho Jung. (2019). Microsoft Excel Data Curation Primer. Data Curation Network GitHub Repository.
 </p>
 <p>
-Smithsonian Institution Archives. Smithsonian Recommended Preservation Formats for Electronic Records. <a href="https://siarchives.si.edu/what-we-do/digital-curation/recommended-preservation-formats-electronic-records" target = "_blank"> https://siarchives.si.edu/what-we-do/digital-curation/recommended-preservation-formats-electronic-records</a>. 
+Smithsonian Institution Archives. Smithsonian Recommended Preservation Formats for Electronic Records. <a href="https://siarchives.si.edu/what-we-do/digital-curation/recommended-preservation-formats-electronic-records" target = "_blank"> https://siarchives.si.edu/what-we-do/digital-curation/recommended-preservation-formats-electronic-records</a>.
 </p>
 <p>
 Cornell University Library. File formats for digital content: Probability for full long-term preservation, in Recommended File Formats. <a href="https://guides.library.cornell.edu/ecommons/formats <" target = "_blank"> https://guides.library.cornell.edu/ecommons/formats </a>

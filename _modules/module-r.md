@@ -68,7 +68,7 @@ layout: module
   &nbsp;&nbsp;3. Encourage the depositor to supply missing information.
     <br>
   &nbsp;&nbsp;4. Get permission to make any recommended changes to improve the quality of the dataset.
- 
+
   </p>
   </p>
 
@@ -94,7 +94,11 @@ layout: module
   </li>
       <br>
 
+<<<<<<< HEAD
   <li><b>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible. </b>
+=======
+  <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible.
+>>>>>>> 97ae1a630da2d76459daa10829e865cc94a13cb4
       <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
           <li>Formulate your request for the depositor to respond. Explain what you need from the depositor, and why
           <ul style =  "padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
@@ -103,7 +107,7 @@ layout: module
           </ul>
           </li>
       </ul>
-      <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;"> 
+      <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
           <li>Prioritize your requests! Ask for information that is most important for the dataset quality first.
                 <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
                     <li><b>Essential</b>: What information is critical to improve the quality of the dataset? (for example: missing README or metadata, files that won’t open or are missing extension information, errors found in data set)</li>

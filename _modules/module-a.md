@@ -32,75 +32,14 @@ layout: module
   &nbsp;&nbsp;2. Complete metadata profiles and README documentation to enhance discovery, access, and linkages.
    <br>
   &nbsp;&nbsp;3. Add or replace files supplemented by the depositor from the Request step and any inforamtion gathered in the Understand step.
-    <br>
+  </p>
 
-</p>
-</blockquote>
+  <br>
+  <br>
 
-<br>
-<br>
+  </blockquote>
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<style>
-.collapsible {
-  background-color: #44729B;
-  color: white;
-  cursor: pointer;
-  padding-bottom: 30px;
-  padding-top: 30px;
-  padding-left: 20px;
-  width: 100%;
-  border: none;
-  border-bottom: 3px solid white;
-  text-align: left;
-  outline: none;
-}
-.active, .collapsible:hover {
-  background-color: #345878;
-}
-.content {
-  padding: 0 20px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color: rgb(68,114,155,0.2);
-}
-.collapsible:after {
-  color: #ffffff;
-  content: "+";
-  font-size: 20px;
-  float: right;
-  margin-left: 5px;
-  padding-right: 10px;
-}
-.active:after {
-  content: "-";
-  color: #ffffff;
-  font-size: 20px;
-  padding-right: 10px;
-}
-</style>
-</head>
-
-<body>
-
-<h2>Terms to know</h2>
-
-<br>
-<br>
-
-<button class="collapsible">Access</button>
-<div class="content">
-  <p><br>The act of making information available. To increase ease of access, data should be made available in a convenient and modifiable form.
-</p>
-</div>
-
-
-<br>
-<br>
+  <br>
 
 <h2>Summary of the Augment Step</h2>
 <p>
@@ -113,10 +52,10 @@ There are two specific ways you may Augment the dataset and it's documentation w
   &nbsp;&nbsp;2. README files or other documentation
    <br>
 
-</p>
-</blockquote>
+   </p>
+   </p>
 
-<br>
+ <br>
 
 <h2>A Step Actions</h2>
 <p>
@@ -148,7 +87,7 @@ Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4
 </style>
 
 
-<b>Table 1: <a href="https://schema.datacite.org/meta/kernel-4.4/doc/DataCite-MetadataKernel_v4.4.pdf" target="_blank"> DataCite Metadata Profile 4.4 .</a> Recommended and Optional Properties</b>
+<b>Table 1: <a href="https://schema.datacite.org/meta/kernel-4.4/doc/DataCite-MetadataKernel_v4.4.pdf" target="_blank"> DataCite Metadata Profile 4.4</a> Recommended and Optional Properties</b>
 <table>
 <th bgcolor="#44729B"><h4 style = "color:#FFFFFF;"> Property </h4></th>
 <th bgcolor="#44729B"><h4 style = "color:#FFFFFF;">Obligation</h4></th>
@@ -239,8 +178,8 @@ Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4
 <h4>README and other Documentation</h4>
 <p>
 Example README Forms
-<a href="https://github.com/psu-libraries/scholarsphere/wiki/README-Guide" target="_blank"> Penn State README.</a>
-<a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank"> Cornell README.</a>
+<li><a href="https://github.com/psu-libraries/scholarsphere/wiki/README-Guide" target="_blank"> Penn State README.</a></li>
+<li><a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank"> Cornell README.</a></li>
 
 
 
@@ -249,7 +188,7 @@ Example README Forms
 <div class="flex-contianer">
      <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access CURATE(D) Checklist</a>
 </div>
-
+<br>
 
 
 <h2> Key Ethical Considerations </h2>
@@ -279,22 +218,12 @@ steps is completed</li>
  <b>Directions</b><br>
     Now that you've <b>C</b>hecked and <b>U</b>ndstand the dataset, as well as <b>R</b>equested some inforamtion from the depositor - it is time to <b>A</b>ugment the data with gathered information. Assume that after you requested more information, the depositor sent an updated README file. Augment the dataset above - augmenting both the README and the metadata form.
 
- <br>
- </p>
- </blockquote>
-
- <br>
-
- <b>Active Reflection</b><br>
+<b>Active Reflection</b><br>
     After completing this step, take a few minutes and see what else may be missing that you want to go back to the depositor and ask for additional information about. What's incomplete or still required for reuse?
 
  <br>
  </p>
  </blockquote>
-
- <br>
-
-
 
 <style>
 .flex-contianer {

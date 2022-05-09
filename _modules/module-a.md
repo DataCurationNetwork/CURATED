@@ -229,6 +229,12 @@ After completing this step, take a few minutes and see what else may be missing 
  <br>
  <br>
 
+<<<<<<< HEAD
+=======
+ <br>
+ <br>
+
+>>>>>>> cb097d46818e89254917d83e42a22cc3253e8587
  <style>
  .flex-contianer {
    display: flex;
@@ -237,6 +243,11 @@ After completing this step, take a few minutes and see what else may be missing 
  </style>
 
  <div class="flex-contianer">
+<<<<<<< HEAD
       <a class="button button-primary" href="/CURATED/modules/module-r"> < Previous</a>
       <a class="button button-primary" href="/CURATED/modules/module-t"> Next ></a>
+=======
+      <a class="button button-primary" href="/CURATED/modules/module-u"> < Previous</a>
+      <a class="button button-primary" href="/CURATED/modules/module-a"> Next ></a>
+>>>>>>> cb097d46818e89254917d83e42a22cc3253e8587
  </div>

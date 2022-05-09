@@ -204,17 +204,10 @@ steps is completed</li>
 
 
 <blockquote class = "highlighted-text">
-
 <h2>Activity</h2>
-<p>
-
-
-
 <h4>Activity Materials:</h4>
 &nbsp;1.   <a href="https://drive.google.com/drive/folders/1ow_IJ8Gh1Ska5Ck837D5JRFogd646FMy" target="_blank">Updated README obtained from the Request step</a>.
  <br>
- <br>
-
  <h4>Directions</h4>
  <p>
 Now that you've <b>C</b>hecked and <b>U</b>ndstand the dataset, as well as <b>R</b>equested some inforamtion from the depositor - it is time to <b>A</b>ugment the data with gathered information. Assume that after you requested more information, the depositor sent an updated README file. Augment the dataset above - augmenting both the README and the metadata form.

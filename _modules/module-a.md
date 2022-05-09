@@ -225,13 +225,17 @@ steps is completed</li>
  </p>
  </blockquote>
 
-<style>
-.flex-contianer {
-  display: flex;
-  justify-content: space-between;
-}
-</style>
-<div class="flex-contianer">
-     <a class="button button-primary" href="/CURATED/modules/module-a"> < Previous</a>
-     <a class="button button-primary" href="/CURATED/modules/module-e"> Next > </a>
-</div>
+ <br>
+ <br>
+
+ <style>
+ .flex-contianer {
+   display: flex;
+   justify-content: space-between;
+ }
+ </style>
+
+ <div class="flex-contianer">
+      <a class="button button-primary" href="/CURATED/modules/module-u"> < Previous</a>
+      <a class="button button-primary" href="/CURATED/modules/module-a"> Next ></a>
+ </div>

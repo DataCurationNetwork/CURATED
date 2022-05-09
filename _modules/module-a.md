@@ -215,15 +215,16 @@ steps is completed</li>
  <br>
  <br>
 
- <b>Directions</b><br>
-    Now that you've <b>C</b>hecked and <b>U</b>ndstand the dataset, as well as <b>R</b>equested some inforamtion from the depositor - it is time to <b>A</b>ugment the data with gathered information. Assume that after you requested more information, the depositor sent an updated README file. Augment the dataset above - augmenting both the README and the metadata form.
-
-<b>Active Reflection</b><br>
-    After completing this step, take a few minutes and see what else may be missing that you want to go back to the depositor and ask for additional information about. What's incomplete or still required for reuse?
-
- <br>
- </p>
- </blockquote>
+ <h4>Directions</h4>
+ <p>
+Now that you've <b>C</b>hecked and <b>U</b>ndstand the dataset, as well as <b>R</b>equested some inforamtion from the depositor - it is time to <b>A</b>ugment the data with gathered information. Assume that after you requested more information, the depositor sent an updated README file. Augment the dataset above - augmenting both the README and the metadata form.
+</p>
+<br>
+<h4>Active Reflection:</h4>
+<p>
+After completing this step, take a few minutes and see what else may be missing that you want to go back to the depositor and ask for additional information about. What's incomplete or still required for reuse?
+</p>
+</blockquote>
 
  <br>
  <br>
@@ -236,6 +237,6 @@ steps is completed</li>
  </style>
 
  <div class="flex-contianer">
-      <a class="button button-primary" href="/CURATED/modules/module-u"> < Previous</a>
-      <a class="button button-primary" href="/CURATED/modules/module-a"> Next ></a>
+      <a class="button button-primary" href="/CURATED/modules/module-r"> < Previous</a>
+      <a class="button button-primary" href="/CURATED/modules/module-t"> Next ></a>
  </div>

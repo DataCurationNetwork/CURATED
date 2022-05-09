@@ -181,7 +181,7 @@ Example README Forms
 <li><a href="https://github.com/psu-libraries/scholarsphere/wiki/README-Guide" target="_blank"> Penn State README.</a></li>
 <li><a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank"> Cornell README.</a></li>
 
-
+<br>
 
 <h2>A Step Checklist</h2>
 
@@ -229,12 +229,6 @@ After completing this step, take a few minutes and see what else may be missing 
  <br>
  <br>
 
-<<<<<<< HEAD
-=======
- <br>
- <br>
-
->>>>>>> cb097d46818e89254917d83e42a22cc3253e8587
  <style>
  .flex-contianer {
    display: flex;
@@ -243,11 +237,6 @@ After completing this step, take a few minutes and see what else may be missing 
  </style>
 
  <div class="flex-contianer">
-<<<<<<< HEAD
       <a class="button button-primary" href="/CURATED/modules/module-r"> < Previous</a>
       <a class="button button-primary" href="/CURATED/modules/module-t"> Next ></a>
-=======
-      <a class="button button-primary" href="/CURATED/modules/module-u"> < Previous</a>
-      <a class="button button-primary" href="/CURATED/modules/module-a"> Next ></a>
->>>>>>> cb097d46818e89254917d83e42a22cc3253e8587
  </div>

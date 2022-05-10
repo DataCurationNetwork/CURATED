@@ -3,27 +3,6 @@ title: "U Step: Understand the Data Deposit"
 layout: module
 ---
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br> 
-=======
-<br>
->>>>>>> 97ae1a630da2d76459daa10829e865cc94a13cb4
-
 <style>
 
 .highlighted-text {

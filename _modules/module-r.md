@@ -94,11 +94,11 @@ layout: module
   </li>
       <br>
 
-<<<<<<< HEAD
+
   <li><b>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible. </b>
-=======
+
   <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible.
->>>>>>> 97ae1a630da2d76459daa10829e865cc94a13cb4
+
       <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
           <li>Formulate your request for the depositor to respond. Explain what you need from the depositor, and why
           <ul style =  "padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">

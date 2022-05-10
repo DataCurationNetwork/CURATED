@@ -311,12 +311,6 @@ Common things to look for during this step are the record level <b> metadata, fi
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">View some selected tools that can open a variety of data types .</a>
 </p>
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 97ae1a630da2d76459daa10829e865cc94a13cb4
-
 
 <style>
 .flex-contianer {

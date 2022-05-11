@@ -96,10 +96,6 @@ There are four main goals of the R step:
   </li>
       <br>
 
-# <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible.
-
-  <li><b>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible. </b>
-
   <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible.
 
       <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">

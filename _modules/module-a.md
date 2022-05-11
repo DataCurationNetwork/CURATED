@@ -5,8 +5,6 @@ layout: module
 
 <style>
 
-  .highlighted-text {
-
 .highlighted-text {
     padding: 0 0 5px 5px;
     border: 1px solid;
@@ -58,8 +56,6 @@ There are two specific ways you may Augment the dataset and it’s documentation
 <h4>Metadata</h4>
 Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4.4/" target="_blank">DataCite Metadata Schema</a><br>
 <a href="https://schema.datacite.org/meta/kernel-4.4/doc/DataCite-MetadataKernel_v4.4.pdf" target="_blank">DataCite Metadata Profile 4.4</a>
-
-# <table frames="hsides" rules="rows">
 
 <br>
 
@@ -133,7 +129,6 @@ Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4
 <table>
 <th bgcolor="#44729B"><h4 style = "color:#FFFFFF;"> Property </h4></th>
 <th bgcolor="#44729B"><h4 style = "color:#FFFFFF;">Obligation</h4></th>
->>>>>>> 2d41e8da7e39e56ddc429f481a7e71249f604388
 <tr>
 <td>Identifier</td>
 <td>Mandatory</td>
@@ -151,7 +146,6 @@ Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4
 <td>Mandatory</td>
 </tr>
 <tr>
-<td>Publication Year</td>
 <td>PublicationYear</td>
 <td>Mandatory</td>
 </tr>
@@ -213,7 +207,6 @@ Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4
 </tr>
 <tr>
 <td>Related Item (with identifier, creator, title, publication year, volume, issue, number, page, publisher, edition, and contributor sub-properties)</td>
-<td>FundingReference (with name, identifier, and award related sub-properties)</td>
 <td>Optional</td>
 </tr>
 <tr>
@@ -241,49 +234,9 @@ Cornell <a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank">R
 <br>
 <blockquote class = "highlighted-text">
 <h2>Activity</h2>
-<p>Now that you’ve Checked and Understand the dataset, as well as Requested some information from the depositor - it is time to Augment the data with gathered information. Assume that after you requested more information, the depositor sent an updated readme file to try and Augment the dataset above - augmenting both the README and the metadata form.</p>
-
-<h4>Activity Materials</h4>
-Updated README obtained from the Request step may be found <a href="https://drive.google.com/drive/folders/1ow_IJ8Gh1Ska5Ck837D5JRFogd646FMy" target="_blank">here</a>.
-<br>
-<br>
-
-<h4>Active Reflection</h4>
-<p>After completing this step take a few minutes and see what else may be missing that you want to go back to the depositor and ask for additional information about. What’s incomplete or still required for reuse? </p>
-</blockquote>
-<br>
-=======
-<br>
-
-<h4>README and other Documentation</h4>
-<p>
-Example README Forms
-<li><a href="https://github.com/psu-libraries/scholarsphere/wiki/README-Guide" target="_blank"> Penn State README.</a></li>
-<li><a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank"> Cornell README.</a></li>
-
-<br>
-
-<h2>A Step Checklist</h2>
-
-<div class="flex-contianer">
-     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access CURATE(D) Checklist</a>
-</div>
-<br>
-
-<h2> Key Ethical Considerations </h2>
-
-<ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
-<li>Make sure bibliographic information reflects correct author attribution</li>
-<li>Ensure any augmentation by the depositor to resolve ethical questions from previous
-steps is completed</li>
-</ul>
-
-<br>
-
-<blockquote class = "highlighted-text">
-<h2>Activity</h2>
 <h4>Activity Materials:</h4>
 &nbsp;1.   <a href="https://drive.google.com/drive/folders/1ow_IJ8Gh1Ska5Ck837D5JRFogd646FMy" target="_blank">Updated README obtained from the Request step</a>.
+ <br>
  <br>
  <h4>Directions</h4>
  <p>

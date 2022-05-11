@@ -4,12 +4,10 @@ layout: module
 ---
 
 <style>
-<<<<<<< HEAD
+
   .highlighted-text {
-=======
 
 .highlighted-text {
->>>>>>> 2d41e8da7e39e56ddc429f481a7e71249f604388
     padding: 0 0 5px 5px;
     border: 1px solid;
     border-color: #ffffff;
@@ -19,13 +17,11 @@ layout: module
     padding-top: 10px;
     padding-left: 8px;
 
-<<<<<<< HEAD
 }
 .flex-contianer {
   display: flex;
   justify-content: space-between;
-=======
->>>>>>> 2d41e8da7e39e56ddc429f481a7e71249f604388
+
 }
 
 img {
@@ -33,8 +29,6 @@ img {
   height: auto;
 }
 </style>
-
-<<<<<<< HEAD
 
 <blockquote class = "highlighted-text">
   <h2>Learning Outcomes</h2>
@@ -214,24 +208,20 @@ Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4
 <td>Recommended</td>
 </tr>
 <tr>
-<<<<<<< HEAD
 <td>FundingReference (with name, identifier, and award related subproperties)</td>
 <td>Optional</td>
 </tr>
 <tr>
 <td>Related Item (with identifier, creator, title, publication year, volume, issue, number, page, publisher, edition, and contributor sub-properties)</td>
-=======
 <td>FundingReference (with name, identifier, and award related sub-properties)</td>
 <td>Optional</td>
 </tr>
 <tr>
 <td>RelatedItem (With identifier, creator, title, publication year, volume, issue, number, page, publisher, edition, and contributor sub-properties)</td>
->>>>>>> 2d41e8da7e39e56ddc429f481a7e71249f604388
 <td>Optional</td>
 </tr>
 </table>
 <br>
-<<<<<<< HEAD
 <h4>Example Metadata Forms</h4>
 <h5>University of Michigan Libraries</h5>
 <h5>Johns Hopkins University Library</h5>
@@ -274,8 +264,6 @@ Example README Forms
 <br>
 
 <h2>A Step Checklist</h2>
-
-> > > > > > > 2d41e8da7e39e56ddc429f481a7e71249f604388
 
 <div class="flex-contianer">
      <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access CURATE(D) Checklist</a>

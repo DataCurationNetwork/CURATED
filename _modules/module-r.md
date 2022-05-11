@@ -96,7 +96,12 @@ There are four main goals of the R step:
   </li>
       <br>
 
+# <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible.
+
+  <li><b>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible. </b>
+
   <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible.
+
       <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
           <li>Formulate your request for the depositor to respond. Explain what you need from the depositor, and why
           <ul style =  "padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
@@ -125,6 +130,7 @@ There are four main goals of the R step:
         <li>If possible, offer to make changes yourself and ask for approval</li>
     </ul>
     </blockquote>
+
   </li>
 <br>
     <li><b>Encourage the depositor to supply missing information.</b>
@@ -144,9 +150,9 @@ There are four main goals of the R step:
 <br>
 <h2>Example Requests</h2>
 <h4>University of Minnesota - Sample Email to Researcher</h4>
-<img src="/images/r-step-2.png">
+<img src="../images/r-step-2.png">
 <h4>University of Michigan - Sample Email to Researcher</h4>
-<img src="/images/r-step-3.png">
+<img src="../images/r-step-3.png">
 <br>
 
 <h2> Key Ethical Considerations </h2>

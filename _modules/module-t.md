@@ -16,15 +16,18 @@ layout: module
     padding-left: 8px;
 
 }
-</style>
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
 
 <br>
 
 <blockquote class = "highlighted-text">
 <h2>Learning Outcomes</h2>
 <b> Curators will be able to: </b>
-
 
 <p>
   &nbsp;&nbsp;1. Describe what transformation is, and why it is important.
@@ -94,6 +97,7 @@ layout: module
 <br>
 
 <button class="collapsible">Access</button>
+
 <div class="content">
   <p><br>The act of making information available. To increase ease of access, data should be made available in a convenient and modifiable form.
 </p>
@@ -120,7 +124,8 @@ layout: module
 <div class="content">
   <p><br>A proprietary format is a file format of a company, organization, or individual that contains data that is ordered and stored according to a particular encoding-scheme, designed by the company or organization to be secret, such that the decoding and interpretation of this stored data is easily accomplished only with particular software or hardware that the company itself has developed.
 
- <a href="https://en.wikipedia.org/wiki/Proprietary_format" target="_blank"> (Wikipedia) </a> </p>
+<a href="https://en.wikipedia.org/wiki/Proprietary_format" target="_blank"> (Wikipedia) </a> </p>
+
 </div>
 
 <br>
@@ -134,7 +139,6 @@ layout: module
 <br>
 
 <h2>T Step Actions</h2>
-
 
 <p>
   &nbsp;&nbsp;1. Decide if current formats meet access and preservation requirements.
@@ -171,8 +175,8 @@ layout: module
 
 </style>
 
-
 <b>Table 1: Common Transformations</b>
+
 <table>
 <th bgcolor="#44729B"><h4 style = "color:#FFFFFF;"> Native Software or Format </h4></th>
 <th bgcolor="#44729B"><h4 style = "color:#FFFFFF;">Suggested Formats
@@ -232,10 +236,6 @@ or Transformations</h4></th>
 <br>
 <br>
 
-
-
-
-
 <h2>T Step Checklist</h2>
 
 <div class="flex-contianer">
@@ -249,7 +249,7 @@ or Transformations</h4></th>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="2" name="2">
 <label for="2"> &nbsp;Check for proprietary formats</label><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="3" name="3">
-<label for="3"> &nbsp;Check for software availability and version*</label><br>
+<label for="3"> &nbsp;Check for software availability and version\*</label><br>
 &nbsp;&nbsp;<input type="checkbox" id="4" name="4" >
 <label for="4"> &nbsp;Recommend conversion</label><br>
 &nbsp;&nbsp;<input type="checkbox" id="5" name="5" >
@@ -257,11 +257,8 @@ or Transformations</h4></th>
 &nbsp;&nbsp;<input type="checkbox" id="6" name="6" >
 <label for="6"> &nbsp;Document file transformations/conversions, tools used, notes</label>
 
-
 <br>
 <br>
-
-
 
 <h2> Key Ethical Considerations </h2>
 
@@ -272,8 +269,6 @@ or Transformations</h4></th>
 </ul>
 
 <br>
-
-
 
 <blockquote class = "highlighted-text">
 
@@ -295,10 +290,10 @@ The <a href="https://github.com/mcgrory/ExcelArchivalTool" target = "_blank"> Ex
   </li>
   <li>
   Generates a report on the archival outputs
+  <img src="/images/Tstep_EATool.png" >
   </li>
 </ul>
 <br>
-
 
 <h4>Activity Materials:</h4>
 
@@ -352,7 +347,6 @@ The <a href="https://github.com/mcgrory/ExcelArchivalTool" target = "_blank"> Ex
 <br>
 <br>
 
-
 <blockquote class = "highlighted-text">
 
 <h2>Activity: Transformation Actions </h2>
@@ -378,10 +372,8 @@ Bonus question: At what level has your institution promised to “preserve” th
 <br>
 <br>
 
-
-
-
 <button class="collapsible">Suggested Answers</button>
+
 <div class="content">
   <br>
   <ol>
@@ -454,8 +446,6 @@ Cornell University Library. File formats for digital content: Probability for fu
 
 <br>
 <br>
-
-
 
 <style>
 .flex-contianer {

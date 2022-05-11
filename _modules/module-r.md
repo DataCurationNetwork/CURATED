@@ -31,6 +31,10 @@ layout: module
 
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
 </style>
 
 <blockquote  class = "highlighted-text">
@@ -52,13 +56,12 @@ layout: module
 
 <br>
 
-
 <h2>Summary of the Request Step</h2>
 
   <p>
   The Request step is where you communicate with the depositor to address the gaps identified in Check and Understand steps.
 
-  There are four main goals of the R step:
+There are four main goals of the R step:
 
   <p>
   &nbsp;&nbsp;1. Establish a rapport with the depositor.
@@ -73,7 +76,6 @@ layout: module
   </p>
 
 <br>
-
 
 <h2>R Step Actions</h2>
 
@@ -94,11 +96,7 @@ layout: module
   </li>
       <br>
 
-<<<<<<< HEAD
-  <li><b>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible. </b>
-=======
   <li>Let the depositor know what changes and additions need to be made to the data to make it as complete and understandable as possible.
->>>>>>> 97ae1a630da2d76459daa10829e865cc94a13cb4
       <ul style="padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
           <li>Formulate your request for the depositor to respond. Explain what you need from the depositor, and why
           <ul style =  "padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
@@ -146,11 +144,10 @@ layout: module
 <br>
 <h2>Example Requests</h2>
 <h4>University of Minnesota - Sample Email to Researcher</h4>
+<img src="/images/r-step-2.png">
 <h4>University of Michigan - Sample Email to Researcher</h4>
+<img src="/images/r-step-3.png">
 <br>
-
-
-
 
 <h2> Key Ethical Considerations </h2>
 
@@ -175,7 +172,6 @@ Using the data deposit and information gathered from the “C” and “U” ste
 After writing your request, read the email as if you were the researcher receiving it. What might your reaction be? After considering the researcher’s point of view, would you change anything in your request and recommendations?
 </p>
 </blockquote>
-
 
 <br>
 <br>

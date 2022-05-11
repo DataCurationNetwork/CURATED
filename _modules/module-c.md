@@ -20,7 +20,6 @@ layout: module
 }
 </style>
 
-
 <blockquote class = "highlighted-text">
   <h2>Learning Outcomes</h2>
   <br>
@@ -34,7 +33,6 @@ layout: module
 
 </p>
 </blockquote>
-
 
 <html>
 <head>
@@ -83,13 +81,13 @@ layout: module
 <br>
 <br>
 
-
 <h2>Terms to know</h2>
 
 <br>
 <br>
 
 <button class="collapsible">Submission information package (SIP)</button>
+
 <div class="content">
   <p><br>Items that have been submitted by the depositor.</p>
 </div>
@@ -118,8 +116,6 @@ layout: module
   <p><br>Data about data. Metadata can include the author, file size, the date the document was created and keywords to describe the document.</p>
 </div>
 
-
-
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -142,8 +138,6 @@ for (i = 0; i < coll.length; i++) {
 
 <br>
 <br>
-
-
 
 <h2>Summary of the Check Step</h2>
 <p>
@@ -206,9 +200,6 @@ Common things to look for during this step are the record level <b> metadata, fi
 </p>
 <br>
 
-
-
-
 <h2> Key Ethical Considerations </h2>
 
 <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
@@ -227,22 +218,19 @@ Common things to look for during this step are the record level <b> metadata, fi
 
 <br>
 
-
 <blockquote class = "highlighted-text">
 <h2> Activity </h2>
-
 
 <p>
 
 <b>Materials Needed</b><br>
 
-  &nbsp;1.   <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">Data deposit</a>.
-   <br>
-   <br>
-
+&nbsp;1. <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">Data deposit</a>.
+<br>
+<br>
 
 <b>Directions</b><br>
-    In this activity, using the checklist below, you will perform the C check on the <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">data depositt</a>. Once you have completed this activity, feel free to run the C step on another dataset of your choosing.
+In this activity, using the checklist below, you will perform the C check on the <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">data depositt</a>. Once you have completed this activity, feel free to run the C step on another dataset of your choosing.
 
 <br>
 </p>
@@ -311,12 +299,6 @@ Common things to look for during this step are the record level <b> metadata, fi
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">View some selected tools that can open a variety of data types .</a>
 </p>
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 97ae1a630da2d76459daa10829e865cc94a13cb4
-
 
 <style>
 .flex-contianer {

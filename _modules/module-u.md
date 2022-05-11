@@ -3,27 +3,6 @@ title: "U Step: Understand the Data Deposit"
 layout: module
 ---
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br> 
-=======
-<br>
->>>>>>> 97ae1a630da2d76459daa10829e865cc94a13cb4
-
 <style>
 
 .highlighted-text {
@@ -37,8 +16,12 @@ layout: module
     padding-left: 8px;
 
 }
-</style>
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
 
 <blockquote class = "highlighted-text">
 <h2>Learning Outcomes</h2>
@@ -56,60 +39,58 @@ layout: module
 </p>
 </blockquote>
 
-
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 
 .collapsible {
-  background-color: #44729B;
-  color: white;
-  cursor: pointer;
-  padding-bottom: 30px;
-  padding-top: 30px;
-  padding-left: 20px;
-  width: 100%;
-  border: none;
-  border-bottom: 3px solid white;
-  text-align: left;
-  outline: none;
+background-color: #44729B;
+color: white;
+cursor: pointer;
+padding-bottom: 30px;
+padding-top: 30px;
+padding-left: 20px;
+width: 100%;
+border: none;
+border-bottom: 3px solid white;
+text-align: left;
+outline: none;
 }
 
 .active, .collapsible:hover {
-  background-color: #345878;
+background-color: #345878;
 }
 
 .content {
-  padding: 0 20px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color: rgb(68,114,155,0.2);
+padding: 0 20px;
+max-height: 0;
+overflow: hidden;
+transition: max-height 0.2s ease-out;
+background-color: rgb(68,114,155,0.2);
 }
 
 .collapsible:after {
-  color: #ffffff;
-  content: "+";
-  font-size: 20px;
-  float: right;
-  margin-left: 5px;
-  padding-right: 10px;
+color: #ffffff;
+content: "+";
+font-size: 20px;
+float: right;
+margin-left: 5px;
+padding-right: 10px;
 }
 
 .active:after {
-  content: "-";
-  color: #ffffff;
-  font-size: 20px;
-  padding-right: 10px;
+content: "-";
+color: #ffffff;
+font-size: 20px;
+padding-right: 10px;
 }
 </style>
+
 </head>
 <body>
 <br>
 <br>
-
 
 <h2>Terms to know</h2>
 
@@ -117,6 +98,7 @@ layout: module
 <br>
 
 <button class="collapsible">Absolute/Relative path</button>
+
 <div class="content">
   <br>
   <p>The path refers to the location of a file in the directory structure of where it is stored. </p>
@@ -147,8 +129,6 @@ layout: module
   <p><br>software code that requires the presence of certain files (file dependency) or software libraries for the program to execute. Some dependencies may require a particular version of a software code for execution.</p>
 </div>
 
-
-
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -171,7 +151,6 @@ for (i = 0; i < coll.length; i++) {
 
 <br>
 <br>
-
 
 <h2>Summary of the U Step: Understand the Data Deposit</h2>
 <p>
@@ -219,7 +198,6 @@ Below are some actions you might perform during the Understand step. Actions wil
 
 <td><ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
 
-
 <li>If human subject data are included:
 
   <ul style="padding-top: 1%; padding-bottom: 1%; padding-left: 5%;">
@@ -242,15 +220,12 @@ Below are some actions you might perform during the Understand step. Actions wil
 </tr>
 </table>
 
-
 <br>
-
 
 <h2> U Step Checklist </h2>
 <div class="flex-contianer">
      <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access Curation Checklist</a>
 </div>
-
 
 <br>
 
@@ -266,7 +241,6 @@ Below are some actions you might perform during the Understand step. Actions wil
 </ul>
 
 <br>
-
 
 <blockquote class = "highlighted-text">
 <h2>Activity</h2>
@@ -298,7 +272,6 @@ Software available to open your chosen dataset and accompanying files (or abilit
 </p>
 </blockquote>
 
-
 <br>
 <h2>Additional Resources</h2>
 
@@ -320,14 +293,11 @@ Common proprietary formats you might encounter include (but are not limited to) 
 For some proprietary formats, there are open source, freely available software packages that can work with them. For example, QGIS can be used to work with files created in ESRI’s ArcGIS platform. For others, you may have to convert the files. A useful tool for conversion is called <a href= "https://stattransfer.com/overview/" target="_blank"> Stat/Transfer </a>. It is not freely available, but can be worth the investment given that it also helps with older legacy file formats.
 </p>
 
-
-
 <p>
  <a href= "https://notepad-plus-plus.org/" target="_blank"> Notepad++ </a> is a free source code and text editor. It is an exceptionally helpful tool when working with text files that appear unstructured when opened with regular Notepad or Wordpad. It can also often be used to open code files such as .m, .r, .do, .sas. Notepad++ is also worth trying when a file appears to not have any extension.
 </p>
 <p>
 Curating human participant data can be challenging. The Data Curation Network has a Primer on <a href= "https://notepad-plus-plus.org/" target="_blank"> Human Participants Data Essentials  </a>that can help inform that process. </p>
-
 
 <br>
 <br>

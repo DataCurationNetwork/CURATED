@@ -18,6 +18,11 @@ layout: module
     padding-left: 8px;
 
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
 </style>
 
 <blockquote class = "highlighted-text">
@@ -97,7 +102,6 @@ padding-right: 10px;
   <p><br> The FAIR Principles were developed by a set of diverse stakeholders that outline how scientific data should be shared. They stand for Findable, Accessible, Interoperable, and Reusable. </p>
 </div>
 
-
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -148,9 +152,8 @@ Curation is a partnership between:
 <p>
 The diagram below shows the relationship and key considerations between the curator, researcher, and repository platform and how we work together to make data more FAIR. 
 </p>
-
+<img src="/images/DCN_ModuleE_Figure.png">
 <br>
-
 
 <h2>&nbsp;E Step Actions</h2>
 <p>
@@ -162,7 +165,6 @@ The diagram below shows the relationship and key considerations between the cura
 </p>
 <br>
 
-
 <blockquote class = "highlighted-text">
 <h2> Activity: Evaluate for FAIRNess </h2>
 
@@ -170,7 +172,7 @@ The diagram below shows the relationship and key considerations between the cura
 
 <b>Materials Needed</b><br>
 
-For this activity you will assess a dataset for FAIRness and then recommend ways to increase the FAIRness. 
+For this activity you will assess a dataset for FAIRness and then recommend ways to increase the FAIRness.
 
 <br>
 
@@ -193,7 +195,6 @@ For this activity you will assess a dataset for FAIRness and then recommend ways
 </blockquote>
 
 <br>
-
 
 <h2>E Step Checklist</h2>
 
@@ -232,8 +233,6 @@ For this activity you will assess a dataset for FAIRness and then recommend ways
 
 <br>
 
-
-
 <h2> Key Ethical Considerations </h2>
 
 <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
@@ -245,12 +244,10 @@ For this activity you will assess a dataset for FAIRness and then recommend ways
 
 <br>
 
-
 <h2>Additional Resources</h2>
 
 <p>There are numerous other tools and metrics being created by the community to evaluate FAIRness: 
 </p>
-
 
 <ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
 
@@ -270,15 +267,8 @@ For this activity you will assess a dataset for FAIRness and then recommend ways
 </li>
 <li>Australian Research Data Commons provides a self-guided question-based <a href="https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/" target = "_blank"> FAIR data assessment tool </a> </li>
 </ul>
-
-
-<br>
-<div class="flex-contianer">
-     <a class="button button-primary" href="#" target="_blank"> CLICK HERE</a>
-</div>
 <br>
 <br>
-
 
 <style>
 .flex-contianer {

@@ -1,6 +1,6 @@
 ---
 layout: default
-bodyClass: "page-modules"
+bodyClass: "page-module"
 ---
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
@@ -9,39 +9,9 @@ bodyClass: "page-modules"
             <div class="service service-single">
                 <h1 class="title">{{page.title}}</h1>
             </div>
+            <div>
+                {{ content }}
+            </div>
         </div>
-
-<div class="strip">
-  <div class="container pt-6 pb-6 pb-md-12">
-    <h2 style="text-align: center; color:#44729B">CURATED Training Modules Overview</h2>
-    <br>
-    <div class="row justify-content-start">
-      <b style="padding-right:10%; padding-bottom:2%;">Note: This training and associated CURATE(D) model are teaching and research tools that are presented and best understood sequentially.
-        However, you can use this navigation to jump to a particular module by clicking on the title of a module.</b>
-        </div>
-* Module activities will require access to the example <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">Data deposit</a>.
-      {% assign weighted_services = site.services | sort: "weight" %}
-      <table frames="hsides" rules="rows">
-      {% for service in weighted_services %}
-      <tr>
-      <div class="">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <th style="color:#44729B; padding-top: 2%; padding-bottom: 2%;">{{ service.title }}</th>
-            </h2>
-            <td style="padding-top: 2%; padding-bottom: 2%;">{{ service.description | markdownify |strip_html}}</td>
-            <br>
-          </div>
-        </div>
-      </div>
-    </tr>
-      {% endfor %}
-    </table>
     </div>
-    <div class="row justify-content-center" style="padding-top: 5%;">
-      <div class="col-auto">
-      </div>
-    </div>
-  </div>
 </div>

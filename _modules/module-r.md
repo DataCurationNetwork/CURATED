@@ -150,9 +150,9 @@ There are four main goals of the R step:
 <br>
 <h2>Example Requests</h2>
 <h4>University of Minnesota - Sample Email to Researcher</h4>
-<img src="../images/r-step-2.png">
+<img src="../../images/r-step-2.png">
 <h4>University of Michigan - Sample Email to Researcher</h4>
-<img src="../images/r-step-3.png">
+<img src="../../images/r-step-3.png">
 <br>
 
 <h2> Key Ethical Considerations </h2>

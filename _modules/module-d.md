@@ -184,18 +184,18 @@ Most repository platforms like Dataverse or DSpace maintain some accessioning in
 [Dataverse minimal accessioning information]
 <br>
 
-<img src="../images/Dstep-1a.png">
-<img src="../images/Dstep-1b.png">
+<img src="../../images/Dstep-1a.png">
+<img src="../../images/Dstep-1b.png">
 <br>
 <br>
 <p>For example, ArchiveMatica as a general digital archiving platform supports fairly extensive workflow and accessioning information to track the deposit process; however, currently this platform is not readily adaptable to user-facing research data repositories.</p>
 <p>[Define image 1] ArchiveMatica accessioning record view</p>
-<img src="../images/Dstep-2.png">
+<img src="../../images/Dstep-2.png">
 <br>
 <br>
 <p>Repository services may have to set up external systems of tracking on databases or spreadsheets, usually with some manual data entry. Johns Hopkins University Data Services, for example, maintains a spreadsheet, with unique accession numbers and “package name” for datasets, as well as dates and contact information.</p>
 <p>[Define image 2] Accessioning spreadsheet</p>
-<img src="../images/Dstep-3.png">
+<img src="../../images/Dstep-3.png">
 <br>
 <br>
 <p>Other ticket-based project management tools such as JIRA can be used to capture some of the accessioning metadata while also tracking steps in the curation workflow. Examples of JIRA will be shown in the section on Service Workflow Documentation.</p>
@@ -257,13 +257,13 @@ For administering the repository, exporting and preserving record metadata as a 
 [Image - Repository metadata export, Dataverse]
 
 </p>
-<img src="../images/Dstep-4.png">
+<img src="../../images/Dstep-4.png">
 <br>
 <br>
 <p>Cornell builds a curation log for internal use partly from platform-supplied information but manually adds additional curation details, and adds the file to the download collection. This approach blends the user-facing information and administrative documentation for preservation.
 [image alt-text ] Cornell README that includes record metadata.
 </p>
-<img src="../images/Dstep-6.png">
+<img src="../../images/Dstep-6.png">
 <br>
 <br>
 <p>For repository visitors, the files they download may not necessarily include a “README” document that includes that record information, especially the crucial citation, description, authors, and terms of use. Users would not have those details as a “take away” kept with the downloaded files if they never return to the original repository collection. Depending on the repository’s deposit methods, curators may rely on researchers to supply a README. If it is feasible to supply that record summary to the depositor as a README starter, the depositor may be encouraged to add additional details about the datasets and their use. Alternatively, curators might also add such details to a README, and create one when not supplied by the depositor.
@@ -274,7 +274,7 @@ U. Michigan’s Deep Blue data repository generates README-style record document
 [Alt-text: U. Michigan record documentation accompanying dataset downloads.]
 
 </p>
-<img src="../images/Dstep-5.png">
+<img src="../../images/Dstep-5.png">
 <br>
 <br>
 <h4>Checklist for documenting repository record metadata</h4>
@@ -301,11 +301,11 @@ Cornell’s repository system includes fields for recording each change during t
 Image: Cornell provenance change logs.
 
 </p>
-<img src="../images/Dstep-7.png">
+<img src="../../images/Dstep-7.png">
 <br>
 <br>
 <p>Johns Hopkins creates a simple table in MS Word that is included with the preservation copy of the data files.</p>
-<img src="../images/Dstep-8.png">
+<img src="../../images/Dstep-8.png">
 <br>
 <br>
 <h4>Checklist for provenance log</h4>
@@ -327,16 +327,16 @@ Some digital archiving platforms such as Archivematica have built-in service wor
 For example, the Data Curation Network uses JIRA to track curation help requests.
 
 </p>
-<img src="../images/Dstep-9.png">
+<img src="../../images/Dstep-9.png">
 <br>
 <br>
 <p>Tickets or “Issues” for JIRA can be customized with fields relevant to data deposits, such as U. Michigan’s:
 </p>
-<img src="../images/Dstep-10.png">
+<img src="../../images/Dstep-10.png">
 <br>
 <br>
 <p>U. Illinois’ system also captures email exchanges:</p>
-<img src="../images/Dstep-11.png">
+<img src="../../images/Dstep-11.png">
 <br>
 <br>
 <p>Service workflow ticketing systems may not be sufficient in themselves for tracking the deposit and accessioning records of completed projects. A “distributed” approach might use JIRA in combination with other records in multiple locations, such as spreadsheets and archived Outlook email exchanges. JHU, for example, is supplementing their spreadsheet system, mentioned earlier, with JIRA tracking for in-process deposits.
@@ -361,9 +361,9 @@ Service workflow focuses on tracking the stage in the process from accession to 
 <a href="https://github.com/LibraryOfCongress/bagit-java" target="_blank">BagIt</a> is a leading digital archiving protocol that, in addition to preservation metadata, allows additional descriptive metadata files that could include accessioning and deposit records. The <a href="https://github.com/DataConservancy/dcs-packaging-tool" target="_blank">Data Conservancy Package Tool</a> developed by Johns Hopkins, for example, uses the BagIT protocol to generate a “bag-info” file packaged with data into a single TAR file for their preservation system.
 
 </p>
-<img src="../images/Dstep-12.png">
+<img src="../../images/Dstep-12.png">
 <br>
-<img src="../images/Dstep-13.png">
+<img src="../../images/Dstep-13.png">
 <br>
 <br>
 <p>Other programs like <b>ArchiveMatica</b> leverage this ability to add preservation metadata to the BagIt package. Even without such systems, it is a best practice to keep as much documentation together with preserved files, including provenance and preservation metadata, to create a more complete backup of the archive and curation process.</p>

@@ -290,7 +290,7 @@ The <a href="https://github.com/mcgrory/ExcelArchivalTool" target = "_blank"> Ex
   </li>
   <li>
   Generates a report on the archival outputs
-  <img src="../images/Tstep_EATool.png" >
+  <img src="../../images/Tstep_EATool.png" >
   </li>
 </ul>
 <br>

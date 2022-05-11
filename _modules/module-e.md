@@ -152,7 +152,7 @@ Curation is a partnership between:
 <p>
 The diagram below shows the relationship and key considerations between the curator, researcher, and repository platform and how we work together to make data more FAIR. 
 </p>
-<img src="../images/DCN_ModuleE_Figure.png">
+<img src="../../images/DCN_ModuleE_Figure.png">
 <br>
 
 <h2>&nbsp;E Step Actions</h2>

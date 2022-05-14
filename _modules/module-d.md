@@ -156,7 +156,7 @@ Throughout the deposit and curation process we are recording the significant tre
 <br>
 <h4>What is curation documentation?</h4>
 <p>
-The goal for dataset documentation is to support the long-term preservation of the data collection by recording curation activities and treatments. At minimum this involves:
+The goal for dataset documentation is to support the long-term preservation of the data collection by recording curation activities and treatments. At minimum this involves: <br>
   &nbsp;&nbsp;&nbsp;1.  Accessioning and deposit records
    <br>
   &nbsp;&nbsp;&nbsp;2.  Repository dataset record metadata
@@ -279,15 +279,15 @@ U. Michigan’s Deep Blue data repository generates README-style record document
 <br>
 <h4>Checklist for documenting repository record metadata</h4>
 If a README metadata record is generated for repository users to download with data files, essential “take away” information could include:
-<ul>
-<li>Data citation (Title, authors, date, publishing repository, DOI link)</li>
-<li>DOI or link to deposit</li>
-<li>Depositor contact information</li>
-<li>Date published</li>
-<li>Description of dataset (or associated publication abstract.)</li>
-<li>Associated publication citation and link</li>
-<li>Rights license and terms of use</li>
-<li>File list with additional description</li>
+<ul style="padding-left: 3%;">
+<li style="padding-top: 1%; padding-bottom: 0.5%;">Data citation (Title, authors, date, publishing repository, DOI link)</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">DOI or link to deposit</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Depositor contact information</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Date published</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Description of dataset (or associated publication abstract.)</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Associated publication citation and link</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Rights license and terms of use</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">File list with additional description</li>
 </ul>
 <br>
 <h4>Provenance/change logs</h4>
@@ -310,12 +310,12 @@ Image: Cornell provenance change logs.
 <br>
 <h4>Checklist for provenance log</h4>
 Checklist of essential or minimal elements to capture for the various types of metadata.
-<ul>
-<li>Deposit identifier/record name</li>
-<li>Change date</li>
-<li>Curator</li>
-<li>Action taken (description)</li>
-<li>Versioning naming convention (post publication)</li>
+<ul style="padding-left: 3%;">
+<li style="padding-top: 1%; padding-bottom: 0.5%;">Deposit identifier/record name</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Change date</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Curator</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Action taken (description)</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Versioning naming convention (post publication)</li>
 </ul>
 <br>
 <h4>Service workflow</h4>
@@ -344,15 +344,15 @@ For example, the Data Curation Network uses JIRA to track curation help requests
 </p>
 <h4>Checklist for service workflow</h4>
 Service workflow focuses on tracking the stage in the process from accession to publication/preservation. A given deposit’s “ticket” might include all or part of the deposit record metadata and accessioning information but should have relevant “at-a-glance” information which could include:
-<ul>
-<li>Deposit ID/filename</li>
-<li>Depositor</li>
-<li>Status (e.g., Intake, curating, publishing, closed)</li>
-<li>Curator (assigned to)</li>
-<li>Relevant activity dates (deposit, curate, publish)</li>
-<li>Last activity/modification date</li>
-<li>Notes</li>
-<li>Work time log (optionally)</li>
+<ul style="padding-left: 3%;">
+<li style="padding-top: 1%; padding-bottom: 0.5%;">Deposit ID/filename</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Depositor</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Status (e.g., Intake, curating, publishing, closed)</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Curator (assigned to)</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Relevant activity dates (deposit, curate, publish)</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Last activity/modification date</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Notes</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Work time log (optionally)</li>
 </ul>
 <br>
 <h4>Preservation packaging metadata</h4>
@@ -370,27 +370,26 @@ Service workflow focuses on tracking the stage in the process from accession to 
 <h4>Checklist for preservation packaging </h4>
 Much of the deposit metadata and accessioning documentation discussed so far could be preserved with the files as part of the package.
 Documentation that might be included as part of the preservation package could include:
-<ul>
-<li>Accessioning records</li>
-<li>Deposit metadata</li>
-<li>Provenance records</li>
-<li>Depositor correspondence/emails (optional)</li>
+<ul style="padding-bottom: 1%; padding-left: 3%;">
+<li style="padding-top: 1%; padding-bottom: 0.5%;">Accessioning records</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Deposit metadata</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Provenance records</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Depositor correspondence/emails (optional)</li>
 </ul>
 Special preservation metadata might include:
-<ul>
-<li>Bagit info files</li>
-<li>Md5 checksum manifest files for fixity checks</li>
-<li>Special record IDs and/or file naming for preservation packages (not used elsewhere)</li>
-<li>Versioning information for updated files.</li>
+<ul style="padding-left: 3%;">
+<li style="padding-top: 1%; padding-bottom: 0.5%;">Bagit info files</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Md5 checksum manifest files for fixity checks</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Special record IDs and/or file naming for preservation packages (not used elsewhere)</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Versioning information for updated files.</li>
 </ul>
 <br>
 <br>
 <h2>Key Ethical Considerations</h2>
-<br>
-<ul>
-<li>Document that disclosure risk review has taken place. State if changes from original data have been made, but do not give enough detail on changes to reverse-engineer any anonymization.</li>
-<li>Include consent (or waiver) and/or IRB approval of sharing with administrative documentation.</li>
-<li>Consider collecting contributor demographics.</li>
+<ul style="padding-left: 3%;">
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Document that disclosure risk review has taken place. State if changes from original data have been made, but do not give enough detail on changes to reverse-engineer any anonymization.</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Include consent (or waiver) and/or IRB approval of sharing with administrative documentation.</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Consider collecting contributor demographics.</li>
 </ul>
 <br>
 <blockquote class = "highlighted-text">
@@ -456,14 +455,13 @@ Does your preservation package include special preservation metadata such as MD5
 
 <h2>Review of the Document Step (D Step)</h2>
 This module discussed several aspects of documentation beyond what depositors provide, that help with administration and workflow of an institutional data repository. Traditional archiving and project management supplies some relevant terminology for what documentation to collect and preserve, including:
-<ul>
-<li>Accessioning records for the receiving and processing of deposits.</li>
-<li>Deposit record metadata exported from the platform.</li>
-<li>Provenance of all changes from the original dataset and post-publication updates.</li>
-<li>Workflow tracking of ongoing deposits, and optionally, correspondence, with a ticketing system or a similar project management approach.</li>
-<li>A preservation package of files and documentation including metadata specific to preservation, such as md5 fixity checksum data.</li>
+<ul style="padding-left: 3%;">
+<li style="padding-top: 1%; padding-bottom: 0.5%;">Accessioning records for the receiving and processing of deposits.</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Deposit record metadata exported from the platform.</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Provenance of all changes from the original dataset and post-publication updates.</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Workflow tracking of ongoing deposits, and optionally, correspondence, with a ticketing system or a similar project management approach.</li>
+<li style="padding-top: 0.5%; padding-bottom: 1%;">A preservation package of files and documentation including metadata specific to preservation, such as md5 fixity checksum data.</li>
 </ul>
-<br>
 <p>The exercise is an opportunity to record, develop, and potentially share documentation plans for your institutional repository.
 
 These five types of documentation could ideally be sufficient to reproduce the archive apart from its platform, as a best practice for long-term digital preservation.
@@ -472,18 +470,18 @@ These five types of documentation could ideally be sufficient to reproduce the a
 <br>
 <h2>Additional Resources</h2>
 Resources referenced in this guide and related to dataset documentation:
-<ul>
-<li>Archivematica: open-source digital preservation system [WWW Document], n.d. URL <a href="https://www.archivematica.org/en/" target="_blank">https://www.archivematica.org/en/</a> (accessed 1.13.22).
+<ul style="padding-left: 3%;">
+<li style="padding-top: 1%; padding-bottom: 0.5%;">Archivematica: open-source digital preservation system [WWW Document], n.d. URL <a href="https://www.archivematica.org/en/" target="_blank">https://www.archivematica.org/en/</a> (accessed 1.13.22).
 </li>
-<li>Atlassian, n.d. Jira | Issue & Project Tracking Software [WWW Document]. Atlassian. URL <a href="https://www.atlassian.com/software/jira" target="_blank">https://www.atlassian.com/software/jira</a> (accessed 1.13.22).</li>
-<li>Deep Blue Repositories, Univ. of Michigan Library [WWW Document], n.d. URL <a href="https://www.lib.umich.edu/collections/deep-blue-repositories" target="_blank">https://www.lib.umich.edu/collections/deep-blue-repositories</a>(accessed 1.13.22).</li>
-<li>Digital Content Transfer Tools - Digital Preservation (Library of Congress) [WWW Document], n.d. URL <a href="https://www.digitalpreservation.gov/series/challenge/data-transfer-tools.html" target="_blank">https://www.digitalpreservation.gov/series/challenge/data-transfer-tools.html</a> (accessed 1.13.22).
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Atlassian, n.d. Jira | Issue & Project Tracking Software [WWW Document]. Atlassian. URL <a href="https://www.atlassian.com/software/jira" target="_blank">https://www.atlassian.com/software/jira</a> (accessed 1.13.22).</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Deep Blue Repositories, Univ. of Michigan Library [WWW Document], n.d. URL <a href="https://www.lib.umich.edu/collections/deep-blue-repositories" target="_blank">https://www.lib.umich.edu/collections/deep-blue-repositories</a>(accessed 1.13.22).</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Digital Content Transfer Tools - Digital Preservation (Library of Congress) [WWW Document], n.d. URL <a href="https://www.digitalpreservation.gov/series/challenge/data-transfer-tools.html" target="_blank">https://www.digitalpreservation.gov/series/challenge/data-transfer-tools.html</a> (accessed 1.13.22).
 </li>
-<li>Guide to writing “README” style metadata | Cornell Research Data Management Service Group [WWW Document], n.d. URL <a href="https://data.research.cornell.edu/content/README" target="_blank">https://data.research.cornell.edu/content/README</a> (accessed 1.13.22).</li>
-<li>Kunze, J.A., 2021. Bagitspec. URL <a href="https://github.com/jkunze/bagitspec" target="_blank">https://github.com/jkunze/bagitspec</a></li>
-<li>Jones, S., Pryor, G. & Whyte, A. (2013). ‘How to Develop Research Data Management Services - a guide for HEIs’. DCC How-to Guides. Edinburgh: Digital Curation Centre. <a href="https://www.dcc.ac.uk/guidance/how-guides/how-develop-rdm-services" target="_blank">https://www.dcc.ac.uk/guidance/how-guides/how-develop-rdm-services</a> (see section on data catalogs and repositories.) </li>
-<li>The Dataverse Project - Dataverse.org [WWW Document], n.d. URL <a href="https://dataverse.org/home" target="_blank">https://dataverse.org/home</a> (accessed 1.13.22).</li>
-<li>Packaging Tool | Data Conservancy, n.d. URL <a href="https://dataconservancy.org/software/" target="_blank">https://dataconservancy.org/software/</a> (accessed 1.13.22).</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Guide to writing “README” style metadata | Cornell Research Data Management Service Group [WWW Document], n.d. URL <a href="https://data.research.cornell.edu/content/README" target="_blank">https://data.research.cornell.edu/content/README</a> (accessed 1.13.22).</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Kunze, J.A., 2021. Bagitspec. URL <a href="https://github.com/jkunze/bagitspec" target="_blank">https://github.com/jkunze/bagitspec</a></li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Jones, S., Pryor, G. & Whyte, A. (2013). ‘How to Develop Research Data Management Services - a guide for HEIs’. DCC How-to Guides. Edinburgh: Digital Curation Centre. <a href="https://www.dcc.ac.uk/guidance/how-guides/how-develop-rdm-services" target="_blank">https://www.dcc.ac.uk/guidance/how-guides/how-develop-rdm-services</a> (see section on data catalogs and repositories.) </li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">The Dataverse Project - Dataverse.org [WWW Document], n.d. URL <a href="https://dataverse.org/home" target="_blank">https://dataverse.org/home</a> (accessed 1.13.22).</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Packaging Tool | Data Conservancy, n.d. URL <a href="https://dataconservancy.org/software/" target="_blank">https://dataconservancy.org/software/</a> (accessed 1.13.22).</li>
 </ul>
 <br>
 <br>

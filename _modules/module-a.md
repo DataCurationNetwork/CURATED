@@ -29,37 +29,6 @@ img {
 </style>
 
 <blockquote class = "highlighted-text">
-  <h2>Learning Outcomes</h2>
-  <br>
-  <p>
-<b>Curators will be able to:</b><br>
-&nbsp;&nbsp;1. Evaluate metadata profiles and README documentation for discovery, access, and linkages
-   <br>
-  &nbsp;&nbsp;2. Complete metadata profiles and README documentation to enhance discovery, access, and linkages
-   <br>
-  &nbsp;&nbsp;3. Add or replace files supplemented by the depositor from the Request step and any information gathered in the Understand step.
-
-</p>
-</blockquote>
-<br>
-<h2>Summary of the Augment Step</h2>
-The Augment step in the CURATE(D) model applies to the dataset, the information gathered in the Understand step, and the feedback you’ve received from the Request step.<br>
-<br>
-There are two specific ways you may Augment the dataset and it’s documentation with:<br>
-&emsp; 1. Machine-readable metadata<br>
-&emsp; 2. Read-me files or other documentation
-<br>
-<br>
-<h2>A Step Actions</h2>
-<p>When Augmenting a dataset there are a number of areas for the curator to consider enhancing: these include strategies to improve the datasets discoverability, accessibility, and linkages through metadata and related documentation.
-</p>
-<h4>Metadata</h4>
-Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4.4/" target="_blank">DataCite Metadata Schema</a><br>
-<a href="https://schema.datacite.org/meta/kernel-4.4/doc/DataCite-MetadataKernel_v4.4.pdf" target="_blank">DataCite Metadata Profile 4.4</a>
-
-<br>
-
-<blockquote class = "highlighted-text">
 <h2>Learning Outcomes</h2>
 <b> Curators will be able to: </b>
 
@@ -225,11 +194,10 @@ Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4
 Penn State <a href="https://github.com/psu-libraries/scholarsphere/wiki/README-Guide" target="_blank">README</a>
 <br>
 Cornell <a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank">README</a>
-
-<h2>Key Ethical Considerations</h2>
-<ul>
-<li>Make sure bibliographic information reflects correct author attribution.</li>
-<li>Ensure any augmentation by the depositor to resolve ethical questions from previous steps is completed.</li>
+<h2 style="padding-top: 3%;">Key Ethical Considerations</h2>
+<ul style="padding-left: 3%;">
+<li style="padding-top: 1%; padding-bottom: 0.5%;">Make sure bibliographic information reflects correct author attribution.</li>
+<li style="padding-top: 0.5%; padding-bottom: 0.5%;">Ensure any augmentation by the depositor to resolve ethical questions from previous steps is completed.</li>
 </ul>
 <br>
 <blockquote class = "highlighted-text">

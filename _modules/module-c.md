@@ -200,8 +200,6 @@ Common things to look for during this step are the record level <b> metadata, fi
 </p>
 <br>
 
-<br>
-
 <h2>C Step Checklist</h2>
 
 <div class="flex-contianer">

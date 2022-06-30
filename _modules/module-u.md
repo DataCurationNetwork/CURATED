@@ -34,7 +34,7 @@ img {
    <br>
   &nbsp;&nbsp;&nbsp;3. Engage in an activity to practice the Understand step on the dataset identified in the previous <a href= "/CURATED/modules/module-c" target="_blank"> Check step. </a>
     <br>
-  &nbsp;&nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the <a href= "/CURATED/modules/module-r" target="_blank"> Request step: </a> Request missing information.
+  &nbsp;&nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the <a href= "/CURATED/modules/module-r" target="_blank">Request step:</a> Request missing information.
 
 </p>
 </blockquote>

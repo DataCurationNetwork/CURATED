@@ -190,11 +190,13 @@ Essential metadata elements - <a href="https://schema.datacite.org/meta/kernel-4
 <br>
 <img src="../../images/AStep-MichiganMetadata-1.png">
 <img src="../../images/AStep-MichiganMetadata-2.png">
+
 <br>
 <br>
+
 <h5>Johns Hopkins University Library</h5>
 <br>
-<img src="../../images/AStep-HopkinsMetadata.png" vspace="25">
+<img src="../../images/AStep_HopkinsMetadata.png" vspace="25">
 <br>
 <br>
 <h2>README and other Documentation</h2>

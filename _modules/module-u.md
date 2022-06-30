@@ -28,13 +28,13 @@ img {
 <br>
 <p>
 <b>Curators will be able to:</b><br>
-  &nbsp;&nbsp;&nbsp;1. Identify different terms and processes associated with the <b>U<b> nderstand step of the CURATED model.
+  &nbsp;&nbsp;&nbsp;1. Identify different terms and processes associated with the Understand step of the CURATED model.
    <br>
   &nbsp;&nbsp;&nbsp;2. Assess a dataset and its component files as a complete package.
    <br>
-  &nbsp;&nbsp;&nbsp;3. Engage in an activity to practice the <b>U<b> nderstand step on the dataset identified in the previous <a href="/CURATED/modules/module-c" target="_blank" > <b>C</b> heck step. </a>
+  &nbsp;&nbsp;&nbsp;3. Engage in an activity to practice the Understand step on the dataset identified in the previous <a href= "/CURATED/modules/module-c" target="_blank"> Check step. </a>
     <br>
-  &nbsp;&nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the <a href="/CURATED/modules/module-r" target="_blank" > <b>R<b> equest” step: </a> Request missing information. </a>
+  &nbsp;&nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the <a href= "/CURATED/modules/module-r" target="_blank"> Request step: </a> Request missing information.
 
 </p>
 </blockquote>
@@ -154,7 +154,7 @@ for (i = 0; i < coll.length; i++) {
 
 <h2>Summary of the U Step: Understand the Data Deposit</h2>
 <p>
-After <b>C</b> hecking the contents of the data deposit, the <b>U</b> nderstand step of the curation process requires a deeper dive into the individual items submitted for curation. The curator should review whether these items form a cohesive package that would allow someone other than the original researcher to be able to understand what is being presented. Perhaps the most important information to look for during this process is the presence of contextual and content-specific documentation, file dependencies, and potential ethical issues that could prohibit publishing openly in a repository.
+After Checking the contents of the data deposit, the Understand step of the curation process requires a deeper dive into the individual items submitted for curation. The curator should review whether these items form a cohesive package that would allow someone other than the original researcher to be able to understand what is being presented. Perhaps the most important information to look for during this process is the presence of contextual and content-specific documentation, file dependencies, and potential ethical issues that could prohibit publishing openly in a repository.
 
 </p>
 
@@ -162,7 +162,7 @@ After <b>C</b> hecking the contents of the data deposit, the <b>U</b> nderstand 
 <br>
 
 <h2>U Step Actions</h2>
-Below are some actions you might perform during the <b>U<b> nderstand step. Actions will vary depending on the subject matter and data type you are curating. The <a href="http://hdl.handle.net/11299/202810" target="_blank"> Data Curation Network’s Data Curation Primers </a> provide a helpful resource for better understanding new data types and formats. Primer topics cover a wide range of formats, software platforms, and data types.
+Below are some actions you might perform during the Understand step. Actions will vary depending on the subject matter and data type you are curating. The <a href= "http://hdl.handle.net/11299/202810" target="_blank"> Data Curation Network’s Data Curation Primers </a> provide a helpful resource for better understanding new data types and formats. Primer topics cover a wide range of formats, software platforms, and data types.
 
 <br>
 
@@ -202,7 +202,7 @@ Below are some actions you might perform during the <b>U<b> nderstand step. Acti
 
   <ul style="padding-top: 1%; padding-bottom: 1%; padding-left: 5%;">
     <li> Is a consent form present that allows for data sharing? </li>
-    <li> Are there any direct or indirect identifiers that could reveal the identities of those involved in the data project? If unsure, this should be a question for the data provider in the <a href="/CURATED/modules/module-r" target="_blank"> <b>R</b>equest step.</a></li>
+    <li> Are there any direct or indirect identifiers that could reveal the identities of those involved in the data project? If unsure, this should be a question for the data provider in the <a href= "/CURATED/modules/module-r" target="_blank"> Request step.</a> </li>
   </ul>
 
 </li>
@@ -279,17 +279,17 @@ Software available to open your chosen dataset and accompanying files (or abilit
 
 <p>
 <h5>README file</h5>
-<img src="../../images/UStep_README.PNG" vspace="50">
+<img src="../../images/UStep_README.PNG" vspace="25">
 
 <br>
 
 <h5>Codebook</h5>
-<img src="../../images/UStep_Codebook.PNG" vspace="50">
+<img src="../../images/UStep_Codebook.PNG" vspace="25">
 
 <br>
 
 <h5>Commented Code</h5>
-<img src="../../images/UStep_Code.PNG" vspace="50">
+<img src="../../images/UStep_Code.PNG" vspace="25">
 </p>
 
 <h4>

@@ -28,13 +28,13 @@ img {
 <br>
 <p>
 <b>Curators will be able to:</b><br>
-  &nbsp;&nbsp;&nbsp;1. Identify different terms and processes associated with   the Understand step of the CURATED model.
+  &nbsp;&nbsp;&nbsp;1. Identify different terms and processes associated with the <b>U<b>nderstand step of the CURATED model.
    <br>
   &nbsp;&nbsp;&nbsp;2. Assess a dataset and its component files as a complete package.
    <br>
-  &nbsp;&nbsp;&nbsp;3. Engage in an activity to practice the U step on the dataset identified in the previous step (Check).
+  &nbsp;&nbsp;&nbsp;3. Engage in an activity to practice the <b>U<b>nderstand step on the dataset identified in the previous <a href="/CURATED/modules/module-c" target="_blank" > <b>C</b>heck step. </a>
     <br>
-  &nbsp;&nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the R(equest) step: Request missing information.
+  &nbsp;&nbsp;&nbsp;4. Reflect on what might be necessary to enhance understanding of the data package in preparation for the <a href="/CURATED/modules/module-r" target="_blank" > <b>R<b>equest” step: </a> Request missing information.
 
 </p>
 </blockquote>
@@ -126,7 +126,7 @@ padding-right: 10px;
 </div>
 <button class="collapsible">File dependency (or dependency)</button>
 <div class="content">
-  <p><br>software code that requires the presence of certain files (file dependency) or software libraries for the program to execute. Some dependencies may require a particular version of a software code for execution.</p>
+  <p><br>Software code that requires the presence of certain files (file dependency) or software libraries for the program to execute. Some dependencies may require a particular version of a software code for execution.</p>
 </div>
 
 <script>
@@ -162,7 +162,7 @@ After <b>C</b>hecking the contents of the data deposit, the <b>U</b>nderstand st
 <br>
 
 <h2>U Step Actions</h2>
-Below are some actions you might perform during the Understand step. Actions will vary depending on the subject matter and data type you are curating. The <a href="http://hdl.handle.net/11299/202810" target="_blank"> Data Curation Network’s Data Curation Primers </a> provide a helpful resource for better understanding new data types and formats. Primer topics cover a wide range of formats and software platforms and data types.
+Below are some actions you might perform during the <b>U<b>nderstand step. Actions will vary depending on the subject matter and data type you are curating. The <a href="http://hdl.handle.net/11299/202810" target="_blank"> Data Curation Network’s Data Curation Primers </a> provide a helpful resource for better understanding new data types and formats. Primer topics cover a wide range of formats, software platforms, and data types.
 
 <br>
 
@@ -202,7 +202,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 
   <ul style="padding-top: 1%; padding-bottom: 1%; padding-left: 5%;">
     <li> Is a consent form present that allows for data sharing? </li>
-    <li> Are there any direct or indirect identifiers that could reveal the identities of those involved in the data project? If unsure, this should be a question for the data provider in the <b>R</b>equest step.  </li>
+    <li> Are there any direct or indirect identifiers that could reveal the identities of those involved in the data project? If unsure, this should be a question for the data provider in the <a href="/CURATED/modules/module-r" target="_blank"> <b>R</b>equest step.</a></li>
   </ul>
 
 </li>
@@ -224,7 +224,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 
 <h2> U Step Checklist </h2>
 <div class="flex-contianer">
-     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access Curation Checklist</a>
+     <a class="button button-primary" href= "https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access CURATE(D) Checklist</a>
 </div>
 
 <br>
@@ -247,7 +247,7 @@ Below are some actions you might perform during the Understand step. Actions wil
 <br>
 <h4>Activity option A:</h4>
 <p>
-Use the example <a href= " https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank"> data deposit </a>. These files are in Microsoft Excel and Word format.
+Use the example <a href= "https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank"> data deposit </a>. These files are in Microsoft Excel and Word format.
 </p>
 <h4>Activity option B:</h4>
 <p>
@@ -278,7 +278,18 @@ Software available to open your chosen dataset and accompanying files (or abilit
 <h4>Types of Documentation: </h4>
 
 <p>
-[Image of a README file, Codebook, Commented Code]
+<h5>README file</h5>
+<img src="../../images/UStep_README.PNG">
+
+<br>
+
+<h5>Codebook</h5>
+<img src="../../images/UStep_Codebook.PNG">
+
+<br>
+
+<h5>Commented Code</h5>
+<img src="../../images/UStep_Code.PNG">
 </p>
 
 <h4>

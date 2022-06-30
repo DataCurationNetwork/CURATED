@@ -29,7 +29,7 @@ layout: module
    <br>
   &nbsp;&nbsp;2. Check the submission for completeness based on a predefined criteria.
    <br>
-  &nbsp;&nbsp;3. Develop preliminary recommendations to be used for the “Understand” step.
+  &nbsp;&nbsp;3. Develop preliminary recommendations to be used for the <a href="/CURATED/modules/module-u" target="_blank" > “Understand” step. </a>
 
 </p>
 </blockquote>
@@ -141,7 +141,7 @@ for (i = 0; i < coll.length; i++) {
 
 <h2>Summary of the Check Step</h2>
 <p>
-The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, and metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the U (understand) Step. However, to prepare for the next step, we can start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
+The check step is the first step of the CURATED process. In this step, we take an inventory of the contents that have been submitted by the depositor, known in the <a href="https://www.oclc.org/research/publications/2000/lavoie-oais.html" target="_blank"> Open Archival Information System (OAIS) </a>  model as the<b> submission information package (SIP)</b>. The SIP will become an <b>archival information package (AIP)</b>through the process of curation and a <b>dissemination information package (DIP) </b>through its retrieval by a user. Examples of the contents for SIPs may include: data files, code files, supporting documents, and metadata. At this step we are inventorying what has been submitted and noting our initial thoughts. We’ll examine the content more closely in the <a href="/CURATED/modules/module-u" target="_blank" > “Understand” step. </a> However, to prepare for the next step, we can start opening or downloading software that will allow us to examine submission components and obtaining any resources we’ll need to help with the next step.
 
 <br>
 <br>
@@ -200,6 +200,16 @@ Common things to look for during this step are the record level <b> metadata, fi
 </p>
 <br>
 
+<br>
+
+<h2>C Step Checklist</h2>
+
+<div class="flex-contianer">
+     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access CURATE(D) Checklist</a>
+</div>
+
+<br>
+
 <h2> Key Ethical Considerations </h2>
 
 <ul style="padding-top: 2%; padding-bottom: 2%; padding-left: 5%;">
@@ -230,7 +240,7 @@ Common things to look for during this step are the record level <b> metadata, fi
 <br>
 
 <b>Directions</b><br>
-In this activity, using the checklist below, you will perform the C check on the <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">data depositt</a>. Once you have completed this activity, feel free to run the C step on another dataset of your choosing.
+In this activity, using the checklist below, you will perform the Check on the <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">data deposit</a>. Once you have completed this activity, feel free to run the C step on another dataset of your choosing.
 
 <br>
 </p>
@@ -238,12 +248,6 @@ In this activity, using the checklist below, you will perform the C check on the
 
 <br>
 
-<h2>C Step Checklist</h2>
-
-<div class="flex-contianer">
-     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access CURATE(D) Checklist</a>
-</div>
-<br>
 <table frames=hsides rules=rows>
 
 <th>C Step Number</th>
@@ -294,10 +298,9 @@ In this activity, using the checklist below, you will perform the C check on the
 <br>
 <h2>Additional Resources</h2>
 
-<h4>Tools </h4>
 <p>
 <br>
-<a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank">View some selected tools that can open a variety of data types .</a>
+View the <a href="https://docs.google.com/spreadsheets/d/1Xu2TlLePQ2jZ-ox3Ym7QBkeWPRCGX6mz7YjjKrkLyQY/edit#gid=0" target="_blank"> Data Curation Tools List.</a> to see tools that can open a variety of data types.
 </p>
 
 <style>

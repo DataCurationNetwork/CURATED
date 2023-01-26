@@ -37,7 +37,7 @@ img {
    <br>
   &nbsp;&nbsp;2. Complete metadata profiles and README documentation to enhance discovery, access, and linkages.
    <br>
-  &nbsp;&nbsp;3. Add or replace files supplemented by the depositor from the Request step and any inforamtion gathered in the Understand step.
+  &nbsp;&nbsp;3. Add or replace files supplemented by the depositor from the Request step and any information gathered in the Understand step.
   </p>
 
   <br>

@@ -158,14 +158,14 @@ The diagram below shows the relationship and key considerations between the cura
 <h2>&nbsp;E Step Actions</h2>
 <p>
   As we consider each stakeholder connection, ask yourself:
-  <li> Did curation result in stronger relationships with the depositor? (Researcher<-->Curator)</li>
-   <br>
+  <li> Did curation result in stronger relationships with the depositor? (Researcher / Curator)
   <ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 7%;">
     <li>One way to assess this is to survey authors that deposit data to your repository and ask them about their experience. Read this case study...</li>
   </ul>
+</li>
 
 <blockquote class = "highlighted-text">
-<h2> Researcher<-->Curator Case Study </h2>
+<h2> Researcher / Curator Case Study </h2>
 
 <p>
 <b>Case Study: How satisfied are depositors with our curation services? We asked them! </b>
@@ -194,7 +194,13 @@ In spring 2021, we surveyed 568 researchers who had recently deposited data into
 </blockquote>
 
   <p>
-  <li> <b>Is our repository trustworthy for end users? (Curator/Repository & Researcher/Repository):</b> Communicating the trustworthiness of your repository can be multi-faceted, as data stewards we are caring for valuable resources; however, some repository processes may not be readily apparent to end users. There have been a number of resources, principles, and process that can help us understand how to build trust including: 
+  <li> <b>Is our repository trustworthy for end users? (Curator / Repository & Researcher / Repository):</b> Communicating the trustworthiness of your repository can be multi-faceted, as data stewards we are caring for valuable resources; however, some repository processes may not be readily apparent to end users. There have been a number of resources, principles, and process that can help us understand how to build trust including: 
+    <ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 7%;">
+    <li><a href="https://doi.org/10.1038/s41597-020-0486-7" tatget = "_blank">TRUST Principles</a>: The TRUST Principles are a collaboratively developed set of principles to demonstrate the trustworthiness of digital repository and stand for <b>T</b>ransparency, <b>R</b>esponsibility, <b>U</b>ser focus, <b>S</b>ustainability, and <b>T</b>echnology.</li>
+    <li><a href="https://www.coretrustseal.org/" tatget = "_blank">CoreTrustSeal Certification</a>: The CoreTrustSeal is a peer-reviewed self-assessment that demonstrates a repository’s ability to meet 16 core criteria in areas of sustainability, organizational structure, preservation, and security.</li>
+    <li><a href="https://www.gida-global.org/care" tatget = "_blank">CARE Principles for Indigenous Data Governance</a>: The CARE Principles are people and purpose-oriented and complement the FAIR principles providing a framework for ethically working with Indigenous People’s data, they stand for <b>C</b>ollective Benefit, <b>A</b>uthority to Control, <b>R</b>esponsibility, and <b>E</b>thics.</li>
+    <li><a href="https://www.force11.org/group/research-data-publishing-ethics" tatget = "_blank">Force11 and COPE Research Data Publishing Ethics</a>: These publication workflows were developed to help repositories more consistently apply high ethical standards when issues or areas of concern related to authorship, rigor, legal and regulatory restrictions, and risk to human subjects, communities or society. </li>
+  </ul>
 </li>
 <p>
 

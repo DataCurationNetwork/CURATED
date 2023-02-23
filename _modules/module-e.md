@@ -158,9 +158,11 @@ The diagram below shows the relationship and key considerations between the cura
 <h2>&nbsp;E Step Actions</h2>
 <p>
   As we consider each stakeholder connection, ask yourself:
-  &nbsp;&nbsp;&nbsp;1.  Did curation result in stronger relationships with the depositor? (Researcher<-->Curator)
+  <li> Did curation result in stronger relationships with the depositor? (Researcher<-->Curator)</li>
    <br>
-  One way to assess this is to survey authors that deposit data to your repository and ask them about their experience. Read this case study...
+  <ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 7%;">
+    <li>One way to assess this is to survey authors that deposit data to your repository and ask them about their experience. Read this case study...</li>
+  </ul>
 
 <blockquote class = "highlighted-text">
 <h2> Researcher<-->Curator Case Study </h2>
@@ -186,11 +188,14 @@ In spring 2021, we surveyed 568 researchers who had recently deposited data into
 
   Download a <a href="https://hdl.handle.net/11299/224733" target = "_blank"> copy of the survey instrument </a> to use for your repository! 
 
-a
   Citation: Wright, Sara; Johnston, Lisa; Marsolek, Wanda; Luong, Hoa; Braxton, Susan; Lafferty-Hess, Sophia; Herndon, Joel; Carlson, Jake. (2021). Data Curation Network End User Survey 2021. Retrieved from the Data Repository for the University of Minnesota, <a href="https://doi.org/10.13020/DZQP-KS53" target = "_blank">https://doi.org/10.13020/DZQP-KS53</a>. 
 </p>
-
+</p>
 </blockquote>
+
+  <p>
+  <li> <b>Is our repository trustworthy for end users? (Curator/Repository & Researcher/Repository):</b> Communicating the trustworthiness of your repository can be multi-faceted, as data stewards we are caring for valuable resources; however, some repository processes may not be readily apparent to end users. There have been a number of resources, principles, and process that can help us understand how to build trust including: 
+</li>
 <p>
 
 <br>

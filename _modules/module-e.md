@@ -157,9 +157,35 @@ The diagram below shows the relationship and key considerations between the cura
 
 <h2>&nbsp;E Step Actions</h2>
 <p>
-  &nbsp;&nbsp;&nbsp;1.  Check data files.
+  As we consider each stakeholder connection, ask yourself:
+  &nbsp;&nbsp;&nbsp;1.  Did curation result in stronger relationships with the depositor? (Researcher<-->Curator)
    <br>
-  &nbsp;&nbsp;&nbsp;2.  Verify all metadata provided by the author and review the available documentation.
+  One way to assess this is to survey authors that deposit data to your repository and ask them about their experience. Read this case study...
+
+<blockquote class = "highlighted-text">
+<h2> Researcher<-->Curator Case Study </h2>
+
+Case Study: How satisfied are depositors with our curation services? We asked them! 
+<br>
+Members of the Data Curation Network, representing academic and non-profit data repositories, wanted to better understand how satisfied depositors were with the data curation services their data received from curation staff during the data sharing process (deposit, ingest, appraisal, curation, and publication). 
+<br>
+In spring 2021, we surveyed 568 researchers who had recently deposited data into one of 6 data repositories and asked them to consider their most recent data curation experience. Our 11-question survey received a 42% response rate with 239 valid responses. Of these:
+<br>
+<li>87% strongly agreed that they were satisfied with their curation experience </li>
+<li>75% reported that due to the curation process, changes were made to their data. For the remainder who said no changes were made, almost all said it was because no changes were needed </li>
+<li>81% strongly agreed that Data curation by their repository added value to the data sharing process </li>
+<li>98% said they would recommend this repository to a colleague </li>
+<li>The most value-add action cited by many researchers was simply having a curator take time and review the dataset, as one respondent sums up: “Feedback from someone who comes to the data/documents with fresh eyes is simply invaluable…” <li>
+  <br>
+  Download a <a href="https://hdl.handle.net/11299/224733" target = "_blank"> copy of the survey instrument </a> to use for your repository! 
+
+<p>
+
+<b>Materials Needed</b><br>
+
+For this activity you will assess a dataset for FAIRness and then recommend ways to increase the FAIRness.
+
+<br>
 
    <br>
 </p>

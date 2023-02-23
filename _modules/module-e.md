@@ -152,8 +152,61 @@ Curation is a partnership between:
 <p>
 The diagram below shows the relationship and key considerations between the curator, researcher, and repository platform and how we work together to make data more FAIR. 
 </p>
-<img src="../../images/DCN_ModuleE_Figure.png">
+<img src="../../images/EStep-Figure.png">
 <br>
+
+<h3>1: Researcher / Curator Relationship</h3>
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
+  
+  <li> Was communication with the researcher successful? Did they make/accept the recommended modifications to the dataset?</li>
+  <li> Did the expertise of the curator allow you to effectively work with the researcher’s data?</li>
+  <li> Did the researcher value the curation process?</li> </ul>
+
+<h3>2: Researcher / Repository Relationship</h3>
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
+  
+  <li> Do the features of the system/platform facilitate making the data FAIR (i.e., minting PIDs, assigning licenses, structured metadata, etc.)?</li>
+  <li> Is the technology well supported and maintained?</li>
+  <li> What standards and best practices does the repository follow? (i.e., digital preservation, etc.)</li> </ul>
+
+<h3>3: Curator / Repository Relationship</h3>
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
+  
+  <li> As a depositor/user, do I trust this repository?</li>
+  <li> Will this repository ensure my data are FAIR? How?</li>
+  <li> Is there transparency with what actions will be taken with my data?</li> </ul>
+
+<h3>FAIR Data</h3>
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
+  
+  <li> An important end goal of data sharing and data curation is data that are: 
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 7%;">
+  <li>Findable: To be findable (F) or discoverable, data and metadata should be richly described to enable attribute-based search</li>
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 9%;">
+  <li>(meta)data are assigned a globally unique and eternally persistent identifier</li>
+  <li>data are described with rich metadata</li>
+  <li>(meta)data are registered or indexed in a searchable resource</li>
+  <li>metadata specify the data identifier</li></ul>
+<li>Accessible: To be broadly accessible (A), data and metadata should be retrievable in a variety of formats that are sensible to humans and machines using persistent identifiers</li>
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 9%;">
+  <li>(meta)data are retrievable by their identifier using a standardized communications protocol</li>
+  <li>the protocol is open, free, and universally implementable</li>
+  <li>the protocol allows for an authentication and authorization procedure, where necessary</li>
+  <li>metadata are accessible, even when the data are no longer available</li></ul>
+<li>Interoperable: To be interoperable (I), the description of metadata elements should follow community guidelines that use an open, well defined vocabulary.</li>
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 9%;">
+  <li>(meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation</li>
+  <li>(meta)data use vocabularies that follow FAIR principles</li>
+  <li>(meta)data include qualified references to other (meta)data</li></ul>
+<li>Reusable: To be reusable (R), the description of essential, recommended, and optional metadata elements should be machine processable and verifiable, use should be easy and data should be citable to sustain data sharing and recognize the value of data.</li>
+<ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 9%;">
+  <li>(meta)data have a plurality of accurate and relevant attributes</li>
+  <li>(meta)data are released with a clear and accessible data usage license</li>
+  <li>(meta)data are associated with their provenance</li>
+  <li>(meta)data meet domain-relevant community standards</li></ul>
+</ul>
+</ul>
+<p>Source: https://www.force11.org/fairprinciples</p>
 
 <h2>&nbsp;E Step Actions</h2>
 <p>

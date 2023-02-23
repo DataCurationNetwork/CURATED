@@ -157,6 +157,7 @@ The diagram below shows the relationship and key considerations between the cura
 
 <h2>&nbsp;E Step Actions</h2>
 <p>
+  <ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">
   As we consider each stakeholder connection, ask yourself:
   <li> Did curation result in stronger relationships with the depositor? (Researcher / Curator)
   <ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 7%;">
@@ -201,7 +202,20 @@ In spring 2021, we surveyed 568 researchers who had recently deposited data into
     <li><a href="https://www.gida-global.org/care" tatget = "_blank">CARE Principles for Indigenous Data Governance</a>: The CARE Principles are people and purpose-oriented and complement the FAIR principles providing a framework for ethically working with Indigenous People’s data, they stand for <b>C</b>ollective Benefit, <b>A</b>uthority to Control, <b>R</b>esponsibility, and <b>E</b>thics.</li>
     <li><a href="https://www.force11.org/group/research-data-publishing-ethics" tatget = "_blank">Force11 and COPE Research Data Publishing Ethics</a>: These publication workflows were developed to help repositories more consistently apply high ethical standards when issues or areas of concern related to authorship, rigor, legal and regulatory restrictions, and risk to human subjects, communities or society. </li>
   </ul>
+  <li>Did this curation result in reuse of the data? (FAIR data): We may also consider when evaluating the success of our curation quantitative or qualitative metrics for reuse (i.e., citations, download statistics). However, doing this in practice can be tricky. Some interesting research in this space you might want to explore include: 
+     <ul style=" padding-top: 1%; padding-bottom: 1%;padding-left: 7%;">
+      <li>Hemphill, L., Pienta, A., Lafia, S., Akmon, D., & Bleckley, D. (2021). How do properties of data, their curation, and their funding relate to reuse? <a href="https://doi.org/10.1002/asi.24646" tatget = "_blank">https://doi.org/10.1002/asi.24646</a></li>
+      <li>Faniel, I. M., Frank, R. D., & Yakel, E. (2019). Context from the data reuser’s point of view. Journal of Documentation, 75(6), 1274–1297. <a href="https://doi.org/10.1108/JD-08-2018-0133" tatget = "_blank">https://doi.org/10.1108/JD-08-2018-0133</a></li>
+      <li>Federer, L. (2020). Measuring and Mapping Data Reuse: Findings From an Interactive Workshop on Data Citation and Metrics for Data Reuse. Harvard Data Science Review, 2(2). <a href="https://doi.org/10.1162/99608f92.ccd17b00" tatget = "_blank">https://doi.org/10.1162/99608f92.ccd17b00</a></li>
+      <li><a href="https://makedatacount.org/" tatget = "_blank">Make Data Count</a>: Make Data Count is a global, community-led initiative focused on the development of open research data assessment metrics. The principles of our social and technical infrastructure are rooted in transparency and accessibility.</li>
+    </ul> </li>
+
+<li>Did curation result in FAIR data? (FAIR data)</li>
+
+
 </li>
+</p>
+</ul>
 <p>
 
 <br>

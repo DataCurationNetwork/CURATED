@@ -166,31 +166,32 @@ The diagram below shows the relationship and key considerations between the cura
 <h2> Researcher<-->Curator Case Study </h2>
 
 <p>
-Case Study: How satisfied are depositors with our curation services? We asked them! 
+<b>Case Study: How satisfied are depositors with our curation services? We asked them! </b>
 
-<br>
+<p>
 Members of the Data Curation Network, representing academic and non-profit data repositories, wanted to better understand how satisfied depositors were with the data curation services their data received from curation staff during the data sharing process (deposit, ingest, appraisal, curation, and publication). 
 
-<br>
+<p>
 In spring 2021, we surveyed 568 researchers who had recently deposited data into one of 6 data repositories and asked them to consider their most recent data curation experience. Our 11-question survey received a 42% response rate with 239 valid responses. Of these:
 
-<br>
+</p>
+</p>
+<p>
 <li>87% strongly agreed that they were satisfied with their curation experience </li>
 <li>75% reported that due to the curation process, changes were made to their data. For the remainder who said no changes were made, almost all said it was because no changes were needed </li>
 <li>81% strongly agreed that Data curation by their repository added value to the data sharing process </li>
 <li>98% said they would recommend this repository to a colleague </li>
 <li>The most value-add action cited by many researchers was simply having a curator take time and review the dataset, as one respondent sums up: “Feedback from someone who comes to the data/documents with fresh eyes is simply invaluable…” </li>
-
+<br>
 
   Download a <a href="https://hdl.handle.net/11299/224733" target = "_blank"> copy of the survey instrument </a> to use for your repository! 
+
+a
+  Citation: Wright, Sara; Johnston, Lisa; Marsolek, Wanda; Luong, Hoa; Braxton, Susan; Lafferty-Hess, Sophia; Herndon, Joel; Carlson, Jake. (2021). Data Curation Network End User Survey 2021. Retrieved from the Data Repository for the University of Minnesota, <a href="https://doi.org/10.13020/DZQP-KS53" target = "_blank">https://doi.org/10.13020/DZQP-KS53</a>. 
 </p>
 
 </blockquote>
 <p>
-
-<b>Materials Needed</b><br>
-
-For this activity you will assess a dataset for FAIRness and then recommend ways to increase the FAIRness.
 
 <br>
 

@@ -205,8 +205,8 @@ The diagram below shows the relationship and key considerations between the cura
   <li>(meta)data are associated with their provenance</li>
   <li>(meta)data meet domain-relevant community standards</li></ul>
 </ul>
-</ul>
-<p>Source: https://www.force11.org/fairprinciples</p>
+
+<p>Source: <a href="https://www.force11.org/fairprinciples" target = "_blank">https://www.force11.org/fairprinciples</a></p>
 
 <h2>&nbsp;E Step Actions</h2>
 <p>

@@ -12,6 +12,7 @@ bodyClass: "page-home"
 }
   .wrapper{
     position: relative;
+    background-color:#001227;
   }
 </style>
 
@@ -23,14 +24,7 @@ bodyClass: "page-home"
       <div class= "text">
          {{ content }}
       </div>
-
-      {% if page.intro_image %}
-      <div class= "p-0 m-0 b-0">
-        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_relative %} intro-image-relative{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
-      </div>
-
-      {% endif %}
-
+      
     </div>
   </div>
 </div>

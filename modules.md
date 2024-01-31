@@ -8,7 +8,7 @@ permalink: "/modules/"
 <b>Note: This training and associated CURATE(D) model are teaching and research tools that are presented and best understood sequentially. However, you can use this navigation to jump to a particular module by clicking on the title of a module.</b>
 <br>
 <br>
-&emsp; * Module activities will require access to the example <a href="https://drive.google.com/drive/folders/1aWTQYpEQ4GBzh4KnUK5u6uEKjqKrPVTv?usp=sharing" target="_blank">Data deposit</a>.
+&emsp; * Module activities will require access to the example <a href="https://github.com/DataCurationNetwork/CURATED/tree/main/data-deposit" target="_blank">Data deposit</a>.
 <br>
 <br>
 

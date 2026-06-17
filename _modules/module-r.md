@@ -77,6 +77,11 @@ There are four main goals of the R step:
 
 <br>
 
+<h2> R Step Checklist </h2>
+<div class="flex-contianer">
+     <a class="button button-primary" href= "https://z.umn.edu/curate" target = "_blank"> Access CURATE(D) Checklist</a>
+</div>
+
 <h2>R Step Actions</h2>
 
 <ol style=" padding-top: 1%; padding-bottom: 1%;padding-left: 5%;">

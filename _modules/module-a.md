@@ -64,7 +64,13 @@ There are two specific ways you may Augment the dataset and it's documentation w
 
  <br>
 
+<h2> A Step Checklist </h2>
+<div class="flex-contianer">
+     <a class="button button-primary" href= "https://z.umn.edu/curate" target = "_blank"> Access CURATE(D) Checklist</a>
+</div>
+
 <h2>A Step Actions</h2>
+
 <p>
 When Augmenting a dataset there are a number of areas for the curator to consider enhancing: these include strategies to improve the datasets discoverability, accessibility, and linkages through metadata and related documentation.
 

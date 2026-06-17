@@ -146,11 +146,16 @@ for (i = 0; i < coll.length; i++) {
 <br>
 <br>
 
-<h2>Summary of the Check Step</h2>
+<h2>Summary of the Documentation Step</h2>
 <p>
 Throughout the deposit and curation process we are recording the significant treatments or actions applied to the submission. This is distinct from documentation the depositors created to accompany their own datasets. Archives and repositories should document records of the collection’s accession, progress as a project, changes made by curators from the original data submission, and preservation documentation.
 <br>
 <br>
+
+<h2> D Step Checklist </h2>
+<div class="flex-contianer">
+     <a class="button button-primary" href= "https://z.umn.edu/curate" target = "_blank"> Access CURATE(D) Checklist</a>
+</div>
 
 <h2>&nbsp;D Step Actions</h2>
 <br>

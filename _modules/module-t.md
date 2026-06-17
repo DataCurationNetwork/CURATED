@@ -236,10 +236,9 @@ or Transformations</h4></th>
 <br>
 <br>
 
-<h2>T Step Checklist</h2>
-
+<h2> T Step Checklist </h2>
 <div class="flex-contianer">
-     <a class="button button-primary" href="https://docs.google.com/document/d/1RWt2obXOOeJRRFmVo9VAkl4h41cL33Zm5YYny3hbPZ8/edit" target = "_blank"> Access Curation Checklist</a>
+     <a class="button button-primary" href= "https://z.umn.edu/curate" target = "_blank"> Access CURATE(D) Checklist</a>
 </div>
 
 <br>
